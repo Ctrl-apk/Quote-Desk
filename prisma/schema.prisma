@@ -1,0 +1,245 @@
+// Quote desk data model.
+// Money is Decimal (never Float). Rate tables are append-only: see the
+// rate_immutability migration, which blocks UPDATE and DELETE at the database.
+
+generator client {
+  provider   = "prisma-client-js"
+  engineType = "client" // Rust-free client: queries run through the pg driver adapter (see src/server/db.ts)
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+enum Role {
+  estimator
+  sales_head
+}
+
+enum RfqStatus {
+  estimating
+  sent
+  won
+  lost
+}
+
+enum QuoteStatus {
+  draft
+  pending_approval
+  approved
+  rejected
+  ready_to_send
+  sent
+}
+
+enum FieldSource {
+  email
+  excel
+  title_block
+  manual
+}
+
+model User {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  name         String
+  passwordHash String
+  role         Role
+  createdAt    DateTime @default(now())
+
+  rfqs              Rfq[]
+  quotesCreated     Quote[]        @relation("QuoteCreator")
+  quotesDecided     Quote[]        @relation("QuoteApprover")
+  materialRatesMade RateMaterial[]
+  machineRatesMade  RateMachine[]
+  overheadRatesMade RateOverhead[]
+  auditEntries      AuditLog[]
+}
+
+model Customer {
+  id   String @id @default(cuid())
+  name String @unique
+  rfqs Rfq[]
+}
+
+model Rfq {
+  id          String    @id @default(cuid())
+  rfqNo       String    @unique
+  customerId  String
+  ownerId     String
+  status      RfqStatus @default(estimating)
+  lostReason  String? // required when status = lost (DB CHECK + service rule)
+  dueDate     DateTime  @db.Date
+  sourceEmail String?   @db.Text // pasted RFQ email, kept for traceability
+  createdAt   DateTime  @default(now())
+
+  customer Customer @relation(fields: [customerId], references: [id])
+  owner    User     @relation(fields: [ownerId], references: [id])
+  parts    Part[]
+
+  @@index([ownerId, status])
+  @@index([status, dueDate])
+  @@index([customerId])
+}
+
+model Part {
+  id            String   @id @default(cuid())
+  rfqId         String
+  name          String
+  partNumber    String? // optional, 1-40 chars (DB CHECK)
+  drawingRef    String? // optional, 1-60 chars (DB CHECK)
+  materialCode  String?
+  grossWeightKg Decimal? @db.Decimal(10, 4)
+  netWeightKg   Decimal? @db.Decimal(10, 4)
+  annualVolume  Int?
+  // ASSUMPTION: one-off setup and tooling are entered per part and amortised over each volume tier.
+  setupCost     Decimal  @default(0) @db.Decimal(14, 2)
+  toolingCost   Decimal  @default(0) @db.Decimal(14, 2)
+
+  rfq     Rfq           @relation(fields: [rfqId], references: [id], onDelete: Cascade)
+  routing RoutingStep[]
+  fields  PartField[]
+  quotes  Quote[]
+
+  @@index([rfqId])
+  @@index([materialCode])
+}
+
+// Provenance for every pre-filled value on a part.
+// Costing cannot be submitted while any row has aiFilled = true and accepted = false.
+model PartField {
+  id       String      @id @default(cuid())
+  partId   String
+  field    String // 'materialCode' | 'grossWeightKg' | 'netWeightKg' | 'annualVolume'
+  source   FieldSource
+  aiFilled Boolean     @default(false)
+  accepted Boolean     @default(false) // manual entries are written as accepted = true
+
+  part Part @relation(fields: [partId], references: [id], onDelete: Cascade)
+
+  @@unique([partId, field])
+  @@index([partId, aiFilled, accepted])
+}
+
+model RoutingStep {
+  id                       String  @id @default(cuid())
+  partId                   String
+  seq                      Int
+  operation                String
+  machineCode              String // looked up in RateMachine by code and quote date
+  cycleTimeMin             Decimal @db.Decimal(8, 3)
+  suggestedFromPastQuoteId String? // set only when the estimator explicitly adopts a suggestion
+
+  part Part @relation(fields: [partId], references: [id], onDelete: Cascade)
+
+  @@unique([partId, seq])
+}
+
+// ---- Versioned rate tables: append-only, one row per (code, effectiveFrom) ----
+
+model RateMaterial {
+  id                 String   @id @default(cuid())
+  materialCode       String
+  ratePerKg          Decimal  @db.Decimal(12, 4)
+  scrapRecoveryPerKg Decimal  @db.Decimal(12, 4)
+  effectiveFrom      DateTime @db.Date
+  createdById        String
+  createdAt          DateTime @default(now())
+
+  createdBy User @relation(fields: [createdById], references: [id])
+
+  @@unique([materialCode, effectiveFrom])
+}
+
+model RateMachine {
+  id            String   @id @default(cuid())
+  machineCode   String
+  hourRate      Decimal  @db.Decimal(12, 2)
+  efficiency    Decimal  @db.Decimal(5, 4) // 0 < efficiency <= 1
+  effectiveFrom DateTime @db.Date
+  createdById   String
+  createdAt     DateTime @default(now())
+
+  createdBy User @relation(fields: [createdById], references: [id])
+
+  @@unique([machineCode, effectiveFrom])
+}
+
+model RateOverhead {
+  id            String   @id @default(cuid())
+  category      String   @default("STANDARD")
+  percent       Decimal  @db.Decimal(6, 3)
+  effectiveFrom DateTime @db.Date
+  createdById   String
+  createdAt     DateTime @default(now())
+
+  createdBy User @relation(fields: [createdById], references: [id])
+
+  @@unique([category, effectiveFrom])
+}
+
+model Quote {
+  id               String      @id @default(cuid())
+  partId           String
+  version          Int
+  status           QuoteStatus @default(draft)
+  quotedOn         DateTime    @db.Date // the date used for rate lookup
+  inputs           Json // scrap %, overhead %, packing, freight, margin %, GST %, routing
+  ratesSnapshot    Json // values of every rate used, as strings
+  rateRowIds       Json // { materials: [...], machines: [...], overhead: [...] }
+  volumeTiers      Json // computed 0.5x / 1x / 1.5x results
+  annualValue      Decimal     @db.Decimal(16, 2) // excludes GST, 1x tier
+  requiresApproval Boolean
+  approverId       String?
+  approvalComment  String?
+  decidedAt        DateTime?
+  createdById      String
+  createdAt        DateTime    @default(now())
+
+  part      Part  @relation(fields: [partId], references: [id], onDelete: Cascade)
+  createdBy User  @relation("QuoteCreator", fields: [createdById], references: [id])
+  approver  User? @relation("QuoteApprover", fields: [approverId], references: [id])
+
+  @@unique([partId, version])
+  @@index([status])
+  @@index([createdById])
+}
+
+// Imported historical quotes, used for routing suggestions and search.
+model PastQuote {
+  id            String   @id @default(cuid())
+  importKey     String   @unique // hash of customer|part|material|quoteRef|quotedOn, makes re-upload idempotent
+  customer      String
+  partName      String
+  partNumber    String? // optional column in the import file
+  materialCode  String
+  grossWeightKg Decimal  @db.Decimal(10, 4)
+  routing       Json // [{ operation, machineCode, cycleTimeMin }]
+  pricePerUnit  Decimal  @db.Decimal(12, 2)
+  quoteRef      String
+  quotedOn      DateTime @db.Date
+
+  @@index([materialCode, grossWeightKg])
+  @@index([partName])
+  @@index([customer])
+  @@index([partNumber])
+  @@index([quotedOn])
+  @@index([quoteRef])
+}
+
+model AuditLog {
+  id       String   @id @default(cuid())
+  userId   String?
+  action   String
+  entity   String
+  entityId String
+  meta     Json?
+  at       DateTime @default(now())
+
+  user User? @relation(fields: [userId], references: [id])
+
+  @@index([entity, entityId])
+  @@index([at])
+}

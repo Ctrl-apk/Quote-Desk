@@ -1,0 +1,36 @@
+customer,part_name,material,gross_weight_kg,routing,price_per_unit,quote_ref,quoted_on
+Company C,Rear wheel spindle,EN8,0.5200,Turning:CNC-T1:2.800;Drilling:DRL-1:0.600,91.00,Q-2506-101,2025-06-08
+Company D,Front axle pin,EN8,0.5500,Turning:CNC-T1:2.900;Drilling:DRL-1:0.650,96.25,Q-2511-102,2025-11-15
+Company E,Brake cam shaft,EN8,0.5800,Turning:CNC-T1:3.000;Drilling:DRL-1:0.700,101.50,Q-2604-103,2026-04-22
+Company G,Clutch lever pin,EN8,0.6100,Turning:CNC-T1:3.100;Drilling:DRL-1:0.750,106.75,Q-2509-104,2025-09-02
+Company B,Kick shaft,EN8,0.6400,Turning:CNC-T1:3.200;Drilling:DRL-1:0.800,112.00,Q-2502-105,2025-02-09
+Company C,Gear shift spindle,EN8,0.6700,Turning:CNC-T1:3.300;Drilling:DRL-1:0.850,117.25,Q-2607-106,2026-07-16
+Company B,Brake lever pin,,0.4100,Turning:CNC-T1:2.5,72.10,Q-2602-901,2026-02-10
+Company D,Wheel hub spindle,EN8,0.7000,Turning:CNC-T1:3.400;Drilling:DRL-1:0.900,122.50,Q-2512-107,2025-12-23
+Company E,Steering stem pin,EN8,0.7300,Turning:CNC-T1:3.500;Drilling:DRL-1:0.950,127.75,Q-2505-108,2025-05-03
+Company G,Rocker arm pin,EN8,0.7600,Turning:CNC-T1:3.600;Drilling:DRL-1:1.000,133.00,Q-2510-109,2025-10-10
+Company B,Cam follower pin,EN8,0.7900,Turning:CNC-T1:3.700;Drilling:DRL-1:1.050,138.25,Q-2503-110,2025-03-17
+Company C,Hydraulic lift arm,40Cr4,4.1000,Machining:VMC-1:10.200;Drilling:DRL-1:1.200,615.00,Q-2508-111,2025-08-24
+Company D,Lift link arm,40Cr4,4.3000,Machining:VMC-1:10.700;Drilling:DRL-1:1.300,645.00,Q-2601-112,2026-01-04
+Company C,Lift pivot arm,40Cr4,heavy,Machining:VMC-1:10.5,640.00,Q-2603-902,2026-03-12
+Company E,Draft control arm,40Cr4,4.5000,Machining:VMC-1:11.200;Drilling:DRL-1:1.400,675.00,Q-2506-113,2025-06-11
+Company G,Steering knuckle arm,40Cr4,4.7000,Machining:VMC-1:11.700;Drilling:DRL-1:1.500,705.00,Q-2511-114,2025-11-18
+Company B,Axle housing arm,40Cr4,4.9000,Machining:VMC-1:12.200;Drilling:DRL-1:1.600,735.00,Q-2604-115,2026-04-25
+Company C,Hitch support arm,40Cr4,5.1000,Machining:VMC-1:12.700;Drilling:DRL-1:1.700,765.00,Q-2509-116,2025-09-05
+Company D,Tie rod arm,40Cr4,5.3000,Machining:VMC-1:13.200;Drilling:DRL-1:1.800,795.00,Q-2502-117,2025-02-12
+Company E,Pivot lever arm,40Cr4,5.5000,Machining:VMC-1:13.700;Drilling:DRL-1:1.900,825.00,Q-2607-118,2026-07-19
+Company D,Idler gear blank,20MnCr5,1.3500,Turning:CNC-T2:4.4,-215.00,Q-2604-903,2026-04-09
+Company G,Gear blank,20MnCr5,1.3000,Turning:CNC-T2:4.200;Grinding:GRD-1:1.000,208.00,Q-2512-119,2025-12-26
+Company B,Pinion blank,20MnCr5,1.3800,Turning:CNC-T2:4.400;Grinding:GRD-1:1.100,220.80,Q-2505-120,2025-05-06
+Company C,Crown gear blank,20MnCr5,1.4600,Turning:CNC-T2:4.600;Grinding:GRD-1:1.200,233.60,Q-2510-121,2025-10-13
+Company D,Transmission gear blank,20MnCr5,1.5400,Turning:CNC-T2:4.800;Grinding:GRD-1:1.300,246.40,Q-2503-122,2025-03-20
+Company E,Counter gear blank,20MnCr5,1.6200,Turning:CNC-T2:5.000;Grinding:GRD-1:1.400,259.20,Q-2508-123,2025-08-27
+Company G,Idler gear blank,20MnCr5,1.7000,Turning:CNC-T2:5.200;Grinding:GRD-1:1.500,272.00,Q-2601-124,2026-01-07
+Company E,Footrest pin,EN8,0.2200,Turning:CNC-T3:2.0,66.00,Q-2605-904,31/02/2026
+Company B,Sprocket blank,20MnCr5,1.7800,Turning:CNC-T2:5.400;Grinding:GRD-1:1.600,284.80,Q-2506-125,2025-06-14
+Company C,Cluster gear blank,20MnCr5,1.8600,Turning:CNC-T2:5.600;Grinding:GRD-1:1.700,297.60,Q-2511-126,2025-11-21
+Company D,Throttle cable bracket,EN8,0.1500,Turning:CNC-T3:1.800,45.00,Q-2604-127,2026-04-01
+Company E,Mirror stay bracket,EN8,0.1800,Turning:CNC-T3:1.950,54.00,Q-2509-128,2025-09-08
+Company G,Chain guard bracket,EN8,0.2100,Turning:CNC-T3:2.100,63.00,Q-2502-129,2025-02-15
+Company B,Footrest bracket,EN8,0.2400,Turning:CNC-T3:2.250,72.00,Q-2607-130,2026-07-22
+Company G,Kick starter shaft,EN8,0.6100,Turning-CNC-T1-3.0,106.00,Q-2606-905,2026-06-18

@@ -1,0 +1,48 @@
+/*
+ * Design tokens: the single source of truth for colour, radius and focus.
+ * Components use them through Tailwind utilities (bg-primary, text-muted-foreground, ...),
+ * mapped once in globals.css, and never hard-code values.
+ *
+ * Identity: forest green (primary), warm ivory (surfaces) and copper (accent, focus, highlights).
+ * Layout and component patterns come from the Gridline Dashboard by Watermelon UI (MIT, see
+ * THIRD_PARTY_NOTICES.md); only the palette is our own. Contrast, measured against WCAG:
+ *   white on forest #1f4d3a 9.6:1 | text on ivory 15.9:1 | muted on ivory 6.7:1
+ *   copper #9a4f24 on ivory 5.5:1 (text) | warning on its tint 8.0:1
+ * The lighter copper #c8743a is decorative only (focus ring, dots), never carries text.
+ */
+:root {
+  --background: #faf6ec; /* warm ivory */
+  --foreground: #1d1b16;
+  --card: #fffdf7;
+  --card-foreground: #1d1b16;
+  --popover: #fffdf7;
+  --popover-foreground: #1d1b16;
+
+  --primary: #1f4d3a; /* forest green */
+  --primary-foreground: #ffffff;
+  --brand: #c8743a; /* copper, decorative only */
+
+  --secondary: #f1ead8;
+  --secondary-foreground: #2a261d;
+  --muted: #f1ead8;
+  --muted-foreground: #5c564a;
+  --accent: #efe6d0;
+  --accent-foreground: #2a261d;
+  --copper: #9a4f24; /* copper as text or fill with white text */
+
+  --destructive: #b42318;
+  --warning: #7c3410;
+  --warning-soft: #fdf0e3;
+  --success: #1f6b3a;
+  --success-soft: #e8f3ea;
+
+  --border: #e4dcc8;
+  --input: #d3c9b0;
+  --ring: #c8743a;
+
+  --sidebar: #f3eddc;
+  --sidebar-foreground: #1d1b16;
+  --sidebar-border: #e4dcc8;
+
+  --radius: 0.625rem;
+}

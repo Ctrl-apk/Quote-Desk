@@ -1,0 +1,1401 @@
+customer,part_name,part_number,material,gross_weight_kg,routing,price_per_unit,quote_ref,quoted_on
+Synthetic Customer 09,Coupling 1085,SYN-P-01085,20MnCr5,3.5322,Milling:VMC-1:11.2;Drilling:DRL-1:9.7;Grinding:GRD-1:8.4,345.44,SYN-2411-1085,2024-11-27
+Synthetic Customer 10,Lift arm 0623,SYN-P-00623,20MnCr5,4.6212,Grinding:GRD-1:5.8,441.60,SYN-2608-0623,2026-08-08
+Synthetic Customer 12,Coupling 1082,SYN-P-01082,C45,6.8407,Drilling:DRL-1:8.3;Grinding:GRD-1:4.3;Turning:CNC-T1:10.4,601.99,SYN-2605-1082,2026-05-06
+Synthetic Customer 04,Lift arm 1238,SYN-P-01238,40Cr4,6.8731,Drilling:DRL-1:1.4;Grinding:GRD-1:4.2;Turning:CNC-T1:9.3,614.48,SYN-2608-1238,2026-08-07
+Synthetic Customer 03,Axle shaft 0029,SYN-P-00029,20MnCr5,5.5035,Milling:VMC-1:3.2,506.39,SYN-2502-0029,2025-02-27
+Synthetic Customer 11,Axle shaft 0357,SYN-P-00357,C45,0.3703,Milling:VMC-1:10.4;Drilling:DRL-1:9.5;Grinding:GRD-1:8.3,55.73,SYN-2412-0357,2024-12-22
+Synthetic Customer 10,Bush 0933,SYN-P-00933,EN8,7.9878,Milling:VMC-1:2.5,728.49,SYN-2602-0933,2026-02-26
+Synthetic Customer 12,Brake pin 1067,SYN-P-01067,C45,3.6654,Grinding:GRD-1:10.3;Turning:CNC-T1:0.7,369.57,SYN-2506-1067,2025-06-05
+Synthetic Customer 03,Lift arm 0995,SYN-P-00995,C45,7.4091,Grinding:GRD-1:11.0;Turning:CNC-T1:1.9,650.18,SYN-2412-0995,2024-12-28
+Synthetic Customer 08,Bush 1207,SYN-P-01207,20MnCr5,1.2200,Grinding:GRD-1:1.7,155.96,SYN-2411-1207,2024-11-24
+Synthetic Customer 07,Axle shaft 1055,SYN-P-01055,40Cr4,0.8336,Grinding:GRD-1:7.1;Turning:CNC-T1:5.6;Milling:VMC-1:7.7,112.48,SYN-2611-1055,2026-11-18
+Synthetic Customer 05,Bush 0204,SYN-P-00204,20MnCr5,4.2109,Turning:CNC-T1:1.5;Milling:VMC-1:9.9;Drilling:DRL-1:10.2,411.48,SYN-2508-0204,2025-08-21
+Synthetic Customer 05,Spindle 0677,SYN-P-00677,40Cr4,2.6974,Milling:VMC-1:4.7;Drilling:DRL-1:6.4;Grinding:GRD-1:8.9,268.11,SYN-2505-0677,2025-05-27
+Synthetic Customer 08,Gear blank 0570,SYN-P-00570,40Cr4,7.5133,Drilling:DRL-1:4.6;Grinding:GRD-1:3.6;Turning:CNC-T1:4.6,667.08,SYN-2411-0570,2024-11-28
+Synthetic Customer 03,Pinion 0738,SYN-P-00738,EN19,4.3045,Drilling:DRL-1:7.5;Grinding:GRD-1:7.4,403.54,SYN-2609-0738,2026-09-10
+Synthetic Customer 05,Gear blank 0048,SYN-P-00048,40Cr4,2.6680,Turning:CNC-T1:9.4;Milling:VMC-1:9.9;Drilling:DRL-1:8.6,269.57,SYN-2404-0048,2024-04-15
+Synthetic Customer 01,Gear blank 1180,SYN-P-01180,20MnCr5,1.3865,Turning:CNC-T1:1.7,143.70,SYN-2611-1180,2026-11-14
+Synthetic Customer 01,Bush 0561,SYN-P-00561,C45,2.3096,Milling:VMC-1:6.2,243.95,SYN-2607-0561,2026-07-28
+Synthetic Customer 11,Coupling 1224,SYN-P-01224,20MnCr5,0.3354,Turning:CNC-T1:5.7;Milling:VMC-1:2.2;Drilling:DRL-1:6.8,54.41,SYN-2505-1224,2025-05-16
+Synthetic Customer 12,Brake pin 0065,SYN-P-00065,20MnCr5,0.7602,Milling:VMC-1:4.9;Drilling:DRL-1:2.4;Grinding:GRD-1:8.7,93.99,SYN-2504-0065,2025-04-09
+Synthetic Customer 05,Spindle 0580,SYN-P-00580,EN8,1.1233,Turning:CNC-T1:2.3;Milling:VMC-1:2.9;Drilling:DRL-1:10.1,145.85,SYN-2604-0580,2026-04-13
+Synthetic Customer 08,Hub flange 0767,SYN-P-00767,40Cr4,3.6818,Grinding:GRD-1:4.9,371.76,SYN-2508-0767,2025-08-04
+Synthetic Customer 03,Lift arm 0448,SYN-P-00448,EN8,2.7354,Turning:CNC-T1:8.0,257.23,SYN-2602-0448,2026-02-08
+Synthetic Customer 03,Coupling 0602,SYN-P-00602,EN19,0.8123,Drilling:DRL-1:6.0;Grinding:GRD-1:3.4;Turning:CNC-T1:11.2,115.44,SYN-2503-0602,2025-03-25
+Synthetic Customer 02,Gear blank 1233,SYN-P-01233,C45,2.1557,Milling:VMC-1:1.8;Drilling:DRL-1:11.3,209.28,SYN-2508-1233,2025-08-28
+Synthetic Customer 10,Brake pin 0015,SYN-P-00015,C45,2.7039,Grinding:GRD-1:3.3;Turning:CNC-T1:5.0;Milling:VMC-1:7.9,284.89,SYN-2512-0015,2025-12-02
+Synthetic Customer 01,Spindle 0108,SYN-P-00108,EN8,0.9731,Turning:CNC-T1:11.3;Milling:VMC-1:6.1;Drilling:DRL-1:5.6,126.09,SYN-2409-0108,2024-09-16
+Synthetic Customer 06,Axle shaft 0701,SYN-P-00701,20MnCr5,2.7640,Milling:VMC-1:10.4;Drilling:DRL-1:7.1;Grinding:GRD-1:7.8,284.05,SYN-2508-0701,2025-08-03
+Synthetic Customer 10,Spindle 0668,SYN-P-00668,C45,1.7354,Turning:CNC-T1:1.8;Milling:VMC-1:9.7;Drilling:DRL-1:8.3,184.72,SYN-2509-0668,2025-09-13
+Synthetic Customer 09,Hub flange 1101,SYN-P-01101,EN19,3.6222,Milling:VMC-1:7.0,347.64,SYN-2401-1101,2024-01-17
+Synthetic Customer 08,Brake pin 0900,SYN-P-00900,EN19,7.7144,Turning:CNC-T1:8.2,705.50,SYN-2609-0900,2026-09-02
+Synthetic Customer 01,Lift arm 0212,SYN-P-00212,EN8,2.1060,Turning:CNC-T1:11.4,222.28,SYN-2612-0212,2026-12-20
+Synthetic Customer 09,Spindle 0646,SYN-P-00646,C45,3.3619,Drilling:DRL-1:4.1;Grinding:GRD-1:11.5,336.15,SYN-2610-0646,2026-10-28
+Synthetic Customer 10,Spindle 0856,SYN-P-00856,EN8,6.7416,Turning:CNC-T1:8.3;Milling:VMC-1:3.9,626.04,SYN-2405-0856,2024-05-06
+Synthetic Customer 06,Yoke 0367,SYN-P-00367,C45,3.8496,Grinding:GRD-1:7.1;Turning:CNC-T1:10.4;Milling:VMC-1:4.6,358.94,SYN-2603-0367,2026-03-01
+Synthetic Customer 06,Spindle 0009,SYN-P-00009,EN8,3.8849,Milling:VMC-1:8.0;Drilling:DRL-1:4.7;Grinding:GRD-1:9.0,370.11,SYN-2509-0009,2025-09-15
+Synthetic Customer 01,Lift arm 0325,SYN-P-00325,C45,1.1813,Milling:VMC-1:1.0,139.08,SYN-2401-0325,2024-01-23
+Synthetic Customer 08,Hub flange 0505,SYN-P-00505,40Cr4,4.2503,Milling:VMC-1:11.2,406.96,SYN-2408-0505,2024-08-19
+Synthetic Customer 12,Yoke 0093,SYN-P-00093,40Cr4,3.6975,Milling:VMC-1:3.7;Drilling:DRL-1:4.3,359.29,SYN-2608-0093,2026-08-28
+Synthetic Customer 07,Bush 0692,SYN-P-00692,20MnCr5,2.1205,Turning:CNC-T1:8.7,230.33,SYN-2506-0692,2025-06-18
+Synthetic Customer 04,Spindle 0221,SYN-P-00221,EN19,3.4884,Milling:VMC-1:4.9;Drilling:DRL-1:0.8,323.93,SYN-2502-0221,2025-02-26
+Synthetic Customer 08,Hub flange 0070,SYN-P-00070,EN19,2.5392,Drilling:DRL-1:9.3;Grinding:GRD-1:8.0;Turning:CNC-T1:9.6,262.24,SYN-2506-0070,2025-06-23
+Synthetic Customer 04,Spindle 0098,SYN-P-00098,EN8,5.4016,Drilling:DRL-1:7.9;Grinding:GRD-1:0.8,512.86,SYN-2611-0098,2026-11-15
+Synthetic Customer 04,Bush 0685,SYN-P-00685,C45,3.9722,Milling:VMC-1:3.9,393.85,SYN-2404-0685,2024-04-19
+Synthetic Customer 11,Brake pin 0353,SYN-P-00353,C45,6.6385,Milling:VMC-1:4.2,596.65,SYN-2610-0353,2026-10-20
+Synthetic Customer 05,Yoke 0869,SYN-P-00869,20MnCr5,4.5172,Milling:VMC-1:2.3;Drilling:DRL-1:8.4,421.14,SYN-2602-0869,2026-02-28
+Synthetic Customer 08,Lift arm 0749,SYN-P-00749,EN19,6.2798,Milling:VMC-1:2.2;Drilling:DRL-1:3.0,584.93,SYN-2604-0749,2026-04-06
+Synthetic Customer 03,Hub flange 0318,SYN-P-00318,EN8,5.6593,Drilling:DRL-1:11.0,529.30,SYN-2407-0318,2024-07-13
+Synthetic Customer 10,Brake pin 0693,SYN-P-00693,20MnCr5,3.9952,Milling:VMC-1:4.3,374.84,SYN-2512-0693,2025-12-03
+Synthetic Customer 12,Pinion 1385,SYN-P-01385,40Cr4,1.7839,Milling:VMC-1:3.7,189.25,SYN-2605-1385,2026-02-31
+Synthetic Customer 01,Bush 0888,SYN-P-00888,20MnCr5,4.1074,Turning:CNC-T1:4.6;Milling:VMC-1:8.5,381.93,SYN-2510-0888,2025-10-28
+Synthetic Customer 09,Brake pin 0239,SYN-P-00239,40Cr4,6.4473,Grinding:GRD-1:7.9;Turning:CNC-T1:4.0;Milling:VMC-1:3.7,580.88,SYN-2606-0239,2026-06-24
+Synthetic Customer 01,Lift arm 0560,SYN-P-00560,EN19,4.0021,Turning:CNC-T1:9.9,369.18,SYN-2607-0560,2026-07-10
+Synthetic Customer 04,Hub flange 1377,SYN-P-01377,,7.3309,Milling:VMC-1:6.0;Drilling:DRL-1:4.9;Grinding:GRD-1:9.8,659.59,SYN-2402-1377,2024-02-20
+Synthetic Customer 07,Coupling 1287,SYN-P-01287,EN19,5.6372,Grinding:GRD-1:8.3,527.89,SYN-2510-1287,2025-10-21
+Synthetic Customer 04,Brake pin 0211,SYN-P-00211,20MnCr5,6.8562,Grinding:GRD-1:2.7;Turning:CNC-T1:1.3;Milling:VMC-1:0.6,607.45,SYN-2602-0211,2026-02-20
+Synthetic Customer 08,Axle shaft 0229,SYN-P-00229,EN8,7.4478,Milling:VMC-1:11.4;Drilling:DRL-1:11.0;Grinding:GRD-1:3.1,678.70,SYN-2601-0229,2026-01-05
+Synthetic Customer 09,Spindle 0324,SYN-P-00324,40Cr4,2.2894,Turning:CNC-T1:0.8,226.60,SYN-2411-0324,2024-11-05
+Synthetic Customer 05,Yoke 0564,SYN-P-00564,EN8,2.1306,Turning:CNC-T1:0.8,220.55,SYN-2402-0564,2024-02-28
+Synthetic Customer 01,Axle shaft 1249,SYN-P-01249,C45,4.0872,Milling:VMC-1:1.7;Drilling:DRL-1:7.5;Grinding:GRD-1:9.3,406.72,SYN-2402-1249,2024-02-24
+Synthetic Customer 12,Spindle 0774,SYN-P-00774,C45,3.3932,Drilling:DRL-1:10.4,323.71,SYN-2611-0774,2026-11-01
+Synthetic Customer 04,Brake pin 1159,SYN-P-01159,C45,7.8079,Grinding:GRD-1:0.9;Turning:CNC-T1:4.7,684.23,SYN-2601-1159,2026-01-27
+Synthetic Customer 03,Yoke 0219,SYN-P-00219,40Cr4,7.1711,Grinding:GRD-1:4.9;Turning:CNC-T1:8.8;Milling:VMC-1:11.3,633.41,SYN-2501-0219,2025-01-20
+Synthetic Customer 09,Coupling 0892,SYN-P-00892,C45,1.1184,Turning:CNC-T1:7.2;Milling:VMC-1:5.4,129.82,SYN-2609-0892,2026-09-14
+Synthetic Customer 12,Bush 0382,SYN-P-00382,40Cr4,0.6381,Drilling:DRL-1:8.8;Grinding:GRD-1:10.7;Turning:CNC-T1:1.6,97.25,SYN-2606-0382,2026-06-17
+Synthetic Customer 02,Brake pin 0142,SYN-P-00142,EN19,0.2356,Drilling:DRL-1:4.7,42.70,SYN-2502-0142,2025-02-10
+Synthetic Customer 03,Pinion 1097,SYN-P-01097,40Cr4,0.5681,Milling:VMC-1:7.0;Drilling:DRL-1:9.2,76.30,SYN-2407-1097,2024-07-22
+Synthetic Customer 12,Coupling 0194,SYN-P-00194,C45,4.2141,Drilling:DRL-1:11.2;Grinding:GRD-1:7.0;Turning:CNC-T1:10.4,393.42,SYN-2410-0194,2024-10-06
+Synthetic Customer 08,Coupling 1310,SYN-P-01310,20MnCr5,4.2917,Drilling:DRL-1:5.9,398.86,SYN-2612-1310,2026-12-15
+Synthetic Customer 04,Axle shaft 0469,SYN-P-00469,EN8,1.4399,Milling:VMC-1:8.8;Drilling:DRL-1:5.1;Grinding:GRD-1:1.4,168.66,SYN-2508-0469,2025-08-07
+Synthetic Customer 06,Gear blank 0319,SYN-P-00319,EN8,0.4008,Grinding:GRD-1:2.5,60.67,SYN-2406-0319,2024-06-01
+Synthetic Customer 03,Lift arm 1219,SYN-P-01219,EN8,4.3478,Grinding:GRD-1:2.1;Turning:CNC-T1:2.0,407.54,SYN-2408-1219,2024-08-06
+Synthetic Customer 05,Axle shaft 0896,SYN-P-00896,C45,5.2472,Turning:CNC-T1:1.5;Milling:VMC-1:0.6,468.74,SYN-2406-0896,2024-06-02
+Synthetic Customer 02,Brake pin 0751,SYN-P-00751,C45,7.8634,Grinding:GRD-1:1.5;Turning:CNC-T1:8.7;Milling:VMC-1:3.6,713.88,SYN-2611-0751,2026-11-14
+Synthetic Customer 02,Brake pin 0378,SYN-P-00378,20MnCr5,4.4531,Drilling:DRL-1:0.5;Grinding:GRD-1:8.6;Turning:CNC-T1:5.5,415.72,SYN-2602-0378,2026-02-26
+Synthetic Customer 07,Hub flange 0603,SYN-P-00603,C45,4.1576,Grinding:GRD-1:8.1,401.24,SYN-2612-0603,2026-12-13
+Synthetic Customer 07,Lift arm 0851,SYN-P-00851,C45,6.8860,Grinding:GRD-1:10.4,628.21,SYN-2502-0851,2025-02-03
+Synthetic Customer 07,Axle shaft 1229,SYN-P-01229,EN8,5.9768,Milling:VMC-1:10.4;Drilling:DRL-1:3.9;Grinding:GRD-1:8.0,567.10,SYN-2504-1229,2025-04-01
+Synthetic Customer 09,Lift arm 1061,SYN-P-01061,EN19,1.2583,Milling:VMC-1:8.4,161.89,SYN-2403-1061,2024-03-11
+Synthetic Customer 03,Yoke 0938,SYN-P-00938,C45,0.4120,Drilling:DRL-1:11.2,74.99,SYN-2611-0938,2026-11-24
+Synthetic Customer 03,Axle shaft 1368,SYN-P-01368,EN19,heavy,Turning:CNC-T1:6.2;Milling:VMC-1:10.1,471.81,SYN-2407-1368,2024-07-09
+Synthetic Customer 05,Gear blank 0912,SYN-P-00912,C45,5.7757,Turning:CNC-T1:5.0,513.82,SYN-2401-0912,2024-01-17
+Synthetic Customer 10,Hub flange 0526,SYN-P-00526,40Cr4,5.7565,Drilling:DRL-1:2.6,526.15,SYN-2407-0526,2024-07-22
+Synthetic Customer 02,Gear blank 1137,SYN-P-01137,EN8,4.2751,Milling:VMC-1:7.6;Drilling:DRL-1:0.9;Grinding:GRD-1:6.7,401.43,SYN-2606-1137,2026-06-01
+Synthetic Customer 06,Yoke 0925,SYN-P-00925,20MnCr5,0.2253,Milling:VMC-1:6.8,62.37,SYN-2612-0925,2026-12-14
+Synthetic Customer 06,Spindle 0292,SYN-P-00292,20MnCr5,6.6847,Turning:CNC-T1:7.2;Milling:VMC-1:6.7,618.51,SYN-2610-0292,2026-10-03
+Synthetic Customer 06,Coupling 0259,SYN-P-00259,EN8,0.6050,Grinding:GRD-1:5.6,95.41,SYN-2508-0259,2025-08-28
+Synthetic Customer 04,Pinion 1144,SYN-P-01144,C45,7.0087,Turning:CNC-T1:5.0;Milling:VMC-1:3.3,653.38,SYN-2504-1144,2025-04-18
+Synthetic Customer 08,Coupling 1117,SYN-P-01117,40Cr4,0.9521,Milling:VMC-1:8.0;Drilling:DRL-1:6.0,133.54,SYN-2509-1117,2025-09-05
+Synthetic Customer 12,Axle shaft 0678,SYN-P-00678,EN8,6.2122,Drilling:DRL-1:1.3;Grinding:GRD-1:8.1;Turning:CNC-T1:6.1,549.54,SYN-2609-0678,2026-09-19
+Synthetic Customer 10,Spindle 0579,SYN-P-00579,C45,1.7417,Grinding:GRD-1:9.5,194.07,SYN-2412-0579,2024-12-20
+Synthetic Customer 03,Yoke 1245,SYN-P-01245,20MnCr5,6.5839,Milling:VMC-1:8.2;Drilling:DRL-1:6.9;Grinding:GRD-1:5.5,607.75,SYN-2508-1245,2025-08-12
+Synthetic Customer 10,Axle shaft 0109,SYN-P-00109,EN19,3.0652,Milling:VMC-1:7.1;Drilling:DRL-1:3.7,283.65,SYN-2510-0109,2025-10-22
+Synthetic Customer 08,Coupling 0593,SYN-P-00593,20MnCr5,7.8324,Milling:VMC-1:2.4;Drilling:DRL-1:7.5,696.54,SYN-2408-0593,2024-08-23
+Synthetic Customer 03,Gear blank 0838,SYN-P-00838,C45,0.6795,Drilling:DRL-1:4.4,82.03,SYN-2403-0838,2024-03-13
+Synthetic Customer 09,Yoke 0060,SYN-P-00060,20MnCr5,6.9202,Turning:CNC-T1:4.8,617.57,SYN-2403-0060,2024-03-01
+Synthetic Customer 02,Gear blank 0807,SYN-P-00807,40Cr4,3.0079,Grinding:GRD-1:2.8;Turning:CNC-T1:10.3;Milling:VMC-1:1.6,278.80,SYN-2510-0807,2025-10-23
+Synthetic Customer 03,Hub flange 0877,SYN-P-00877,EN19,1.9596,Milling:VMC-1:3.5;Drilling:DRL-1:8.9,197.57,SYN-2507-0877,2025-07-02
+Synthetic Customer 06,Axle shaft 0322,SYN-P-00322,20MnCr5,0.3278,Drilling:DRL-1:9.7;Grinding:GRD-1:2.1,82.58,SYN-2403-0322,2024-03-11
+Synthetic Customer 12,Pinion 0854,SYN-P-00854,40Cr4,1.3810,Drilling:DRL-1:6.5,149.62,SYN-2411-0854,2024-11-28
+Synthetic Customer 03,Coupling 0179,SYN-P-00179,EN19,7.0771,Grinding:GRD-1:4.0,655.48,SYN-2403-0179,2024-03-27
+Synthetic Customer 11,Pinion 0662,SYN-P-00662,20MnCr5,6.7178,Drilling:DRL-1:6.2;Grinding:GRD-1:4.2;Turning:CNC-T1:2.0,627.63,SYN-2602-0662,2026-02-18
+Synthetic Customer 09,Brake pin 1327,SYN-P-01327,40Cr4,4.0813,Grinding:GRD-1:10.3;Turning:CNC-T1:7.2,405.44,SYN-2505-1327,2025-05-21
+Synthetic Customer 05,Brake pin 0781,SYN-P-00781,20MnCr5,2.1572,Milling:VMC-1:6.7;Drilling:DRL-1:11.4;Grinding:GRD-1:7.9,232.87,SYN-2611-0781,2026-11-05
+Synthetic Customer 06,Brake pin 0842,SYN-P-00842,20MnCr5,3.8713,Drilling:DRL-1:3.2,376.19,SYN-2402-0842,2024-02-18
+Synthetic Customer 09,Brake pin 1369,SYN-P-01369,EN19,2.0780,Milling:VMC-1:6.9;Drilling:DRL-1:5.5;Grinding:GRD-1:6.5,-12.50,SYN-2602-1369,2026-02-16
+Synthetic Customer 07,Gear blank 1115,SYN-P-01115,EN19,1.7770,Grinding:GRD-1:5.2;Turning:CNC-T1:5.4,204.97,SYN-2402-1115,2024-02-26
+Synthetic Customer 03,Axle shaft 0029,SYN-P-00029,20MnCr5,5.5035,Milling:VMC-1:3.2,506.39,SYN-2502-0029,2025-02-27
+Synthetic Customer 08,Hub flange 1367,SYN-P-01367,,3.3204,Grinding:GRD-1:1.7;Turning:CNC-T1:4.6;Milling:VMC-1:8.0,305.03,SYN-2402-1367,2024-02-11
+Synthetic Customer 12,Coupling 0525,SYN-P-00525,40Cr4,7.5838,Milling:VMC-1:9.1;Drilling:DRL-1:4.9;Grinding:GRD-1:3.6,669.66,SYN-2503-0525,2025-03-05
+Synthetic Customer 05,Bush 0245,SYN-P-00245,C45,5.2086,Milling:VMC-1:4.4;Drilling:DRL-1:8.0,500.32,SYN-2508-0245,2025-08-04
+Synthetic Customer 06,Lift arm 0053,SYN-P-00053,C45,3.8824,Milling:VMC-1:4.5;Drilling:DRL-1:10.5;Grinding:GRD-1:8.6,353.33,SYN-2504-0053,2025-04-06
+Synthetic Customer 11,Gear blank 0823,SYN-P-00823,EN8,2.8140,Grinding:GRD-1:8.2,284.88,SYN-2501-0823,2025-01-01
+Synthetic Customer 03,Hub flange 0630,SYN-P-00630,C45,1.2790,Drilling:DRL-1:9.4;Grinding:GRD-1:5.3;Turning:CNC-T1:2.3,161.45,SYN-2509-0630,2025-09-22
+Synthetic Customer 10,Yoke 1259,SYN-P-01259,40Cr4,4.5444,Grinding:GRD-1:6.4,445.65,SYN-2607-1259,2026-07-06
+Synthetic Customer 08,Axle shaft 1086,SYN-P-01086,C45,5.3470,Drilling:DRL-1:0.6;Grinding:GRD-1:8.1;Turning:CNC-T1:0.7,493.64,SYN-2607-1086,2026-07-12
+Synthetic Customer 11,Axle shaft 0495,SYN-P-00495,40Cr4,3.8274,Grinding:GRD-1:4.8;Turning:CNC-T1:1.0;Milling:VMC-1:4.5,349.26,SYN-2511-0495,2025-11-18
+Synthetic Customer 09,Bush 1260,SYN-P-01260,40Cr4,5.9083,Turning:CNC-T1:8.2;Milling:VMC-1:1.9;Drilling:DRL-1:5.5,537.25,SYN-2601-1260,2026-01-10
+Synthetic Customer 04,Hub flange 1142,SYN-P-01142,EN19,0.5041,Drilling:DRL-1:7.2,75.29,SYN-2609-1142,2026-09-02
+Synthetic Customer 05,Yoke 0016,SYN-P-00016,EN19,2.1952,Turning:CNC-T1:5.6;Milling:VMC-1:3.8,218.33,SYN-2401-0016,2024-01-21
+Synthetic Customer 01,Pinion 0403,SYN-P-00403,EN8,0.7839,Grinding:GRD-1:3.4,116.89,SYN-2502-0403,2025-02-22
+Synthetic Customer 04,Axle shaft 0150,SYN-P-00150,EN19,0.4613,Drilling:DRL-1:1.6;Grinding:GRD-1:1.0;Turning:CNC-T1:3.9,68.08,SYN-2508-0150,2025-08-08
+Synthetic Customer 08,Bush 0612,SYN-P-00612,40Cr4,6.3110,Turning:CNC-T1:4.1;Milling:VMC-1:9.3;Drilling:DRL-1:0.7,584.03,SYN-2404-0612,2024-04-12
+Synthetic Customer 02,Hub flange 0601,SYN-P-00601,EN8,4.2049,Milling:VMC-1:6.2,379.00,SYN-2512-0601,2025-12-19
+Synthetic Customer 03,Hub flange 0122,SYN-P-00122,EN8,5.2256,Drilling:DRL-1:0.8,482.77,SYN-2403-0122,2024-03-25
+Synthetic Customer 12,Brake pin 0629,SYN-P-00629,40Cr4,4.8382,Milling:VMC-1:4.3;Drilling:DRL-1:4.3;Grinding:GRD-1:9.6,460.43,SYN-2506-0629,2025-06-28
+Synthetic Customer 06,Brake pin 1248,SYN-P-01248,20MnCr5,7.6809,Turning:CNC-T1:6.9,692.09,SYN-2505-1248,2025-05-18
+Synthetic Customer 07,Pinion 0545,SYN-P-00545,20MnCr5,1.4133,Milling:VMC-1:10.1,174.27,SYN-2604-0545,2026-04-27
+Synthetic Customer 11,Yoke 0544,SYN-P-00544,EN19,2.9439,Turning:CNC-T1:4.0;Milling:VMC-1:10.9,275.93,SYN-2607-0544,2026-07-12
+Synthetic Customer 12,Coupling 1195,SYN-P-01195,EN8,1.2577,Grinding:GRD-1:4.7;Turning:CNC-T1:9.3;Milling:VMC-1:8.9,134.13,SYN-2507-1195,2025-07-22
+Synthetic Customer 01,Spindle 0376,SYN-P-00376,EN19,0.7212,Turning:CNC-T1:9.6;Milling:VMC-1:2.3;Drilling:DRL-1:7.8,119.68,SYN-2404-0376,2024-04-08
+Synthetic Customer 10,Brake pin 0609,SYN-P-00609,C45,5.1444,Milling:VMC-1:8.8;Drilling:DRL-1:5.3;Grinding:GRD-1:4.8,491.54,SYN-2508-0609,2025-08-01
+Synthetic Customer 10,Gear blank 0102,SYN-P-00102,EN19,7.0579,Drilling:DRL-1:5.9,659.24,SYN-2604-0102,2026-04-15
+Synthetic Customer 05,Bush 0572,SYN-P-00572,40Cr4,6.6234,Turning:CNC-T1:8.6;Milling:VMC-1:11.0,605.52,SYN-2507-0572,2025-07-10
+Synthetic Customer 03,Pinion 0285,SYN-P-00285,EN19,5.6635,Milling:VMC-1:6.4;Drilling:DRL-1:11.2,532.69,SYN-2411-0285,2024-11-28
+Synthetic Customer 01,Coupling 0799,SYN-P-00799,C45,3.6718,Grinding:GRD-1:4.3;Turning:CNC-T1:11.2,368.72,SYN-2401-0799,2024-01-18
+Synthetic Customer 05,Spindle 0980,SYN-P-00980,20MnCr5,0.3712,Turning:CNC-T1:2.7;Milling:VMC-1:7.2;Drilling:DRL-1:1.3,77.27,SYN-2606-0980,2026-06-14
+Synthetic Customer 12,Gear blank 0182,SYN-P-00182,EN19,5.0215,Drilling:DRL-1:10.3;Grinding:GRD-1:2.7,486.08,SYN-2403-0182,2024-03-15
+Synthetic Customer 01,Yoke 0106,SYN-P-00106,EN8,6.1169,Drilling:DRL-1:7.3;Grinding:GRD-1:7.6;Turning:CNC-T1:0.9,560.03,SYN-2506-0106,2025-06-20
+Synthetic Customer 12,Axle shaft 0715,SYN-P-00715,C45,6.2605,Grinding:GRD-1:6.0,583.10,SYN-2504-0715,2025-04-21
+Synthetic Customer 01,Lift arm 0777,SYN-P-00777,C45,5.4513,Milling:VMC-1:0.8;Drilling:DRL-1:9.4,495.02,SYN-2410-0777,2024-10-11
+Synthetic Customer 07,Yoke 0976,SYN-P-00976,20MnCr5,1.0319,Turning:CNC-T1:1.6,131.82,SYN-2609-0976,2026-09-05
+Synthetic Customer 04,Hub flange 0427,SYN-P-00427,C45,2.9351,Grinding:GRD-1:1.2;Turning:CNC-T1:9.7;Milling:VMC-1:3.2,306.22,SYN-2611-0427,2026-11-06
+Synthetic Customer 10,Axle shaft 0527,SYN-P-00527,40Cr4,0.3383,Grinding:GRD-1:3.8;Turning:CNC-T1:2.8;Milling:VMC-1:10.0,86.35,SYN-2404-0527,2024-04-04
+Synthetic Customer 04,Pinion 0001,SYN-P-00001,C45,1.2453,Milling:VMC-1:6.8;Drilling:DRL-1:3.6;Grinding:GRD-1:10.4,162.53,SYN-2509-0001,2025-09-05
+Synthetic Customer 11,Lift arm 0592,SYN-P-00592,C45,5.3097,Turning:CNC-T1:8.6;Milling:VMC-1:9.3;Drilling:DRL-1:5.0,506.31,SYN-2403-0592,2024-03-19
+Synthetic Customer 09,Bush 0021,SYN-P-00021,EN8,4.6103,Milling:VMC-1:9.8,411.92,SYN-2405-0021,2024-05-07
+Synthetic Customer 05,Axle shaft 0731,SYN-P-00731,EN8,2.7696,Grinding:GRD-1:2.4,261.75,SYN-2507-0731,2025-07-14
+Synthetic Customer 11,Coupling 1338,SYN-P-01338,20MnCr5,4.3695,Drilling:DRL-1:8.4;Grinding:GRD-1:7.7;Turning:CNC-T1:3.1,429.84,SYN-2409-1338,2024-09-25
+Synthetic Customer 03,Spindle 0870,SYN-P-00870,C45,3.8606,Drilling:DRL-1:5.7;Grinding:GRD-1:7.1,372.63,SYN-2401-0870,2024-01-04
+Synthetic Customer 01,Hub flange 0885,SYN-P-00885,EN8,1.3340,Milling:VMC-1:10.7;Drilling:DRL-1:6.9,163.83,SYN-2501-0885,2025-01-15
+Synthetic Customer 06,Axle shaft 1129,SYN-P-01129,40Cr4,7.5843,Milling:VMC-1:11.2,665.12,SYN-2511-1129,2025-11-25
+Synthetic Customer 01,Gear blank 0206,SYN-P-00206,EN8,3.5617,Drilling:DRL-1:2.4,347.58,SYN-2412-0206,2024-12-10
+Synthetic Customer 07,Spindle 0036,SYN-P-00036,20MnCr5,8.0000,Turning:CNC-T1:4.6,701.15,SYN-2502-0036,2025-02-05
+Synthetic Customer 11,Bush 1050,SYN-P-01050,EN19,0.9943,Drilling:DRL-1:2.3;Grinding:GRD-1:5.4,124.37,SYN-2411-1050,2024-11-02
+Synthetic Customer 10,Coupling 0590,SYN-P-00590,40Cr4,7.7370,Drilling:DRL-1:4.4,713.04,SYN-2406-0590,2024-06-03
+Synthetic Customer 09,Hub flange 0837,SYN-P-00837,EN8,1.5950,Milling:VMC-1:4.4;Drilling:DRL-1:6.7;Grinding:GRD-1:1.4,171.64,SYN-2608-0837,2026-08-01
+Synthetic Customer 01,Brake pin 0861,SYN-P-00861,EN8,3.2069,Milling:VMC-1:8.4,302.47,SYN-2507-0861,2025-07-06
+Synthetic Customer 04,Lift arm 1307,SYN-P-01307,C45,7.8661,Grinding:GRD-1:7.5,728.46,SYN-2501-1307,2025-01-04
+Synthetic Customer 06,Bush 0127,SYN-P-00127,EN19,0.2230,Grinding:GRD-1:1.3;Turning:CNC-T1:7.5;Milling:VMC-1:11.5,53.06,SYN-2510-0127,2025-10-07
+Synthetic Customer 09,Yoke 1041,SYN-P-01041,EN19,2.0618,Milling:VMC-1:2.3,203.52,SYN-2402-1041,2024-02-10
+Synthetic Customer 06,Yoke 1276,SYN-P-01276,C45,2.6407,Turning:CNC-T1:8.0;Milling:VMC-1:3.5,279.19,SYN-2612-1276,2026-12-17
+Synthetic Customer 01,Spindle 0377,SYN-P-00377,20MnCr5,1.9293,Milling:VMC-1:6.6,222.71,SYN-2402-0377,2024-02-23
+Synthetic Customer 08,Coupling 1267,SYN-P-01267,40Cr4,3.8296,Grinding:GRD-1:3.7,365.04,SYN-2606-1267,2026-06-07
+Synthetic Customer 02,Coupling 1281,SYN-P-01281,C45,1.8497,Milling:VMC-1:9.0;Drilling:DRL-1:4.3,190.61,SYN-2605-1281,2026-05-01
+Synthetic Customer 02,Yoke 1181,SYN-P-01181,C45,2.3577,Milling:VMC-1:5.8;Drilling:DRL-1:10.0,258.85,SYN-2509-1181,2025-09-07
+Synthetic Customer 05,Axle shaft 1252,SYN-P-01252,20MnCr5,1.0176,Turning:CNC-T1:3.4,117.88,SYN-2507-1252,2025-07-06
+Synthetic Customer 01,Coupling 0698,SYN-P-00698,EN8,7.7575,Drilling:DRL-1:10.6,717.73,SYN-2505-0698,2025-05-22
+Synthetic Customer 06,Gear blank 1019,SYN-P-01019,C45,1.1620,Grinding:GRD-1:1.3;Turning:CNC-T1:8.6;Milling:VMC-1:8.3,158.58,SYN-2610-1019,2026-10-18
+Synthetic Customer 03,Yoke 1015,SYN-P-01015,40Cr4,6.4375,Grinding:GRD-1:9.6,581.99,SYN-2503-1015,2025-03-13
+Synthetic Customer 07,Coupling 1239,SYN-P-01239,EN8,4.3735,Grinding:GRD-1:8.4;Turning:CNC-T1:3.4;Milling:VMC-1:7.7,405.67,SYN-2507-1239,2025-07-05
+Synthetic Customer 06,Lift arm 0153,SYN-P-00153,C45,5.7386,Milling:VMC-1:7.3;Drilling:DRL-1:3.2;Grinding:GRD-1:2.6,515.68,SYN-2407-0153,2024-07-25
+Synthetic Customer 10,Spindle 0566,SYN-P-00566,40Cr4,0.6063,Drilling:DRL-1:9.3,107.86,SYN-2401-0566,2024-01-07
+Synthetic Customer 03,Bush 0983,SYN-P-00983,EN8,3.7684,Grinding:GRD-1:6.6;Turning:CNC-T1:5.1;Milling:VMC-1:4.9,376.08,SYN-2411-0983,2024-11-08
+Synthetic Customer 05,Gear blank 0480,SYN-P-00480,C45,5.2232,Turning:CNC-T1:8.0;Milling:VMC-1:1.0;Drilling:DRL-1:3.4,474.16,SYN-2405-0480,2024-05-25
+Synthetic Customer 10,Lift arm 1302,SYN-P-01302,40Cr4,6.6296,Drilling:DRL-1:0.9,622.88,SYN-2404-1302,2024-04-05
+Synthetic Customer 12,Hub flange 0848,SYN-P-00848,20MnCr5,7.1149,Turning:CNC-T1:7.8,653.85,SYN-2411-0848,2024-11-09
+Synthetic Customer 06,Bush 0546,SYN-P-00546,EN19,0.7658,Drilling:DRL-1:9.4;Grinding:GRD-1:8.8,123.20,SYN-2501-0546,2025-01-06
+Synthetic Customer 12,Hub flange 0721,SYN-P-00721,EN19,4.4442,Milling:VMC-1:11.3,407.10,SYN-2403-0721,2024-03-05
+Synthetic Customer 07,Gear blank 0366,SYN-P-00366,20MnCr5,5.4239,Drilling:DRL-1:1.0;Grinding:GRD-1:2.7,481.86,SYN-2604-0366,2026-04-07
+Synthetic Customer 07,Pinion 0680,SYN-P-00680,40Cr4,3.3299,Turning:CNC-T1:7.7,316.83,SYN-2508-0680,2025-08-20
+Synthetic Customer 01,Coupling 0191,SYN-P-00191,C45,0.6355,Grinding:GRD-1:7.2,102.51,SYN-2403-0191,2024-03-08
+Synthetic Customer 08,Yoke 0126,SYN-P-00126,40Cr4,7.3271,Drilling:DRL-1:4.0;Grinding:GRD-1:10.8;Turning:CNC-T1:1.6,677.75,SYN-2410-0126,2024-10-19
+Synthetic Customer 08,Axle shaft 0822,SYN-P-00822,C45,4.5377,Drilling:DRL-1:6.6;Grinding:GRD-1:5.5;Turning:CNC-T1:7.7,416.31,SYN-2612-0822,2026-12-05
+Synthetic Customer 11,Coupling 0604,SYN-P-00604,40Cr4,2.1517,Turning:CNC-T1:9.3;Milling:VMC-1:1.0,216.27,SYN-2511-0604,2025-11-01
+Synthetic Customer 01,Lift arm 0018,SYN-P-00018,20MnCr5,3.5356,Drilling:DRL-1:10.0;Grinding:GRD-1:10.4,337.34,SYN-2405-0018,2024-05-14
+Synthetic Customer 02,Hub flange 0487,SYN-P-00487,EN19,7.1019,Grinding:GRD-1:8.3;Turning:CNC-T1:10.4,643.17,SYN-2411-0487,2024-11-14
+Synthetic Customer 09,Pinion 1316,SYN-P-01316,EN19,0.2383,Turning:CNC-T1:11.2;Milling:VMC-1:11.3,52.83,SYN-2407-1316,2024-07-14
+Synthetic Customer 02,Bush 1354,SYN-P-01354,C45,2.1214,Drilling:DRL-1:6.2;Grinding:GRD-1:7.8,231.97,SYN-2406-1354,2024-06-25
+Synthetic Customer 11,Gear blank 1356,SYN-P-01356,EN8,7.6447,Turning:CNC-T1:3.7,673.28,SYN-2405-1356,2024-05-27
+Synthetic Customer 03,Brake pin 1210,SYN-P-01210,20MnCr5,1.6859,Drilling:DRL-1:8.4;Grinding:GRD-1:0.5;Turning:CNC-T1:10.5,202.47,SYN-2403-1210,2024-03-20
+Synthetic Customer 04,Coupling 1171,SYN-P-01171,C45,4.2777,Grinding:GRD-1:2.9,410.61,SYN-2610-1171,2026-10-01
+Synthetic Customer 05,Axle shaft 0051,SYN-P-00051,C45,1.4832,Grinding:GRD-1:5.1;Turning:CNC-T1:1.5,173.24,SYN-2405-0051,2024-05-11
+Synthetic Customer 06,Lift arm 0550,SYN-P-00550,C45,5.7322,Drilling:DRL-1:8.0,524.26,SYN-2503-0550,2025-03-04
+Synthetic Customer 10,Spindle 0584,SYN-P-00584,EN8,5.0867,Turning:CNC-T1:0.9,486.40,SYN-2504-0584,2025-04-06
+Synthetic Customer 06,Brake pin 0641,SYN-P-00641,40Cr4,3.0050,Milling:VMC-1:7.0,286.35,SYN-2402-0641,2024-02-03
+Synthetic Customer 01,Gear blank 0350,SYN-P-00350,EN8,5.5545,Drilling:DRL-1:5.3;Grinding:GRD-1:4.4;Turning:CNC-T1:9.3,503.92,SYN-2404-0350,2024-04-16
+Synthetic Customer 03,Axle shaft 1049,SYN-P-01049,EN8,5.5440,Milling:VMC-1:10.2,495.10,SYN-2509-1049,2025-09-07
+Synthetic Customer 03,Hub flange 0669,SYN-P-00669,40Cr4,6.4097,Milling:VMC-1:6.4;Drilling:DRL-1:2.1;Grinding:GRD-1:11.4,567.92,SYN-2509-0669,2025-09-25
+Synthetic Customer 11,Pinion 0085,SYN-P-00085,20MnCr5,3.1910,Milling:VMC-1:3.1,308.76,SYN-2501-0085,2025-01-01
+Synthetic Customer 07,Brake pin 1241,SYN-P-01241,EN19,1.5830,Milling:VMC-1:1.7,170.27,SYN-2607-1241,2026-07-23
+Synthetic Customer 09,Brake pin 1071,SYN-P-01071,EN19,0.7630,Grinding:GRD-1:7.3;Turning:CNC-T1:5.5,88.42,SYN-2407-1071,2024-07-10
+Synthetic Customer 06,Gear blank 1383,SYN-P-01383,20MnCr5,heavy,Grinding:GRD-1:5.9,640.16,SYN-2611-1383,2026-11-26
+Synthetic Customer 08,Bush 0927,SYN-P-00927,20MnCr5,4.3940,Grinding:GRD-1:3.5,420.47,SYN-2406-0927,2024-06-19
+Synthetic Customer 02,Hub flange 1074,SYN-P-01074,40Cr4,7.5175,Drilling:DRL-1:4.2;Grinding:GRD-1:7.9;Turning:CNC-T1:6.5,664.12,SYN-2401-1074,2024-01-10
+Synthetic Customer 02,Spindle 0775,SYN-P-00775,40Cr4,6.4181,Grinding:GRD-1:5.1;Turning:CNC-T1:6.0,572.73,SYN-2412-0775,2024-12-19
+Synthetic Customer 05,Lift arm 1084,SYN-P-01084,40Cr4,3.4939,Turning:CNC-T1:6.0,355.36,SYN-2510-1084,2025-10-05
+Synthetic Customer 04,Bush 0373,SYN-P-00373,EN19,1.5498,Milling:VMC-1:4.0;Drilling:DRL-1:5.8,189.88,SYN-2408-0373,2024-08-02
+Synthetic Customer 05,Pinion 0915,SYN-P-00915,C45,0.3987,Grinding:GRD-1:7.2,82.33,SYN-2401-0915,2024-01-14
+Synthetic Customer 10,Pinion 0167,SYN-P-00167,20MnCr5,1.6450,Grinding:GRD-1:8.5;Turning:CNC-T1:4.7;Milling:VMC-1:1.6,170.41,SYN-2604-0167,2026-04-18
+Synthetic Customer 01,Hub flange 1278,SYN-P-01278,EN19,1.3463,Drilling:DRL-1:0.7;Grinding:GRD-1:1.7;Turning:CNC-T1:7.1,161.67,SYN-2506-1278,2025-06-13
+Synthetic Customer 10,Spindle 0920,SYN-P-00920,20MnCr5,6.3560,Turning:CNC-T1:0.8;Milling:VMC-1:10.0;Drilling:DRL-1:7.0,580.54,SYN-2507-0920,2025-07-27
+Synthetic Customer 11,Pinion 1172,SYN-P-01172,EN8,2.0634,Turning:CNC-T1:6.7;Milling:VMC-1:10.8,232.52,SYN-2505-1172,2025-05-09
+Synthetic Customer 10,Pinion 0540,SYN-P-00540,EN19,4.1769,Turning:CNC-T1:7.9;Milling:VMC-1:11.0,378.22,SYN-2411-0540,2024-11-15
+Synthetic Customer 01,Yoke 0687,SYN-P-00687,C45,2.2400,Grinding:GRD-1:5.0;Turning:CNC-T1:4.5;Milling:VMC-1:1.4,243.65,SYN-2605-0687,2026-05-27
+Synthetic Customer 09,Brake pin 0008,SYN-P-00008,EN19,4.0794,Turning:CNC-T1:9.7,397.00,SYN-2606-0008,2026-06-20
+Synthetic Customer 11,Axle shaft 0748,SYN-P-00748,EN8,4.1682,Turning:CNC-T1:1.5,380.83,SYN-2609-0748,2026-09-14
+Synthetic Customer 08,Brake pin 0262,SYN-P-00262,40Cr4,4.7529,Drilling:DRL-1:0.9;Grinding:GRD-1:1.2,450.66,SYN-2502-0262,2025-02-09
+Synthetic Customer 10,Axle shaft 0261,SYN-P-00261,40Cr4,4.6687,Milling:VMC-1:2.6;Drilling:DRL-1:6.5;Grinding:GRD-1:10.1,447.60,SYN-2411-0261,2024-11-06
+Synthetic Customer 05,Brake pin 1160,SYN-P-01160,EN8,6.1078,Turning:CNC-T1:7.3,557.44,SYN-2505-1160,2025-05-12
+Synthetic Customer 08,Yoke 0077,SYN-P-00077,EN19,5.8618,Milling:VMC-1:1.8,526.76,SYN-2507-0077,2025-07-07
+Synthetic Customer 06,Lift arm 0442,SYN-P-00442,C45,6.4593,Drilling:DRL-1:9.2,579.38,SYN-2605-0442,2026-05-28
+Synthetic Customer 05,Yoke 1165,SYN-P-01165,C45,3.1942,Milling:VMC-1:6.4,303.81,SYN-2402-1165,2024-02-07
+Synthetic Customer 05,Hub flange 0523,SYN-P-00523,EN19,2.0048,Grinding:GRD-1:9.2;Turning:CNC-T1:5.6,191.92,SYN-2504-0523,2025-04-22
+Synthetic Customer 01,Yoke 0141,SYN-P-00141,20MnCr5,0.7509,Milling:VMC-1:9.9,118.14,SYN-2611-0141,2026-11-21
+Synthetic Customer 02,Axle shaft 0568,SYN-P-00568,EN19,2.3591,Turning:CNC-T1:3.2,234.01,SYN-2503-0568,2025-03-16
+Synthetic Customer 03,Brake pin 1337,SYN-P-01337,EN8,4.5910,Milling:VMC-1:2.1;Drilling:DRL-1:4.7;Grinding:GRD-1:10.3,420.15,SYN-2509-1337,2025-09-11
+Synthetic Customer 10,Spindle 1265,SYN-P-01265,C45,3.1016,Milling:VMC-1:9.9,317.39,SYN-2402-1265,2024-02-10
+Synthetic Customer 01,Gear blank 1346,SYN-P-01346,40Cr4,5.8155,Drilling:DRL-1:6.1;Grinding:GRD-1:2.0;Turning:CNC-T1:7.9,551.14,SYN-2510-1346,2025-10-08
+Synthetic Customer 02,Axle shaft 0796,SYN-P-00796,EN19,2.5612,Turning:CNC-T1:5.3,266.91,SYN-2609-0796,2026-09-26
+Synthetic Customer 11,Pinion 0085,SYN-P-00085,20MnCr5,3.1910,Milling:VMC-1:3.1,308.76,SYN-2501-0085,2025-01-01
+Synthetic Customer 03,Pinion 1138,SYN-P-01138,20MnCr5,1.7251,Drilling:DRL-1:5.3;Grinding:GRD-1:1.6;Turning:CNC-T1:4.1,182.83,SYN-2611-1138,2026-11-25
+Synthetic Customer 02,Hub flange 0873,SYN-P-00873,20MnCr5,2.9021,Milling:VMC-1:9.7,271.69,SYN-2509-0873,2025-09-17
+Synthetic Customer 06,Coupling 1091,SYN-P-01091,20MnCr5,1.0591,Grinding:GRD-1:4.7,111.07,SYN-2606-1091,2026-06-27
+Synthetic Customer 09,Bush 0043,SYN-P-00043,20MnCr5,5.0653,Grinding:GRD-1:1.7;Turning:CNC-T1:8.3;Milling:VMC-1:3.9,466.93,SYN-2405-0043,2024-05-01
+Synthetic Customer 04,Pinion 0265,SYN-P-00265,20MnCr5,6.1498,Milling:VMC-1:4.2;Drilling:DRL-1:8.5,567.21,SYN-2606-0265,2026-06-19
+Synthetic Customer 11,Axle shaft 0496,SYN-P-00496,40Cr4,3.2599,Turning:CNC-T1:7.4;Milling:VMC-1:3.8;Drilling:DRL-1:8.7,311.60,SYN-2403-0496,2024-03-04
+Synthetic Customer 05,Pinion 0797,SYN-P-00797,EN19,0.2650,Milling:VMC-1:9.8;Drilling:DRL-1:4.6;Grinding:GRD-1:5.7,73.96,SYN-2402-0797,2024-02-04
+Synthetic Customer 09,Gear blank 1298,SYN-P-01298,EN19,2.3484,Drilling:DRL-1:9.5;Grinding:GRD-1:8.8;Turning:CNC-T1:8.4,232.06,SYN-2410-1298,2024-10-06
+Synthetic Customer 04,Hub flange 0631,SYN-P-00631,20MnCr5,3.0587,Grinding:GRD-1:10.5;Turning:CNC-T1:10.4;Milling:VMC-1:4.3,318.90,SYN-2502-0631,2025-02-15
+Synthetic Customer 03,Gear blank 0092,SYN-P-00092,20MnCr5,5.0529,Turning:CNC-T1:0.9;Milling:VMC-1:1.0,459.85,SYN-2603-0092,2026-03-28
+Synthetic Customer 01,Hub flange 0091,SYN-P-00091,40Cr4,1.4963,Grinding:GRD-1:7.5,163.74,SYN-2502-0091,2025-02-24
+Synthetic Customer 06,Brake pin 0676,SYN-P-00676,C45,3.5452,Turning:CNC-T1:1.1;Milling:VMC-1:2.4;Drilling:DRL-1:2.1,354.66,SYN-2611-0676,2026-11-07
+Synthetic Customer 06,Axle shaft 1025,SYN-P-01025,40Cr4,2.6669,Milling:VMC-1:5.8;Drilling:DRL-1:3.8;Grinding:GRD-1:9.9,265.29,SYN-2504-1025,2025-04-04
+Synthetic Customer 09,Pinion 1272,SYN-P-01272,EN8,0.9950,Turning:CNC-T1:2.4,141.08,SYN-2402-1272,2024-02-19
+Synthetic Customer 12,Axle shaft 0418,SYN-P-00418,C45,2.8025,Drilling:DRL-1:6.1,284.64,SYN-2505-0418,2025-05-24
+Synthetic Customer 08,Pinion 0156,SYN-P-00156,EN19,6.6861,Turning:CNC-T1:4.7;Milling:VMC-1:2.3;Drilling:DRL-1:0.6,612.72,SYN-2606-0156,2026-06-23
+Synthetic Customer 09,Lift arm 1299,SYN-P-01299,C45,3.0817,Grinding:GRD-1:6.8;Turning:CNC-T1:3.0,293.91,SYN-2601-1299,2026-01-23
+Synthetic Customer 11,Pinion 0860,SYN-P-00860,EN8,4.5689,Turning:CNC-T1:7.8,436.21,SYN-2508-0860,2025-08-05
+Synthetic Customer 08,Pinion 0817,SYN-P-00817,EN8,0.7059,Milling:VMC-1:4.0;Drilling:DRL-1:6.2;Grinding:GRD-1:3.2,81.22,SYN-2502-0817,2025-02-10
+Synthetic Customer 02,Spindle 0517,SYN-P-00517,EN19,3.2165,Milling:VMC-1:7.3;Drilling:DRL-1:2.5;Grinding:GRD-1:6.5,311.41,SYN-2509-0517,2025-09-08
+Synthetic Customer 04,Brake pin 0481,SYN-P-00481,20MnCr5,3.6009,Milling:VMC-1:9.3;Drilling:DRL-1:8.0,359.80,SYN-2502-0481,2025-02-19
+Synthetic Customer 06,Yoke 0732,SYN-P-00732,EN8,3.9612,Turning:CNC-T1:3.3;Milling:VMC-1:8.8,364.07,SYN-2412-0732,2024-12-17
+Synthetic Customer 09,Bush 0636,SYN-P-00636,40Cr4,5.5552,Turning:CNC-T1:4.3;Milling:VMC-1:0.9,498.32,SYN-2401-0636,2024-01-21
+,Gear blank 1366,SYN-P-01366,EN19,2.6385,Drilling:DRL-1:11.0;Grinding:GRD-1:2.6,271.97,SYN-2503-1366,2025-03-21
+Synthetic Customer 04,Spindle 0289,SYN-P-00289,EN19,5.8286,Milling:VMC-1:10.5;Drilling:DRL-1:4.8;Grinding:GRD-1:6.6,515.98,SYN-2602-0289,2026-02-26
+Synthetic Customer 09,Gear blank 0703,SYN-P-00703,C45,2.0824,Grinding:GRD-1:2.0;Turning:CNC-T1:10.4;Milling:VMC-1:8.1,229.61,SYN-2601-0703,2026-01-03
+Synthetic Customer 02,Spindle 0960,SYN-P-00960,EN8,5.6441,Turning:CNC-T1:6.4;Milling:VMC-1:11.5,530.08,SYN-2512-0960,2025-12-05
+Synthetic Customer 12,Pinion 1000,SYN-P-01000,20MnCr5,6.4491,Turning:CNC-T1:3.2;Milling:VMC-1:4.7;Drilling:DRL-1:6.5,598.76,SYN-2403-1000,2024-03-22
+Synthetic Customer 12,Hub flange 0591,SYN-P-00591,EN19,5.7640,Grinding:GRD-1:9.4,531.82,SYN-2501-0591,2025-01-07
+Synthetic Customer 03,Gear blank 0092,SYN-P-00092,20MnCr5,5.0529,Turning:CNC-T1:0.9;Milling:VMC-1:1.0,459.85,SYN-2603-0092,2026-03-28
+Synthetic Customer 11,Axle shaft 0337,SYN-P-00337,40Cr4,0.5818,Milling:VMC-1:6.8;Drilling:DRL-1:4.3;Grinding:GRD-1:6.7,100.35,SYN-2605-0337,2026-05-23
+Synthetic Customer 06,Yoke 1062,SYN-P-01062,EN19,6.7177,Drilling:DRL-1:6.7;Grinding:GRD-1:8.4;Turning:CNC-T1:3.1,615.30,SYN-2605-1062,2026-05-11
+Synthetic Customer 12,Axle shaft 0881,SYN-P-00881,20MnCr5,1.8205,Milling:VMC-1:3.5,187.08,SYN-2504-0881,2025-04-10
+Synthetic Customer 07,Coupling 0148,SYN-P-00148,EN8,6.1003,Turning:CNC-T1:11.1,542.06,SYN-2503-0148,2025-03-06
+Synthetic Customer 11,Pinion 0294,SYN-P-00294,EN19,4.0250,Drilling:DRL-1:2.4;Grinding:GRD-1:11.5,395.38,SYN-2611-0294,2026-11-24
+Synthetic Customer 04,Yoke 0208,SYN-P-00208,C45,7.9357,Turning:CNC-T1:8.9;Milling:VMC-1:10.0,715.23,SYN-2611-0208,2026-11-17
+Synthetic Customer 04,Brake pin 1198,SYN-P-01198,EN8,2.9124,Drilling:DRL-1:8.3;Grinding:GRD-1:6.1;Turning:CNC-T1:4.0,298.84,SYN-2501-1198,2025-01-21
+Synthetic Customer 06,Bush 0224,SYN-P-00224,20MnCr5,2.5778,Turning:CNC-T1:11.4;Milling:VMC-1:6.1;Drilling:DRL-1:11.0,266.25,SYN-2511-0224,2025-11-01
+Synthetic Customer 10,Pinion 0317,SYN-P-00317,EN19,7.3233,Milling:VMC-1:2.5;Drilling:DRL-1:5.4;Grinding:GRD-1:2.2,679.28,SYN-2507-0317,2025-07-17
+Synthetic Customer 10,Spindle 0003,SYN-P-00003,20MnCr5,6.9008,Grinding:GRD-1:5.7;Turning:CNC-T1:10.6,608.09,SYN-2504-0003,2025-04-01
+Synthetic Customer 05,Gear blank 0816,SYN-P-00816,40Cr4,2.4402,Turning:CNC-T1:9.2;Milling:VMC-1:8.9,262.18,SYN-2404-0816,2024-04-16
+Synthetic Customer 03,Coupling 0949,SYN-P-00949,40Cr4,3.7769,Milling:VMC-1:6.8;Drilling:DRL-1:6.5;Grinding:GRD-1:10.7,349.96,SYN-2602-0949,2026-02-19
+Synthetic Customer 02,Hub flange 1143,SYN-P-01143,C45,2.3824,Grinding:GRD-1:11.2;Turning:CNC-T1:10.0;Milling:VMC-1:2.7,261.37,SYN-2401-1143,2024-01-28
+Synthetic Customer 12,Lift arm 0017,SYN-P-00017,20MnCr5,7.1424,Milling:VMC-1:8.6;Drilling:DRL-1:8.1;Grinding:GRD-1:8.4,631.27,SYN-2607-0017,2026-07-24
+Synthetic Customer 12,Hub flange 1284,SYN-P-01284,20MnCr5,4.9069,Turning:CNC-T1:9.7,474.58,SYN-2506-1284,2025-06-03
+Synthetic Customer 07,Bush 1304,SYN-P-01304,EN8,4.2756,Turning:CNC-T1:6.5;Milling:VMC-1:5.3;Drilling:DRL-1:3.7,385.51,SYN-2503-1304,2025-03-08
+Synthetic Customer 03,Gear blank 0943,SYN-P-00943,40Cr4,2.5235,Grinding:GRD-1:3.6,236.62,SYN-2403-0943,2024-03-11
+Synthetic Customer 08,Pinion 1111,SYN-P-01111,C45,6.1636,Grinding:GRD-1:10.8,577.46,SYN-2510-1111,2025-10-27
+Synthetic Customer 02,Gear blank 0726,SYN-P-00726,EN19,6.1805,Drilling:DRL-1:4.4,549.48,SYN-2606-0726,2026-06-01
+Synthetic Customer 12,Axle shaft 0981,SYN-P-00981,EN8,4.1563,Milling:VMC-1:10.0,373.69,SYN-2409-0981,2024-09-10
+Synthetic Customer 11,Axle shaft 0787,SYN-P-00787,20MnCr5,5.2487,Grinding:GRD-1:10.4;Turning:CNC-T1:5.0,504.70,SYN-2411-0787,2024-11-20
+Synthetic Customer 12,Pinion 1151,SYN-P-01151,EN19,3.1820,Grinding:GRD-1:1.4;Turning:CNC-T1:6.0;Milling:VMC-1:10.2,320.31,SYN-2403-1151,2024-03-27
+Synthetic Customer 04,Hub flange 0930,SYN-P-00930,C45,1.1492,Drilling:DRL-1:4.1;Grinding:GRD-1:4.4;Turning:CNC-T1:6.9,130.56,SYN-2408-0930,2024-08-28
+Synthetic Customer 06,Gear blank 1042,SYN-P-01042,EN19,0.7910,Drilling:DRL-1:5.5;Grinding:GRD-1:2.8;Turning:CNC-T1:6.7,88.93,SYN-2408-1042,2024-08-13
+Synthetic Customer 11,Pinion 0828,SYN-P-00828,20MnCr5,7.3898,Turning:CNC-T1:0.7;Milling:VMC-1:11.1;Drilling:DRL-1:6.1,680.41,SYN-2507-0828,2025-07-01
+Synthetic Customer 06,Pinion 0284,SYN-P-00284,EN19,7.3872,Turning:CNC-T1:8.1;Milling:VMC-1:11.3,681.17,SYN-2502-0284,2025-02-26
+Synthetic Customer 03,Lift arm 0137,SYN-P-00137,40Cr4,5.6922,Milling:VMC-1:9.3,516.77,SYN-2412-0137,2024-12-01
+Synthetic Customer 12,Hub flange 0309,SYN-P-00309,EN8,7.0750,Milling:VMC-1:3.7;Drilling:DRL-1:5.0;Grinding:GRD-1:1.1,644.15,SYN-2506-0309,2025-06-06
+Synthetic Customer 10,Yoke 1038,SYN-P-01038,EN19,7.8038,Drilling:DRL-1:5.5;Grinding:GRD-1:8.5,701.66,SYN-2510-1038,2025-10-12
+Synthetic Customer 10,Spindle 0929,SYN-P-00929,C45,1.3770,Milling:VMC-1:6.2;Drilling:DRL-1:0.7,168.48,SYN-2410-0929,2024-10-14
+Synthetic Customer 04,Yoke 0916,SYN-P-00916,EN19,4.0637,Turning:CNC-T1:7.1;Milling:VMC-1:2.2,374.07,SYN-2407-0916,2024-07-16
+Synthetic Customer 09,Lift arm 0123,SYN-P-00123,EN19,0.2909,Grinding:GRD-1:7.9;Turning:CNC-T1:1.1,62.55,SYN-2511-0123,2025-11-14
+Synthetic Customer 12,Axle shaft 1290,SYN-P-01290,40Cr4,5.5445,Drilling:DRL-1:4.4;Grinding:GRD-1:1.8,502.17,SYN-2607-1290,2026-07-14
+Synthetic Customer 11,Bush 1225,SYN-P-01225,EN19,7.1785,Milling:VMC-1:2.1,637.39,SYN-2410-1225,2024-10-01
+Synthetic Customer 06,Axle shaft 1286,SYN-P-01286,40Cr4,6.4604,Drilling:DRL-1:1.4;Grinding:GRD-1:9.1,598.45,SYN-2508-1286,2025-08-21
+Synthetic Customer 03,Lift arm 0046,SYN-P-00046,40Cr4,0.7082,Drilling:DRL-1:6.8;Grinding:GRD-1:9.6,83.14,SYN-2612-0046,2026-12-22
+Synthetic Customer 12,Hub flange 1175,SYN-P-01175,20MnCr5,5.3225,Grinding:GRD-1:10.1;Turning:CNC-T1:2.7,473.29,SYN-2504-1175,2025-04-10
+Synthetic Customer 04,Brake pin 1095,SYN-P-01095,EN19,4.1308,Grinding:GRD-1:6.7;Turning:CNC-T1:7.0;Milling:VMC-1:9.0,393.77,SYN-2601-1095,2026-01-08
+Synthetic Customer 06,Yoke 0326,SYN-P-00326,40Cr4,3.6754,Drilling:DRL-1:10.0;Grinding:GRD-1:4.5,337.95,SYN-2610-0326,2026-10-18
+Synthetic Customer 09,Bush 0617,SYN-P-00617,C45,7.3379,Milling:VMC-1:7.7;Drilling:DRL-1:3.7,675.09,SYN-2404-0617,2024-04-12
+Synthetic Customer 06,Spindle 0056,SYN-P-00056,EN8,5.4683,Turning:CNC-T1:8.1,511.76,SYN-2608-0056,2026-08-12
+Synthetic Customer 06,Axle shaft 0100,SYN-P-00100,20MnCr5,0.6026,Turning:CNC-T1:2.2,103.78,SYN-2406-0100,2024-06-06
+Synthetic Customer 05,Gear blank 1193,SYN-P-01193,EN8,7.0908,Milling:VMC-1:2.6,625.56,SYN-2609-1193,2026-09-08
+Synthetic Customer 05,Pinion 0412,SYN-P-00412,40Cr4,6.5390,Turning:CNC-T1:3.0;Milling:VMC-1:9.4,580.22,SYN-2504-0412,2025-04-09
+Synthetic Customer 09,Gear blank 0173,SYN-P-00173,20MnCr5,5.7507,Milling:VMC-1:3.0;Drilling:DRL-1:9.2,529.78,SYN-2404-0173,2024-04-09
+Synthetic Customer 04,Pinion 1359,SYN-P-01359,EN19,0.7928,Grinding:GRD-1:2.4;Turning:CNC-T1:10.1;Milling:VMC-1:8.9,109.83,SYN-2608-1359,2026-08-01
+Synthetic Customer 03,Hub flange 0622,SYN-P-00622,40Cr4,4.7516,Drilling:DRL-1:3.0;Grinding:GRD-1:3.3,434.48,SYN-2406-0622,2024-06-07
+Synthetic Customer 06,Spindle 0745,SYN-P-00745,EN8,4.1794,Milling:VMC-1:9.7;Drilling:DRL-1:2.5,377.81,SYN-2612-0745,2026-12-01
+Synthetic Customer 06,Brake pin 0660,SYN-P-00660,EN8,6.2904,Turning:CNC-T1:4.8;Milling:VMC-1:7.5,562.51,SYN-2406-0660,2024-06-25
+Synthetic Customer 12,Bush 1343,SYN-P-01343,EN8,5.9341,Grinding:GRD-1:3.6,552.25,SYN-2603-1343,2026-03-25
+Synthetic Customer 06,Bush 0982,SYN-P-00982,C45,7.9717,Drilling:DRL-1:1.5;Grinding:GRD-1:6.8;Turning:CNC-T1:4.9,704.75,SYN-2604-0982,2026-04-18
+Synthetic Customer 11,Bush 0037,SYN-P-00037,20MnCr5,7.0699,Milling:VMC-1:10.4;Drilling:DRL-1:7.8,652.91,SYN-2603-0037,2026-03-01
+Synthetic Customer 08,Yoke 0542,SYN-P-00542,EN19,2.4705,Drilling:DRL-1:7.3;Grinding:GRD-1:5.9,265.73,SYN-2405-0542,2024-05-13
+Synthetic Customer 02,Coupling 0756,SYN-P-00756,EN19,5.2637,Turning:CNC-T1:7.4;Milling:VMC-1:4.5;Drilling:DRL-1:7.3,473.41,SYN-2610-0756,2026-10-14
+Synthetic Customer 05,Pinion 0970,SYN-P-00970,40Cr4,7.5395,Drilling:DRL-1:3.2,665.83,SYN-2609-0970,2026-09-02
+Synthetic Customer 03,Brake pin 1119,SYN-P-01119,EN19,1.7150,Grinding:GRD-1:5.7;Turning:CNC-T1:6.1;Milling:VMC-1:4.6,184.22,SYN-2508-1119,2025-08-11
+Synthetic Customer 10,Hub flange 0439,SYN-P-00439,20MnCr5,3.5667,Grinding:GRD-1:8.9,344.00,SYN-2501-0439,2025-01-09
+Synthetic Customer 12,Spindle 0468,SYN-P-00468,20MnCr5,6.8273,Turning:CNC-T1:2.3;Milling:VMC-1:4.0;Drilling:DRL-1:6.0,611.52,SYN-2501-0468,2025-01-16
+Synthetic Customer 12,Bush 1325,SYN-P-01325,C45,0.3259,Milling:VMC-1:10.7,71.09,SYN-2502-1325,2025-02-01
+Synthetic Customer 04,Axle shaft 1226,SYN-P-01226,C45,1.6568,Drilling:DRL-1:6.2;Grinding:GRD-1:6.6,168.18,SYN-2402-1226,2024-02-08
+Synthetic Customer 08,Bush 1017,SYN-P-01017,EN8,4.6120,Milling:VMC-1:2.5;Drilling:DRL-1:1.4;Grinding:GRD-1:5.7,413.01,SYN-2602-1017,2026-02-13
+Synthetic Customer 12,Lift arm 0653,SYN-P-00653,40Cr4,2.6284,Milling:VMC-1:1.9;Drilling:DRL-1:5.5;Grinding:GRD-1:1.3,246.09,SYN-2602-0653,2026-02-20
+Synthetic Customer 06,Axle shaft 1034,SYN-P-01034,EN19,6.3721,Drilling:DRL-1:1.3;Grinding:GRD-1:3.1,562.56,SYN-2508-1034,2025-08-18
+Synthetic Customer 09,Axle shaft 0541,SYN-P-00541,40Cr4,0.7013,Milling:VMC-1:10.6;Drilling:DRL-1:4.9,94.95,SYN-2506-0541,2025-06-05
+Synthetic Customer 11,Spindle 1358,SYN-P-01358,20MnCr5,4.1048,Drilling:DRL-1:3.9;Grinding:GRD-1:7.5;Turning:CNC-T1:3.3,372.02,SYN-2401-1358,2024-01-28
+Synthetic Customer 04,Coupling 0770,SYN-P-00770,EN19,3.0990,Drilling:DRL-1:7.8;Grinding:GRD-1:1.2,307.59,SYN-2610-0770,2026-10-08
+Synthetic Customer 11,Lift arm 0863,SYN-P-00863,EN19,2.5508,Grinding:GRD-1:6.5;Turning:CNC-T1:8.9,237.35,SYN-2510-0863,2025-10-11
+Synthetic Customer 04,Hub flange 0089,SYN-P-00089,40Cr4,4.9488,Milling:VMC-1:10.6;Drilling:DRL-1:7.5;Grinding:GRD-1:7.8,479.26,SYN-2606-0089,2026-06-05
+Synthetic Customer 12,Axle shaft 0451,SYN-P-00451,40Cr4,5.7930,Grinding:GRD-1:3.3,523.93,SYN-2407-0451,2024-07-13
+Synthetic Customer 02,Hub flange 0086,SYN-P-00086,20MnCr5,0.8484,Drilling:DRL-1:1.0;Grinding:GRD-1:3.3,99.41,SYN-2410-0086,2024-10-24
+Synthetic Customer 08,Yoke 0105,SYN-P-00105,EN8,5.8374,Milling:VMC-1:1.0,542.85,SYN-2507-0105,2025-07-25
+Synthetic Customer 09,Spindle 0125,SYN-P-00125,40Cr4,1.6691,Milling:VMC-1:1.6,188.27,SYN-2503-0125,2025-03-02
+Synthetic Customer 07,Pinion 0658,SYN-P-00658,20MnCr5,6.0084,Drilling:DRL-1:5.6;Grinding:GRD-1:9.3;Turning:CNC-T1:9.1,554.75,SYN-2502-0658,2025-02-17
+Synthetic Customer 05,Spindle 0022,SYN-P-00022,C45,0.5288,Drilling:DRL-1:5.8;Grinding:GRD-1:10.9,93.13,SYN-2503-0022,2025-03-14
+Synthetic Customer 08,Lift arm 0513,SYN-P-00513,40Cr4,0.9396,Milling:VMC-1:8.7;Drilling:DRL-1:6.3,133.60,SYN-2610-0513,2026-10-01
+Synthetic Customer 12,Pinion 0878,SYN-P-00878,40Cr4,7.4024,Drilling:DRL-1:11.0,660.32,SYN-2401-0878,2024-01-22
+Synthetic Customer 01,Bush 0269,SYN-P-00269,EN19,2.2718,Milling:VMC-1:6.1,250.90,SYN-2612-0269,2026-12-07
+Synthetic Customer 06,Spindle 1263,SYN-P-01263,20MnCr5,3.8741,Grinding:GRD-1:10.3;Turning:CNC-T1:8.9,350.85,SYN-2505-1263,2025-05-07
+Synthetic Customer 03,Yoke 0226,SYN-P-00226,C45,2.3455,Drilling:DRL-1:9.7;Grinding:GRD-1:0.7;Turning:CNC-T1:1.6,230.89,SYN-2411-0226,2024-11-08
+Synthetic Customer 10,Coupling 0073,SYN-P-00073,20MnCr5,5.0853,Milling:VMC-1:11.0;Drilling:DRL-1:10.7,490.40,SYN-2511-0073,2025-11-05
+Synthetic Customer 11,Yoke 0258,SYN-P-00258,20MnCr5,6.6956,Drilling:DRL-1:7.9;Grinding:GRD-1:6.0;Turning:CNC-T1:9.5,595.55,SYN-2404-0258,2024-04-24
+Synthetic Customer 09,Axle shaft 1079,SYN-P-01079,EN8,4.0995,Grinding:GRD-1:7.9;Turning:CNC-T1:2.1;Milling:VMC-1:2.9,387.02,SYN-2506-1079,2025-06-03
+Synthetic Customer 02,Axle shaft 0146,SYN-P-00146,EN19,4.8555,Drilling:DRL-1:6.6;Grinding:GRD-1:6.7,446.75,SYN-2602-0146,2026-02-25
+Synthetic Customer 02,Pinion 0992,SYN-P-00992,EN8,2.3647,Turning:CNC-T1:9.7;Milling:VMC-1:7.4;Drilling:DRL-1:6.9,224.41,SYN-2510-0992,2025-10-16
+Synthetic Customer 11,Spindle 0027,SYN-P-00027,40Cr4,1.3734,Grinding:GRD-1:6.4,162.02,SYN-2408-0027,2024-08-20
+Synthetic Customer 02,Spindle 0288,SYN-P-00288,40Cr4,0.5468,Turning:CNC-T1:3.2,80.97,SYN-2408-0288,2024-08-01
+Synthetic Customer 03,Axle shaft 0729,SYN-P-00729,C45,2.4245,Milling:VMC-1:4.7,238.89,SYN-2409-0729,2024-09-19
+Synthetic Customer 05,Bush 0562,SYN-P-00562,EN8,3.8850,Drilling:DRL-1:9.4,376.35,SYN-2602-0562,2026-02-28
+Synthetic Customer 02,Lift arm 0650,SYN-P-00650,40Cr4,3.4750,Drilling:DRL-1:4.7,351.48,SYN-2608-0650,2026-08-19
+Synthetic Customer 12,Yoke 0298,SYN-P-00298,40Cr4,7.6009,Drilling:DRL-1:4.5,675.17,SYN-2406-0298,2024-06-05
+Synthetic Customer 05,Pinion 1341,SYN-P-01341,EN8,0.2176,Milling:VMC-1:10.3,74.61,SYN-2408-1341,2024-08-21
+Synthetic Customer 05,Axle shaft 0101,SYN-P-00101,EN19,3.3636,Milling:VMC-1:2.2,324.03,SYN-2601-0101,2026-01-15
+Synthetic Customer 08,Hub flange 0952,SYN-P-00952,C45,1.9869,Turning:CNC-T1:4.8,194.13,SYN-2402-0952,2024-02-10
+Synthetic Customer 04,Pinion 0883,SYN-P-00883,EN19,3.6171,Grinding:GRD-1:10.9;Turning:CNC-T1:2.0;Milling:VMC-1:9.7,351.59,SYN-2502-0883,2025-02-25
+Synthetic Customer 04,Hub flange 0558,SYN-P-00558,20MnCr5,2.4443,Drilling:DRL-1:5.3,235.12,SYN-2411-0558,2024-11-14
+Synthetic Customer 03,Pinion 0113,SYN-P-00113,40Cr4,3.4746,Milling:VMC-1:10.2;Drilling:DRL-1:7.6;Grinding:GRD-1:3.0,339.06,SYN-2605-0113,2026-05-16
+Synthetic Customer 03,Coupling 0203,SYN-P-00203,C45,3.0260,Grinding:GRD-1:0.8;Turning:CNC-T1:2.6;Milling:VMC-1:5.2,307.96,SYN-2609-0203,2026-09-16
+Synthetic Customer 03,Lift arm 0374,SYN-P-00374,EN8,0.5619,Drilling:DRL-1:6.8,87.45,SYN-2412-0374,2024-12-04
+Synthetic Customer 08,Brake pin 1242,SYN-P-01242,40Cr4,3.0497,Drilling:DRL-1:10.9;Grinding:GRD-1:8.3;Turning:CNC-T1:9.3,313.12,SYN-2405-1242,2024-05-18
+Synthetic Customer 12,Yoke 0135,SYN-P-00135,EN8,3.9210,Grinding:GRD-1:0.6;Turning:CNC-T1:5.9,361.55,SYN-2407-0135,2024-07-26
+Synthetic Customer 05,Bush 0103,SYN-P-00103,20MnCr5,5.2285,Grinding:GRD-1:4.4,499.20,SYN-2501-0103,2025-01-09
+Synthetic Customer 03,Brake pin 1372,SYN-P-01372,,5.1001,Turning:CNC-T1:6.8;Milling:VMC-1:5.9;Drilling:DRL-1:0.7,482.81,SYN-2601-1372,2026-01-14
+Synthetic Customer 05,Brake pin 0486,SYN-P-00486,C45,1.7664,Drilling:DRL-1:10.8;Grinding:GRD-1:3.9,198.39,SYN-2501-0486,2025-01-19
+Synthetic Customer 01,Coupling 0679,SYN-P-00679,40Cr4,1.9265,Grinding:GRD-1:1.9;Turning:CNC-T1:5.3;Milling:VMC-1:7.9,219.66,SYN-2511-0679,2025-11-25
+Synthetic Customer 05,Hub flange 0600,SYN-P-00600,EN19,1.2323,Turning:CNC-T1:2.7;Milling:VMC-1:3.8;Drilling:DRL-1:4.8,151.06,SYN-2402-0600,2024-02-21
+Synthetic Customer 04,Yoke 0514,SYN-P-00514,EN8,5.4059,Drilling:DRL-1:2.8,502.32,SYN-2603-0514,2026-03-17
+Synthetic Customer 02,Yoke 1096,SYN-P-01096,EN8,6.7200,Turning:CNC-T1:10.5,600.37,SYN-2611-1096,2026-11-14
+Synthetic Customer 10,Spindle 0151,SYN-P-00151,20MnCr5,4.6868,Grinding:GRD-1:10.0,444.58,SYN-2408-0151,2024-08-25
+Synthetic Customer 07,Bush 1230,SYN-P-01230,EN8,1.9231,Drilling:DRL-1:3.3;Grinding:GRD-1:3.3,207.62,SYN-2611-1230,2026-11-09
+Synthetic Customer 06,Bush 0478,SYN-P-00478,C45,6.9989,Drilling:DRL-1:9.0,633.66,SYN-2502-0478,2025-02-10
+Synthetic Customer 08,Gear blank 0225,SYN-P-00225,EN19,7.2133,Milling:VMC-1:8.9;Drilling:DRL-1:8.4,669.85,SYN-2502-0225,2025-02-20
+Synthetic Customer 11,Coupling 0917,SYN-P-00917,C45,5.9673,Milling:VMC-1:3.6;Drilling:DRL-1:6.4,546.13,SYN-2411-0917,2024-11-18
+,Hub flange 1376,SYN-P-01376,EN19,4.0527,Turning:CNC-T1:6.5;Milling:VMC-1:0.7,384.89,SYN-2410-1376,2024-10-07
+Synthetic Customer 06,Axle shaft 0161,SYN-P-00161,EN19,4.8684,Milling:VMC-1:2.8,472.84,SYN-2404-0161,2024-04-23
+Synthetic Customer 01,Brake pin 0649,SYN-P-00649,20MnCr5,6.5894,Milling:VMC-1:10.3;Drilling:DRL-1:2.4;Grinding:GRD-1:9.0,614.00,SYN-2508-0649,2025-08-25
+Synthetic Customer 08,Hub flange 1227,SYN-P-01227,20MnCr5,5.0317,Grinding:GRD-1:9.6;Turning:CNC-T1:6.0;Milling:VMC-1:9.7,484.02,SYN-2407-1227,2024-07-06
+Synthetic Customer 08,Gear blank 1214,SYN-P-01214,20MnCr5,4.9276,Drilling:DRL-1:8.4,468.15,SYN-2406-1214,2024-06-19
+Synthetic Customer 09,Coupling 1182,SYN-P-01182,40Cr4,6.2419,Drilling:DRL-1:9.0;Grinding:GRD-1:0.8;Turning:CNC-T1:1.2,573.01,SYN-2604-1182,2026-04-12
+Synthetic Customer 07,Yoke 1007,SYN-P-01007,C45,2.1844,Grinding:GRD-1:6.9;Turning:CNC-T1:2.8,228.12,SYN-2608-1007,2026-08-05
+Synthetic Customer 11,Pinion 0410,SYN-P-00410,40Cr4,4.3614,Drilling:DRL-1:6.4;Grinding:GRD-1:7.9,428.25,SYN-2609-0410,2026-09-23
+Synthetic Customer 10,Lift arm 0730,SYN-P-00730,EN8,1.8826,Drilling:DRL-1:9.6,196.49,SYN-2403-0730,2024-03-04
+Synthetic Customer 04,Axle shaft 0512,SYN-P-00512,EN8,1.4751,Turning:CNC-T1:9.9,168.69,SYN-2603-0512,2026-03-04
+Synthetic Customer 08,Coupling 0511,SYN-P-00511,EN8,7.5775,Grinding:GRD-1:10.9;Turning:CNC-T1:10.3,679.26,SYN-2604-0511,2026-04-03
+Synthetic Customer 04,Brake pin 0063,SYN-P-00063,EN19,0.2735,Grinding:GRD-1:8.0;Turning:CNC-T1:4.7,78.68,SYN-2605-0063,2026-05-27
+Synthetic Customer 03,Pinion 0841,SYN-P-00841,C45,6.9739,Milling:VMC-1:5.8,618.35,SYN-2407-0841,2024-07-09
+Synthetic Customer 09,Brake pin 0243,SYN-P-00243,40Cr4,3.6158,Grinding:GRD-1:4.8;Turning:CNC-T1:8.4;Milling:VMC-1:5.2,330.32,SYN-2606-0243,2026-06-20
+Synthetic Customer 12,Yoke 0548,SYN-P-00548,EN8,3.1196,Turning:CNC-T1:3.4;Milling:VMC-1:1.9;Drilling:DRL-1:9.1,291.55,SYN-2504-0548,2025-04-03
+Synthetic Customer 11,Brake pin 0230,SYN-P-00230,C45,3.4272,Drilling:DRL-1:5.0;Grinding:GRD-1:1.5;Turning:CNC-T1:0.6,311.81,SYN-2410-0230,2024-10-10
+Synthetic Customer 07,Yoke 0169,SYN-P-00169,EN19,5.3613,Milling:VMC-1:4.7;Drilling:DRL-1:7.6,476.13,SYN-2606-0169,2026-06-02
+Synthetic Customer 07,Spindle 0971,SYN-P-00971,40Cr4,0.6996,Grinding:GRD-1:6.9;Turning:CNC-T1:5.9;Milling:VMC-1:3.3,84.48,SYN-2606-0971,2026-06-03
+Synthetic Customer 09,Yoke 1146,SYN-P-01146,20MnCr5,6.7813,Drilling:DRL-1:4.1;Grinding:GRD-1:7.9;Turning:CNC-T1:1.4,604.26,SYN-2606-1146,2026-06-11
+Synthetic Customer 12,Pinion 0961,SYN-P-00961,40Cr4,5.6879,Milling:VMC-1:11.5;Drilling:DRL-1:7.1,534.15,SYN-2410-0961,2024-10-18
+Synthetic Customer 11,Hub flange 0436,SYN-P-00436,40Cr4,6.7180,Turning:CNC-T1:7.9,603.98,SYN-2612-0436,2026-12-08
+Synthetic Customer 10,Lift arm 0192,SYN-P-00192,C45,6.2327,Turning:CNC-T1:10.1;Milling:VMC-1:4.3;Drilling:DRL-1:6.4,553.16,SYN-2608-0192,2026-08-06
+Synthetic Customer 07,Axle shaft 0578,SYN-P-00578,C45,7.6243,Drilling:DRL-1:7.9;Grinding:GRD-1:4.2;Turning:CNC-T1:2.4,673.04,SYN-2406-0578,2024-06-18
+Synthetic Customer 06,Axle shaft 0614,SYN-P-00614,C45,5.3376,Drilling:DRL-1:1.1;Grinding:GRD-1:9.6,504.14,SYN-2408-0614,2024-08-08
+Synthetic Customer 12,Spindle 0450,SYN-P-00450,20MnCr5,0.7401,Drilling:DRL-1:1.5;Grinding:GRD-1:9.0;Turning:CNC-T1:10.5,91.22,SYN-2601-0450,2026-01-10
+Synthetic Customer 09,Lift arm 1158,SYN-P-01158,EN8,2.5611,Drilling:DRL-1:0.8;Grinding:GRD-1:11.4,239.42,SYN-2406-1158,2024-06-15
+Synthetic Customer 04,Coupling 0586,SYN-P-00586,C45,1.5672,Drilling:DRL-1:1.9,186.54,SYN-2612-0586,2026-12-28
+Synthetic Customer 05,Coupling 0401,SYN-P-00401,20MnCr5,5.5280,Milling:VMC-1:10.8,512.32,SYN-2402-0401,2024-02-03
+Synthetic Customer 11,Axle shaft 0453,SYN-P-00453,EN19,0.3292,Milling:VMC-1:9.2,76.97,SYN-2404-0453,2024-04-10
+Synthetic Customer 02,Lift arm 0742,SYN-P-00742,C45,1.0637,Drilling:DRL-1:3.8,111.94,SYN-2411-0742,2024-11-08
+Synthetic Customer 05,Lift arm 1289,SYN-P-01289,40Cr4,5.8077,Milling:VMC-1:6.4,544.61,SYN-2503-1289,2025-03-12
+Synthetic Customer 02,Spindle 1011,SYN-P-01011,40Cr4,5.8656,Grinding:GRD-1:10.1;Turning:CNC-T1:11.1;Milling:VMC-1:2.3,540.19,SYN-2607-1011,2026-07-13
+Synthetic Customer 09,Lift arm 0524,SYN-P-00524,EN8,3.9779,Turning:CNC-T1:2.0,362.32,SYN-2403-0524,2024-03-06
+Synthetic Customer 01,Yoke 0670,SYN-P-00670,20MnCr5,0.8151,Drilling:DRL-1:10.6;Grinding:GRD-1:2.3,100.98,SYN-2408-0670,2024-08-05
+Synthetic Customer 01,Brake pin 0012,SYN-P-00012,40Cr4,4.4829,Turning:CNC-T1:5.4;Milling:VMC-1:8.9,411.90,SYN-2509-0012,2025-09-14
+Synthetic Customer 12,Pinion 0131,SYN-P-00131,C45,3.4887,Grinding:GRD-1:10.4;Turning:CNC-T1:9.9;Milling:VMC-1:0.9,342.78,SYN-2409-0131,2024-09-08
+Synthetic Customer 07,Coupling 0020,SYN-P-00020,EN8,1.3763,Turning:CNC-T1:1.4;Milling:VMC-1:4.0,168.25,SYN-2408-0020,2024-08-13
+Synthetic Customer 01,Pinion 0397,SYN-P-00397,EN8,2.0874,Milling:VMC-1:5.6,220.84,SYN-2409-0397,2024-09-23
+Synthetic Customer 02,Bush 1078,SYN-P-01078,EN19,0.4614,Drilling:DRL-1:10.9;Grinding:GRD-1:1.1,69.95,SYN-2402-1078,2024-02-21
+Synthetic Customer 07,Yoke 0059,SYN-P-00059,40Cr4,6.1571,Grinding:GRD-1:1.0;Turning:CNC-T1:6.9,561.25,SYN-2407-0059,2024-07-22
+Synthetic Customer 11,Lift arm 0038,SYN-P-00038,C45,2.6751,Drilling:DRL-1:2.3,251.93,SYN-2605-0038,2026-05-06
+Synthetic Customer 12,Yoke 0717,SYN-P-00717,EN8,6.8979,Milling:VMC-1:6.7;Drilling:DRL-1:4.7,614.12,SYN-2502-0717,2025-02-02
+Synthetic Customer 04,Bush 0608,SYN-P-00608,EN19,6.9425,Turning:CNC-T1:8.2;Milling:VMC-1:4.7,629.74,SYN-2405-0608,2024-05-22
+Synthetic Customer 01,Gear blank 0345,SYN-P-00345,40Cr4,1.3425,Milling:VMC-1:9.4,158.54,SYN-2402-0345,2024-02-22
+Synthetic Customer 02,Spindle 0083,SYN-P-00083,40Cr4,7.5582,Grinding:GRD-1:11.0;Turning:CNC-T1:6.0,702.01,SYN-2508-0083,2025-08-20
+Synthetic Customer 04,Pinion 0340,SYN-P-00340,EN8,7.5355,Turning:CNC-T1:7.7;Milling:VMC-1:9.7;Drilling:DRL-1:4.8,683.48,SYN-2604-0340,2026-04-03
+Synthetic Customer 05,Brake pin 0054,SYN-P-00054,20MnCr5,3.5390,Drilling:DRL-1:5.2;Grinding:GRD-1:3.2;Turning:CNC-T1:9.1,335.73,SYN-2601-0054,2026-01-16
+Synthetic Customer 10,Spindle 0621,SYN-P-00621,C45,6.5522,Milling:VMC-1:10.3;Drilling:DRL-1:2.9;Grinding:GRD-1:7.2,581.65,SYN-2411-0621,2024-11-13
+Synthetic Customer 04,Brake pin 0216,SYN-P-00216,20MnCr5,3.7745,Turning:CNC-T1:5.7,360.87,SYN-2605-0216,2026-05-12
+Synthetic Customer 12,Yoke 1037,SYN-P-01037,20MnCr5,4.8566,Milling:VMC-1:8.3,470.12,SYN-2501-1037,2025-01-21
+Synthetic Customer 07,Lift arm 0302,SYN-P-00302,EN8,5.0901,Drilling:DRL-1:10.5,489.74,SYN-2405-0302,2024-05-06
+Synthetic Customer 01,Hub flange 1208,SYN-P-01208,20MnCr5,7.8505,Turning:CNC-T1:9.6;Milling:VMC-1:8.6,716.07,SYN-2602-1208,2026-02-16
+Synthetic Customer 03,Axle shaft 0406,SYN-P-00406,EN8,7.4149,Drilling:DRL-1:5.0;Grinding:GRD-1:7.1;Turning:CNC-T1:4.4,651.33,SYN-2512-0406,2025-12-07
+Synthetic Customer 03,Pinion 0147,SYN-P-00147,EN19,6.8313,Grinding:GRD-1:7.8;Turning:CNC-T1:9.3,630.21,SYN-2612-0147,2026-12-15
+Synthetic Customer 06,Bush 1268,SYN-P-01268,EN19,5.9837,Turning:CNC-T1:1.0;Milling:VMC-1:11.0,550.52,SYN-2507-1268,2025-07-15
+Synthetic Customer 10,Brake pin 0846,SYN-P-00846,C45,6.1733,Drilling:DRL-1:5.2;Grinding:GRD-1:10.2;Turning:CNC-T1:5.3,560.01,SYN-2605-0846,2026-05-24
+Synthetic Customer 08,Axle shaft 1039,SYN-P-01039,EN19,2.7370,Grinding:GRD-1:8.4,279.24,SYN-2406-1039,2024-06-23
+Synthetic Customer 04,Gear blank 1322,SYN-P-01322,20MnCr5,1.5305,Drilling:DRL-1:9.8,161.22,SYN-2605-1322,2026-05-17
+Synthetic Customer 12,Gear blank 0852,SYN-P-00852,C45,3.0351,Turning:CNC-T1:10.0,278.29,SYN-2512-0852,2025-12-11
+Synthetic Customer 10,Coupling 0235,SYN-P-00235,C45,3.9711,Grinding:GRD-1:6.4;Turning:CNC-T1:10.8,360.55,SYN-2508-0235,2025-08-17
+Synthetic Customer 11,Spindle 1116,SYN-P-01116,C45,7.5994,Turning:CNC-T1:3.9;Milling:VMC-1:8.8,676.20,SYN-2406-1116,2024-06-18
+Synthetic Customer 03,Axle shaft 0445,SYN-P-00445,C45,3.0320,Milling:VMC-1:7.2;Drilling:DRL-1:10.3;Grinding:GRD-1:6.5,279.26,SYN-2605-0445,2026-05-04
+Synthetic Customer 09,Hub flange 1350,SYN-P-01350,20MnCr5,7.0200,Drilling:DRL-1:1.6;Grinding:GRD-1:5.3;Turning:CNC-T1:0.5,628.90,SYN-2507-1350,2025-07-26
+Synthetic Customer 03,Gear blank 0959,SYN-P-00959,40Cr4,0.3467,Grinding:GRD-1:5.2;Turning:CNC-T1:2.1;Milling:VMC-1:7.5,63.30,SYN-2607-0959,2026-07-27
+Synthetic Customer 03,Gear blank 0867,SYN-P-00867,EN8,4.6661,Grinding:GRD-1:5.8;Turning:CNC-T1:8.4;Milling:VMC-1:4.5,436.58,SYN-2510-0867,2025-10-16
+Synthetic Customer 12,Coupling 0386,SYN-P-00386,20MnCr5,2.6431,Drilling:DRL-1:11.4;Grinding:GRD-1:9.9,277.54,SYN-2502-0386,2025-02-07
+Synthetic Customer 04,Gear blank 0266,SYN-P-00266,EN8,3.7710,Drilling:DRL-1:11.2;Grinding:GRD-1:3.0;Turning:CNC-T1:4.9,358.94,SYN-2407-0266,2024-07-18
+Synthetic Customer 10,Brake pin 0264,SYN-P-00264,20MnCr5,1.2345,Turning:CNC-T1:4.0;Milling:VMC-1:1.3,132.68,SYN-2509-0264,2025-09-26
+Synthetic Customer 09,Gear blank 0833,SYN-P-00833,C45,5.2782,Milling:VMC-1:2.7;Drilling:DRL-1:9.9;Grinding:GRD-1:7.9,492.04,SYN-2411-0833,2024-11-20
+Synthetic Customer 08,Axle shaft 0764,SYN-P-00764,40Cr4,3.8583,Turning:CNC-T1:3.7,348.60,SYN-2512-0764,2025-12-13
+Synthetic Customer 01,Lift arm 1332,SYN-P-01332,EN8,0.2495,Turning:CNC-T1:7.2,41.39,SYN-2504-1332,2025-04-10
+Synthetic Customer 10,Brake pin 0872,SYN-P-00872,40Cr4,7.7968,Turning:CNC-T1:2.4,691.85,SYN-2608-0872,2026-08-09
+Synthetic Customer 12,Pinion 0394,SYN-P-00394,EN8,5.8876,Drilling:DRL-1:6.4;Grinding:GRD-1:7.3,521.89,SYN-2608-0394,2026-08-23
+Synthetic Customer 12,Pinion 0064,SYN-P-00064,40Cr4,6.9520,Turning:CNC-T1:2.7;Milling:VMC-1:10.6,612.32,SYN-2607-0064,2026-07-08
+Synthetic Customer 07,Brake pin 0293,SYN-P-00293,EN8,0.9419,Milling:VMC-1:10.7;Drilling:DRL-1:4.2;Grinding:GRD-1:9.9,130.29,SYN-2403-0293,2024-03-14
+Synthetic Customer 05,Axle shaft 1382,SYN-P-01382,,3.8230,Drilling:DRL-1:7.5;Grinding:GRD-1:9.9,370.61,SYN-2502-1382,2025-02-14
+Synthetic Customer 10,Pinion 0463,SYN-P-00463,20MnCr5,0.5117,Grinding:GRD-1:4.0;Turning:CNC-T1:10.3,97.53,SYN-2601-0463,2026-01-04
+Synthetic Customer 07,Axle shaft 0128,SYN-P-00128,EN8,4.2441,Turning:CNC-T1:7.6;Milling:VMC-1:4.3;Drilling:DRL-1:2.1,403.95,SYN-2611-0128,2026-11-22
+Synthetic Customer 03,Brake pin 1105,SYN-P-01105,20MnCr5,3.7836,Milling:VMC-1:1.5;Drilling:DRL-1:3.2,360.73,SYN-2604-1105,2026-04-04
+Synthetic Customer 11,Bush 0868,SYN-P-00868,EN19,3.6905,Turning:CNC-T1:9.8;Milling:VMC-1:8.9,336.12,SYN-2602-0868,2026-02-13
+Synthetic Customer 04,Bush 0263,SYN-P-00263,20MnCr5,3.1770,Grinding:GRD-1:0.6;Turning:CNC-T1:9.9;Milling:VMC-1:10.1,316.47,SYN-2504-0263,2025-04-05
+Synthetic Customer 11,Lift arm 0332,SYN-P-00332,EN8,2.1564,Turning:CNC-T1:7.5,221.02,SYN-2507-0332,2025-07-17
+Synthetic Customer 09,Coupling 1333,SYN-P-01333,40Cr4,2.8163,Milling:VMC-1:11.2;Drilling:DRL-1:5.5,267.85,SYN-2610-1333,2026-10-24
+Synthetic Customer 09,Brake pin 0395,SYN-P-00395,EN8,3.8822,Grinding:GRD-1:11.4,376.76,SYN-2409-0395,2024-09-12
+Synthetic Customer 08,Spindle 0747,SYN-P-00747,EN8,6.7456,Grinding:GRD-1:4.3,611.25,SYN-2509-0747,2025-09-07
+Synthetic Customer 05,Pinion 0228,SYN-P-00228,40Cr4,7.7975,Turning:CNC-T1:4.5;Milling:VMC-1:11.4;Drilling:DRL-1:7.9,707.15,SYN-2604-0228,2026-04-05
+Synthetic Customer 05,Lift arm 0290,SYN-P-00290,20MnCr5,2.1743,Drilling:DRL-1:0.6;Grinding:GRD-1:11.2,235.95,SYN-2610-0290,2026-10-28
+Synthetic Customer 02,Axle shaft 0725,SYN-P-00725,EN19,1.2742,Milling:VMC-1:7.9;Drilling:DRL-1:8.8,163.05,SYN-2403-0725,2024-03-24
+Synthetic Customer 05,Coupling 0638,SYN-P-00638,EN8,5.5478,Drilling:DRL-1:6.1,513.54,SYN-2502-0638,2025-02-02
+Synthetic Customer 10,Hub flange 0356,SYN-P-00356,EN19,1.4343,Turning:CNC-T1:5.3;Milling:VMC-1:1.3;Drilling:DRL-1:2.0,147.56,SYN-2504-0356,2025-04-14
+Synthetic Customer 04,Bush 0099,SYN-P-00099,20MnCr5,2.0817,Grinding:GRD-1:2.7,228.06,SYN-2602-0099,2026-02-28
+Synthetic Customer 05,Lift arm 0671,SYN-P-00671,40Cr4,3.1835,Grinding:GRD-1:11.1,329.90,SYN-2504-0671,2025-04-13
+Synthetic Customer 11,Brake pin 1028,SYN-P-01028,EN8,0.3346,Turning:CNC-T1:10.2;Milling:VMC-1:8.2,83.31,SYN-2609-1028,2026-09-09
+Synthetic Customer 09,Bush 0087,SYN-P-00087,40Cr4,3.9418,Grinding:GRD-1:4.1,362.64,SYN-2501-0087,2025-01-14
+Synthetic Customer 05,Pinion 0824,SYN-P-00824,EN8,4.4526,Turning:CNC-T1:3.9;Milling:VMC-1:2.0,433.27,SYN-2502-0824,2025-02-15
+Synthetic Customer 02,Spindle 1190,SYN-P-01190,C45,7.1956,Drilling:DRL-1:0.9;Grinding:GRD-1:1.6;Turning:CNC-T1:9.8,636.96,SYN-2403-1190,2024-03-16
+Synthetic Customer 01,Lift arm 0352,SYN-P-00352,20MnCr5,6.2072,Turning:CNC-T1:4.9;Milling:VMC-1:6.1,548.38,SYN-2512-0352,2025-12-21
+Synthetic Customer 03,Lift arm 1209,SYN-P-01209,40Cr4,2.1155,Milling:VMC-1:3.9;Drilling:DRL-1:3.3;Grinding:GRD-1:1.7,229.68,SYN-2612-1209,2026-12-18
+Synthetic Customer 06,Pinion 0577,SYN-P-00577,20MnCr5,5.0680,Milling:VMC-1:6.9,483.75,SYN-2511-0577,2025-11-02
+Synthetic Customer 04,Coupling 0055,SYN-P-00055,EN8,3.1036,Grinding:GRD-1:4.5;Turning:CNC-T1:8.4,323.49,SYN-2404-0055,2024-04-14
+Synthetic Customer 05,Lift arm 1128,SYN-P-01128,20MnCr5,7.1017,Turning:CNC-T1:6.8;Milling:VMC-1:4.5;Drilling:DRL-1:1.8,643.95,SYN-2607-1128,2026-07-03
+Synthetic Customer 08,Hub flange 1102,SYN-P-01102,20MnCr5,3.9268,Drilling:DRL-1:1.2;Grinding:GRD-1:3.5,374.99,SYN-2612-1102,2026-12-22
+Synthetic Customer 07,Lift arm 0507,SYN-P-00507,EN8,3.4016,Grinding:GRD-1:7.0,330.05,SYN-2612-0507,2026-12-15
+Synthetic Customer 11,Yoke 0581,SYN-P-00581,40Cr4,4.9546,Milling:VMC-1:7.2,475.28,SYN-2410-0581,2024-10-27
+Synthetic Customer 07,Yoke 0164,SYN-P-00164,20MnCr5,5.0226,Turning:CNC-T1:4.7;Milling:VMC-1:10.1,459.74,SYN-2511-0164,2025-11-28
+Synthetic Customer 10,Pinion 0248,SYN-P-00248,EN8,5.9211,Turning:CNC-T1:2.3;Milling:VMC-1:6.1;Drilling:DRL-1:2.1,540.12,SYN-2501-0248,2025-01-26
+Synthetic Customer 09,Spindle 1339,SYN-P-01339,EN19,7.8735,Grinding:GRD-1:4.7;Turning:CNC-T1:2.9;Milling:VMC-1:3.0,707.79,SYN-2608-1339,2026-08-25
+Synthetic Customer 12,Axle shaft 1200,SYN-P-01200,C45,5.4716,Turning:CNC-T1:9.2;Milling:VMC-1:9.4,510.92,SYN-2607-1200,2026-07-10
+Synthetic Customer 02,Coupling 0798,SYN-P-00798,40Cr4,5.0279,Drilling:DRL-1:6.5,451.48,SYN-2409-0798,2024-09-05
+Synthetic Customer 12,Lift arm 1162,SYN-P-01162,EN19,0.6435,Drilling:DRL-1:2.1,105.76,SYN-2509-1162,2025-09-28
+Synthetic Customer 09,Hub flange 0244,SYN-P-00244,EN8,1.5041,Turning:CNC-T1:5.1,178.27,SYN-2503-0244,2025-03-24
+,Pinion 1361,SYN-P-01361,40Cr4,6.1822,Milling:VMC-1:4.1;Drilling:DRL-1:5.1;Grinding:GRD-1:6.5,575.63,SYN-2401-1361,2024-01-14
+Synthetic Customer 03,Yoke 0955,SYN-P-00955,20MnCr5,4.7944,Grinding:GRD-1:9.2,463.39,SYN-2604-0955,2026-04-09
+Synthetic Customer 03,Coupling 0757,SYN-P-00757,EN8,3.1977,Milling:VMC-1:1.0;Drilling:DRL-1:7.7;Grinding:GRD-1:4.8,299.57,SYN-2404-0757,2024-04-26
+Synthetic Customer 05,Yoke 0675,SYN-P-00675,EN8,2.3483,Grinding:GRD-1:8.6;Turning:CNC-T1:8.3,230.67,SYN-2503-0675,2025-03-27
+Synthetic Customer 01,Axle shaft 0088,SYN-P-00088,40Cr4,0.6108,Turning:CNC-T1:3.4,95.60,SYN-2605-0088,2026-05-24
+Synthetic Customer 08,Bush 0115,SYN-P-00115,20MnCr5,1.8737,Grinding:GRD-1:1.0;Turning:CNC-T1:9.2;Milling:VMC-1:0.9,201.37,SYN-2601-0115,2026-01-10
+Synthetic Customer 08,Yoke 1008,SYN-P-01008,20MnCr5,1.5275,Turning:CNC-T1:4.2;Milling:VMC-1:9.5,182.34,SYN-2611-1008,2026-11-22
+Synthetic Customer 11,Hub flange 0876,SYN-P-00876,C45,0.9350,Turning:CNC-T1:3.1,100.64,SYN-2504-0876,2025-04-23
+Synthetic Customer 12,Axle shaft 1026,SYN-P-01026,40Cr4,4.8486,Drilling:DRL-1:8.5,432.97,SYN-2509-1026,2025-09-13
+Synthetic Customer 01,Lift arm 0449,SYN-P-00449,EN19,2.5948,Milling:VMC-1:0.8,264.56,SYN-2411-0449,2024-11-14
+Synthetic Customer 08,Gear blank 0384,SYN-P-00384,EN19,6.4134,Turning:CNC-T1:10.4;Milling:VMC-1:8.1,585.44,SYN-2601-0384,2026-01-22
+Synthetic Customer 03,Gear blank 0315,SYN-P-00315,EN19,4.8761,Grinding:GRD-1:2.1;Turning:CNC-T1:2.4;Milling:VMC-1:9.9,450.29,SYN-2506-0315,2025-06-23
+Synthetic Customer 01,Coupling 0217,SYN-P-00217,20MnCr5,7.5321,Milling:VMC-1:11.0;Drilling:DRL-1:6.3;Grinding:GRD-1:1.8,663.30,SYN-2611-0217,2026-11-22
+Synthetic Customer 07,Axle shaft 0491,SYN-P-00491,EN8,4.5322,Grinding:GRD-1:5.0;Turning:CNC-T1:6.8;Milling:VMC-1:2.2,442.36,SYN-2603-0491,2026-03-07
+Synthetic Customer 09,Bush 0574,SYN-P-00574,40Cr4,1.4282,Drilling:DRL-1:8.5,177.95,SYN-2505-0574,2025-05-18
+Synthetic Customer 07,Coupling 0474,SYN-P-00474,20MnCr5,1.1736,Drilling:DRL-1:6.8,125.76,SYN-2508-0474,2025-08-16
+Synthetic Customer 01,Pinion 1237,SYN-P-01237,20MnCr5,3.0890,Milling:VMC-1:7.2,305.23,SYN-2512-1237,2025-12-20
+Synthetic Customer 04,Axle shaft 0110,SYN-P-00110,40Cr4,5.8365,Drilling:DRL-1:11.3;Grinding:GRD-1:2.9,535.03,SYN-2606-0110,2026-06-22
+Synthetic Customer 03,Spindle 0291,SYN-P-00291,EN19,2.2881,Grinding:GRD-1:2.5,237.86,SYN-2606-0291,2026-06-10
+Synthetic Customer 10,Coupling 0543,SYN-P-00543,C45,0.7243,Grinding:GRD-1:8.6,102.36,SYN-2612-0543,2026-12-15
+Synthetic Customer 10,Brake pin 0074,SYN-P-00074,20MnCr5,6.2249,Drilling:DRL-1:11.4,587.68,SYN-2504-0074,2025-04-03
+Synthetic Customer 12,Brake pin 0019,SYN-P-00019,C45,6.9786,Grinding:GRD-1:9.3;Turning:CNC-T1:6.2;Milling:VMC-1:8.9,645.17,SYN-2610-0019,2026-10-07
+Synthetic Customer 11,Lift arm 1351,SYN-P-01351,C45,5.1700,Grinding:GRD-1:8.2,481.85,SYN-2411-1351,2024-11-01
+Synthetic Customer 01,Coupling 0267,SYN-P-00267,C45,3.7134,Grinding:GRD-1:2.6;Turning:CNC-T1:11.3;Milling:VMC-1:4.6,345.14,SYN-2403-0267,2024-03-09
+Synthetic Customer 08,Yoke 0772,SYN-P-00772,EN8,7.1707,Turning:CNC-T1:6.5,668.32,SYN-2504-0772,2025-04-28
+Synthetic Customer 09,Pinion 0765,SYN-P-00765,20MnCr5,3.3588,Milling:VMC-1:8.6;Drilling:DRL-1:1.5,343.04,SYN-2508-0765,2025-08-13
+Synthetic Customer 11,Lift arm 0832,SYN-P-00832,20MnCr5,7.4398,Turning:CNC-T1:10.5,670.12,SYN-2604-0832,2026-04-10
+Synthetic Customer 06,Lift arm 0755,SYN-P-00755,C45,1.4174,Grinding:GRD-1:3.2;Turning:CNC-T1:9.9;Milling:VMC-1:9.5,178.98,SYN-2402-0755,2024-02-28
+Synthetic Customer 05,Coupling 0381,SYN-P-00381,20MnCr5,4.8539,Milling:VMC-1:2.5;Drilling:DRL-1:0.7,450.18,SYN-2504-0381,2025-04-08
+Synthetic Customer 04,Bush 1178,SYN-P-01178,C45,1.3431,Drilling:DRL-1:6.9,163.86,SYN-2406-1178,2024-06-11
+Synthetic Customer 01,Spindle 0170,SYN-P-00170,40Cr4,5.9339,Drilling:DRL-1:11.3;Grinding:GRD-1:7.3,563.53,SYN-2504-0170,2025-04-10
+Synthetic Customer 05,Pinion 1051,SYN-P-01051,20MnCr5,7.9697,Grinding:GRD-1:7.2,727.13,SYN-2403-1051,2024-03-21
+Synthetic Customer 03,Yoke 0299,SYN-P-00299,40Cr4,4.4102,Grinding:GRD-1:10.1,396.46,SYN-2610-0299,2026-10-17
+Synthetic Customer 01,Bush 0700,SYN-P-00700,40Cr4,6.5317,Turning:CNC-T1:9.5;Milling:VMC-1:1.8,583.49,SYN-2610-0700,2026-10-07
+Synthetic Customer 12,Pinion 0044,SYN-P-00044,20MnCr5,6.1023,Turning:CNC-T1:1.4;Milling:VMC-1:6.9,549.15,SYN-2506-0044,2025-06-04
+Synthetic Customer 12,Coupling 0666,SYN-P-00666,EN8,4.8457,Drilling:DRL-1:7.9;Grinding:GRD-1:8.5,468.30,SYN-2403-0666,2024-03-20
+Synthetic Customer 02,Pinion 1189,SYN-P-01189,20MnCr5,5.1980,Milling:VMC-1:6.9,500.22,SYN-2603-1189,2026-03-23
+Synthetic Customer 05,Spindle 0889,SYN-P-00889,20MnCr5,5.6499,Milling:VMC-1:2.8;Drilling:DRL-1:9.8;Grinding:GRD-1:5.4,500.54,SYN-2610-0889,2026-10-24
+Synthetic Customer 04,Lift arm 1205,SYN-P-01205,EN8,3.6900,Milling:VMC-1:0.6;Drilling:DRL-1:5.3;Grinding:GRD-1:4.3,345.36,SYN-2610-1205,2026-10-08
+Synthetic Customer 05,Yoke 1081,SYN-P-01081,EN19,4.5179,Milling:VMC-1:9.1,420.58,SYN-2503-1081,2025-03-12
+Synthetic Customer 03,Coupling 0282,SYN-P-00282,EN8,1.4371,Drilling:DRL-1:2.1;Grinding:GRD-1:6.9;Turning:CNC-T1:4.3,142.55,SYN-2408-0282,2024-08-21
+Synthetic Customer 06,Spindle 0162,SYN-P-00162,20MnCr5,3.6822,Drilling:DRL-1:4.9,342.51,SYN-2601-0162,2026-01-20
+Synthetic Customer 12,Bush 0682,SYN-P-00682,20MnCr5,4.6417,Drilling:DRL-1:8.7,426.06,SYN-2505-0682,2025-05-28
+Synthetic Customer 11,Pinion 0354,SYN-P-00354,C45,3.7857,Drilling:DRL-1:10.0;Grinding:GRD-1:6.5;Turning:CNC-T1:3.8,379.73,SYN-2401-0354,2024-01-10
+Synthetic Customer 08,Axle shaft 1077,SYN-P-01077,EN19,0.9588,Milling:VMC-1:9.1;Drilling:DRL-1:5.3,134.47,SYN-2607-1077,2026-07-13
+Synthetic Customer 12,Coupling 0551,SYN-P-00551,EN8,7.3518,Grinding:GRD-1:5.2;Turning:CNC-T1:4.6;Milling:VMC-1:1.0,676.84,SYN-2609-0551,2026-09-20
+Synthetic Customer 05,Bush 0634,SYN-P-00634,EN19,2.6465,Drilling:DRL-1:6.5;Grinding:GRD-1:1.9;Turning:CNC-T1:3.1,256.41,SYN-2512-0634,2025-12-07
+Synthetic Customer 10,Coupling 0404,SYN-P-00404,20MnCr5,6.3256,Turning:CNC-T1:11.0,592.73,SYN-2404-0404,2024-04-20
+Synthetic Customer 09,Axle shaft 1012,SYN-P-01012,C45,2.2837,Turning:CNC-T1:6.4;Milling:VMC-1:4.9,228.50,SYN-2411-1012,2024-11-02
+Synthetic Customer 05,Gear blank 0160,SYN-P-00160,40Cr4,0.8589,Turning:CNC-T1:5.9;Milling:VMC-1:3.5;Drilling:DRL-1:10.9,123.77,SYN-2410-0160,2024-10-04
+Synthetic Customer 07,Bush 1149,SYN-P-01149,40Cr4,6.1673,Milling:VMC-1:1.7;Drilling:DRL-1:6.2,556.95,SYN-2603-1149,2026-03-25
+Synthetic Customer 11,Hub flange 0616,SYN-P-00616,EN8,4.0096,Turning:CNC-T1:9.3;Milling:VMC-1:1.6,373.32,SYN-2607-0616,2026-07-27
+Synthetic Customer 02,Bush 0358,SYN-P-00358,C45,0.5445,Drilling:DRL-1:10.7;Grinding:GRD-1:9.1;Turning:CNC-T1:2.9,103.57,SYN-2612-0358,2026-12-16
+Synthetic Customer 01,Gear blank 1285,SYN-P-01285,C45,4.3443,Milling:VMC-1:8.8;Drilling:DRL-1:2.8,421.57,SYN-2604-1285,2026-04-12
+Synthetic Customer 12,Lift arm 0610,SYN-P-00610,EN19,7.6384,Drilling:DRL-1:6.9,706.02,SYN-2507-0610,2025-07-04
+Synthetic Customer 03,Yoke 0117,SYN-P-00117,C45,0.7381,Milling:VMC-1:10.5;Drilling:DRL-1:5.9,94.86,SYN-2604-0117,2026-04-05
+Synthetic Customer 03,Yoke 0966,SYN-P-00966,EN19,6.8718,Drilling:DRL-1:3.9,605.81,SYN-2510-0966,2025-10-02
+Synthetic Customer 09,Brake pin 0424,SYN-P-00424,EN19,1.1449,Turning:CNC-T1:9.2;Milling:VMC-1:10.3,142.13,SYN-2401-0424,2024-01-24
+Synthetic Customer 01,Bush 1340,SYN-P-01340,EN19,5.1932,Turning:CNC-T1:2.0;Milling:VMC-1:7.6,480.69,SYN-2508-1340,2025-08-05
+Synthetic Customer 05,Lift arm 0428,SYN-P-00428,C45,7.1445,Turning:CNC-T1:1.3;Milling:VMC-1:5.3,649.09,SYN-2403-0428,2024-03-13
+Synthetic Customer 02,Spindle 0595,SYN-P-00595,EN19,1.4792,Grinding:GRD-1:3.8,173.77,SYN-2408-0595,2024-08-27
+Synthetic Customer 08,Axle shaft 0457,SYN-P-00457,C45,0.4453,Milling:VMC-1:2.6;Drilling:DRL-1:10.8;Grinding:GRD-1:7.6,66.37,SYN-2408-0457,2024-08-07
+Synthetic Customer 08,Pinion 0894,SYN-P-00894,C45,3.3182,Drilling:DRL-1:2.6,336.74,SYN-2407-0894,2024-07-07
+Synthetic Customer 06,Coupling 1257,SYN-P-01257,40Cr4,1.2275,Milling:VMC-1:3.3,134.17,SYN-2601-1257,2026-01-16
+Synthetic Customer 01,Bush 0826,SYN-P-00826,C45,6.6920,Drilling:DRL-1:7.0;Grinding:GRD-1:3.0;Turning:CNC-T1:6.1,603.87,SYN-2610-0826,2026-10-21
+Synthetic Customer 10,Brake pin 1353,SYN-P-01353,20MnCr5,6.4668,Milling:VMC-1:2.6;Drilling:DRL-1:3.5,590.22,SYN-2612-1353,2026-12-26
+Synthetic Customer 10,Lift arm 0904,SYN-P-00904,EN19,0.3940,Turning:CNC-T1:6.4;Milling:VMC-1:9.2;Drilling:DRL-1:1.9,77.90,SYN-2408-0904,2024-08-23
+Synthetic Customer 06,Pinion 0643,SYN-P-00643,40Cr4,5.8274,Grinding:GRD-1:1.9;Turning:CNC-T1:9.9,526.34,SYN-2511-0643,2025-11-12
+Synthetic Customer 06,Lift arm 0210,SYN-P-00210,EN19,2.4033,Drilling:DRL-1:5.2,236.86,SYN-2610-0210,2026-10-03
+Synthetic Customer 05,Coupling 0977,SYN-P-00977,EN8,3.9181,Milling:VMC-1:11.3;Drilling:DRL-1:11.0,374.11,SYN-2512-0977,2025-12-22
+Synthetic Customer 06,Brake pin 0895,SYN-P-00895,40Cr4,4.6845,Grinding:GRD-1:6.9;Turning:CNC-T1:3.1;Milling:VMC-1:9.4,444.07,SYN-2404-0895,2024-04-02
+Synthetic Customer 07,Gear blank 0257,SYN-P-00257,EN19,7.7358,Milling:VMC-1:5.5;Drilling:DRL-1:10.9;Grinding:GRD-1:8.4,688.79,SYN-2404-0257,2024-04-01
+Synthetic Customer 01,Pinion 0585,SYN-P-00585,40Cr4,5.5041,Milling:VMC-1:3.1,503.73,SYN-2506-0585,2025-06-03
+Synthetic Customer 10,Lift arm 0136,SYN-P-00136,EN8,6.7853,Turning:CNC-T1:8.1;Milling:VMC-1:1.8,616.17,SYN-2501-0136,2025-01-10
+Synthetic Customer 02,Axle shaft 0723,SYN-P-00723,20MnCr5,4.5128,Grinding:GRD-1:6.4,418.38,SYN-2501-0723,2025-01-17
+Synthetic Customer 09,Bush 0043,SYN-P-00043,20MnCr5,5.0653,Grinding:GRD-1:1.7;Turning:CNC-T1:8.3;Milling:VMC-1:3.9,466.93,SYN-2405-0043,2024-05-01
+Synthetic Customer 04,Bush 0718,SYN-P-00718,C45,1.9062,Drilling:DRL-1:10.6,216.98,SYN-2411-0718,2024-11-03
+Synthetic Customer 08,Gear blank 1314,SYN-P-01314,C45,1.7181,Drilling:DRL-1:8.4,167.33,SYN-2605-1314,2026-05-22
+Synthetic Customer 11,Coupling 0279,SYN-P-00279,20MnCr5,5.6659,Grinding:GRD-1:6.5;Turning:CNC-T1:10.1;Milling:VMC-1:8.4,523.90,SYN-2603-0279,2026-03-11
+Synthetic Customer 01,Coupling 0201,SYN-P-00201,EN8,3.3801,Milling:VMC-1:5.0;Drilling:DRL-1:1.3,341.69,SYN-2602-0201,2026-02-04
+Synthetic Customer 04,Hub flange 0242,SYN-P-00242,C45,0.5445,Drilling:DRL-1:1.7;Grinding:GRD-1:6.7;Turning:CNC-T1:4.6,76.29,SYN-2408-0242,2024-08-17
+Synthetic Customer 03,Lift arm 0806,SYN-P-00806,40Cr4,3.8954,Drilling:DRL-1:11.1;Grinding:GRD-1:2.0,356.11,SYN-2605-0806,2026-05-28
+Synthetic Customer 11,Hub flange 0942,SYN-P-00942,EN19,4.8420,Drilling:DRL-1:2.0;Grinding:GRD-1:7.3;Turning:CNC-T1:9.6,438.75,SYN-2405-0942,2024-05-16
+Synthetic Customer 12,Coupling 0597,SYN-P-00597,EN8,2.7595,Milling:VMC-1:6.4,261.80,SYN-2403-0597,2024-03-24
+Synthetic Customer 11,Pinion 0465,SYN-P-00465,40Cr4,1.0694,Milling:VMC-1:3.0,126.90,SYN-2609-0465,2026-09-07
+Synthetic Customer 08,Yoke 0222,SYN-P-00222,C45,1.7075,Drilling:DRL-1:1.7;Grinding:GRD-1:2.6;Turning:CNC-T1:9.7,166.37,SYN-2401-0222,2024-01-20
+Synthetic Customer 06,Lift arm 0072,SYN-P-00072,20MnCr5,4.3280,Turning:CNC-T1:7.4,392.41,SYN-2509-0072,2025-09-23
+Synthetic Customer 06,Axle shaft 0327,SYN-P-00327,C45,7.5481,Grinding:GRD-1:3.5;Turning:CNC-T1:2.4,690.49,SYN-2606-0327,2026-06-05
+Synthetic Customer 05,Hub flange 0884,SYN-P-00884,EN19,7.6963,Turning:CNC-T1:5.2;Milling:VMC-1:8.7;Drilling:DRL-1:0.8,698.24,SYN-2410-0884,2024-10-03
+Synthetic Customer 12,Brake pin 0691,SYN-P-00691,C45,5.7203,Grinding:GRD-1:7.7,514.26,SYN-2509-0691,2025-09-09
+Synthetic Customer 05,Lift arm 0830,SYN-P-00830,40Cr4,2.5619,Drilling:DRL-1:2.6;Grinding:GRD-1:1.2;Turning:CNC-T1:4.3,240.58,SYN-2508-0830,2025-08-12
+Synthetic Customer 10,Spindle 0202,SYN-P-00202,20MnCr5,2.7805,Drilling:DRL-1:2.8;Grinding:GRD-1:7.9;Turning:CNC-T1:8.9,276.43,SYN-2405-0202,2024-05-24
+Synthetic Customer 08,Lift arm 0776,SYN-P-00776,EN19,2.3673,Turning:CNC-T1:5.4;Milling:VMC-1:2.9;Drilling:DRL-1:11.5,258.66,SYN-2511-0776,2025-11-27
+Synthetic Customer 01,Axle shaft 1076,SYN-P-01076,20MnCr5,1.8812,Turning:CNC-T1:8.4;Milling:VMC-1:2.8;Drilling:DRL-1:3.4,199.18,SYN-2405-1076,2024-05-27
+Synthetic Customer 06,Yoke 0238,SYN-P-00238,40Cr4,2.7634,Drilling:DRL-1:8.4,267.60,SYN-2610-0238,2026-10-26
+Synthetic Customer 02,Bush 1059,SYN-P-01059,EN8,2.3913,Grinding:GRD-1:4.2;Turning:CNC-T1:1.0,249.27,SYN-2604-1059,2026-04-18
+Synthetic Customer 10,Brake pin 1220,SYN-P-01220,40Cr4,1.7174,Turning:CNC-T1:9.6,177.39,SYN-2411-1220,2024-11-20
+Synthetic Customer 02,Bush 0006,SYN-P-00006,40Cr4,6.0217,Drilling:DRL-1:10.8;Grinding:GRD-1:0.7,557.05,SYN-2608-0006,2026-08-18
+Synthetic Customer 05,Lift arm 0521,SYN-P-00521,C45,2.8329,Milling:VMC-1:2.5;Drilling:DRL-1:8.4;Grinding:GRD-1:10.5,281.42,SYN-2412-0521,2024-12-07
+Synthetic Customer 10,Gear blank 1375,SYN-P-01375,EN8,6.6673,Grinding:GRD-1:2.9;Turning:CNC-T1:11.3;Milling:VMC-1:7.4,618.48,SYN-2606-1375,2026-02-31
+Synthetic Customer 08,Hub flange 0441,SYN-P-00441,C45,2.8337,Milling:VMC-1:0.6;Drilling:DRL-1:1.5,268.75,SYN-2509-0441,2025-09-14
+Synthetic Customer 01,Coupling 0130,SYN-P-00130,EN19,5.3343,Drilling:DRL-1:6.4;Grinding:GRD-1:4.3;Turning:CNC-T1:0.6,485.71,SYN-2601-0130,2026-01-25
+Synthetic Customer 02,Spindle 0902,SYN-P-00902,EN19,5.8842,Drilling:DRL-1:5.3;Grinding:GRD-1:6.4;Turning:CNC-T1:2.9,541.42,SYN-2410-0902,2024-10-25
+Synthetic Customer 05,Spindle 0022,SYN-P-00022,C45,0.5288,Drilling:DRL-1:5.8;Grinding:GRD-1:10.9,93.13,SYN-2503-0022,2025-03-14
+Synthetic Customer 03,Brake pin 0588,SYN-P-00588,EN19,3.7693,Turning:CNC-T1:1.2;Milling:VMC-1:10.7,352.98,SYN-2503-0588,2025-03-25
+Synthetic Customer 12,Pinion 0607,SYN-P-00607,EN19,2.1219,Grinding:GRD-1:0.6,206.12,SYN-2602-0607,2026-02-09
+Synthetic Customer 03,Axle shaft 1136,SYN-P-01136,EN19,2.6164,Turning:CNC-T1:5.7;Milling:VMC-1:8.0;Drilling:DRL-1:5.0,277.87,SYN-2602-1136,2026-02-22
+Synthetic Customer 05,Hub flange 0076,SYN-P-00076,C45,6.2439,Turning:CNC-T1:3.0;Milling:VMC-1:3.4;Drilling:DRL-1:1.3,563.73,SYN-2512-0076,2025-12-04
+Synthetic Customer 07,Gear blank 0287,SYN-P-00287,EN8,1.6944,Grinding:GRD-1:7.6;Turning:CNC-T1:7.5,196.87,SYN-2511-0287,2025-11-16
+Synthetic Customer 01,Pinion 1043,SYN-P-01043,EN19,7.2767,Grinding:GRD-1:7.2;Turning:CNC-T1:5.7,673.60,SYN-2604-1043,2026-04-28
+Synthetic Customer 07,Axle shaft 0632,SYN-P-00632,20MnCr5,6.3734,Turning:CNC-T1:2.3;Milling:VMC-1:9.3;Drilling:DRL-1:8.6,592.79,SYN-2604-0632,2026-04-06
+Synthetic Customer 11,Pinion 0599,SYN-P-00599,20MnCr5,7.0161,Grinding:GRD-1:2.7;Turning:CNC-T1:6.8;Milling:VMC-1:4.5,650.76,SYN-2508-0599,2025-08-09
+Synthetic Customer 05,Spindle 1131,SYN-P-01131,20MnCr5,0.9516,Grinding:GRD-1:5.7;Turning:CNC-T1:2.0;Milling:VMC-1:7.8,125.97,SYN-2511-1131,2025-11-03
+Synthetic Customer 09,Brake pin 1130,SYN-P-01130,EN8,0.6841,Drilling:DRL-1:6.4;Grinding:GRD-1:8.4,94.96,SYN-2406-1130,2024-06-14
+Synthetic Customer 02,Bush 1236,SYN-P-01236,EN19,0.2155,Turning:CNC-T1:10.4,70.45,SYN-2608-1236,2026-08-08
+Synthetic Customer 02,Axle shaft 1294,SYN-P-01294,EN8,1.3827,Drilling:DRL-1:11.1,156.69,SYN-2604-1294,2026-04-12
+Synthetic Customer 02,Hub flange 0489,SYN-P-00489,40Cr4,1.1755,Milling:VMC-1:9.8;Drilling:DRL-1:3.0;Grinding:GRD-1:5.2,128.97,SYN-2602-0489,2026-02-04
+Synthetic Customer 06,Hub flange 0419,SYN-P-00419,EN8,7.6193,Grinding:GRD-1:7.4;Turning:CNC-T1:0.9,681.04,SYN-2505-0419,2025-05-16
+Synthetic Customer 08,Lift arm 1222,SYN-P-01222,EN19,3.0813,Drilling:DRL-1:2.1,309.49,SYN-2411-1222,2024-11-16
+Synthetic Customer 08,Spindle 0857,SYN-P-00857,40Cr4,7.5430,Milling:VMC-1:3.2;Drilling:DRL-1:4.2,688.22,SYN-2402-0857,2024-02-27
+Synthetic Customer 10,Gear blank 1126,SYN-P-01126,EN19,7.8331,Drilling:DRL-1:2.0;Grinding:GRD-1:1.7;Turning:CNC-T1:8.3,689.26,SYN-2505-1126,2025-05-27
+Synthetic Customer 03,Coupling 1141,SYN-P-01141,C45,3.4632,Milling:VMC-1:8.8,327.22,SYN-2401-1141,2024-01-26
+Synthetic Customer 11,Axle shaft 0270,SYN-P-00270,40Cr4,5.6154,Drilling:DRL-1:6.8,515.48,SYN-2611-0270,2026-11-11
+Synthetic Customer 02,Bush 0754,SYN-P-00754,C45,2.6670,Drilling:DRL-1:8.6,249.91,SYN-2602-0754,2026-02-22
+Synthetic Customer 10,Gear blank 0652,SYN-P-00652,EN8,2.9472,Turning:CNC-T1:6.5;Milling:VMC-1:1.0;Drilling:DRL-1:3.4,294.37,SYN-2407-0652,2024-07-02
+Synthetic Customer 02,Brake pin 0456,SYN-P-00456,C45,0.3266,Turning:CNC-T1:9.8;Milling:VMC-1:1.1,61.55,SYN-2506-0456,2025-06-23
+Synthetic Customer 11,Lift arm 1330,SYN-P-01330,EN19,7.4309,Drilling:DRL-1:0.7;Grinding:GRD-1:2.9;Turning:CNC-T1:10.7,667.42,SYN-2504-1330,2025-04-24
+Synthetic Customer 05,Spindle 0052,SYN-P-00052,40Cr4,7.3465,Turning:CNC-T1:6.0;Milling:VMC-1:7.9,676.16,SYN-2505-0052,2025-05-11
+Synthetic Customer 12,Gear blank 0341,SYN-P-00341,EN19,2.7428,Milling:VMC-1:5.2;Drilling:DRL-1:7.9,255.99,SYN-2510-0341,2025-10-28
+Synthetic Customer 05,Bush 0786,SYN-P-00786,C45,7.6780,Drilling:DRL-1:3.0;Grinding:GRD-1:9.9,678.19,SYN-2411-0786,2024-11-22
+Synthetic Customer 11,Yoke 1090,SYN-P-01090,C45,2.8888,Drilling:DRL-1:8.8;Grinding:GRD-1:1.4,296.50,SYN-2607-1090,2026-07-27
+Synthetic Customer 12,Axle shaft 0380,SYN-P-00380,EN19,5.1801,Turning:CNC-T1:10.3;Milling:VMC-1:10.3;Drilling:DRL-1:10.2,476.56,SYN-2602-0380,2026-02-10
+Synthetic Customer 12,Pinion 0197,SYN-P-00197,EN19,4.2542,Milling:VMC-1:0.5,396.64,SYN-2402-0197,2024-02-22
+Synthetic Customer 01,Bush 0177,SYN-P-00177,40Cr4,2.3264,Milling:VMC-1:2.6,233.06,SYN-2402-0177,2024-02-07
+Synthetic Customer 03,Hub flange 0024,SYN-P-00024,EN8,2.4161,Turning:CNC-T1:3.4;Milling:VMC-1:1.9;Drilling:DRL-1:1.2,233.64,SYN-2503-0024,2025-03-25
+Synthetic Customer 01,Gear blank 0993,SYN-P-00993,EN8,0.5453,Milling:VMC-1:8.2;Drilling:DRL-1:10.7;Grinding:GRD-1:9.2,91.49,SYN-2509-0993,2025-09-22
+Synthetic Customer 02,Brake pin 0050,SYN-P-00050,40Cr4,4.9222,Drilling:DRL-1:6.3;Grinding:GRD-1:9.9,464.64,SYN-2511-0050,2025-11-05
+Synthetic Customer 08,Yoke 0720,SYN-P-00720,C45,7.9837,Turning:CNC-T1:11.2;Milling:VMC-1:8.0,723.09,SYN-2507-0720,2025-07-22
+Synthetic Customer 03,Bush 0175,SYN-P-00175,40Cr4,6.8290,Grinding:GRD-1:8.8,616.62,SYN-2504-0175,2025-04-13
+Synthetic Customer 09,Lift arm 0311,SYN-P-00311,EN19,3.8024,Grinding:GRD-1:6.9,380.67,SYN-2502-0311,2025-02-13
+Synthetic Customer 06,Spindle 1231,SYN-P-01231,EN8,2.7345,Grinding:GRD-1:5.9;Turning:CNC-T1:6.7,277.19,SYN-2603-1231,2026-03-07
+Synthetic Customer 04,Brake pin 1087,SYN-P-01087,40Cr4,0.8101,Grinding:GRD-1:5.1;Turning:CNC-T1:1.5,106.72,SYN-2509-1087,2025-09-17
+Synthetic Customer 01,Bush 0627,SYN-P-00627,EN8,3.2917,Grinding:GRD-1:1.7;Turning:CNC-T1:3.4;Milling:VMC-1:4.1,312.75,SYN-2403-0627,2024-03-14
+Synthetic Customer 07,Hub flange 0227,SYN-P-00227,C45,7.1591,Grinding:GRD-1:6.1;Turning:CNC-T1:7.0,657.67,SYN-2602-0227,2026-02-06
+Synthetic Customer 04,Yoke 0534,SYN-P-00534,40Cr4,3.7693,Drilling:DRL-1:1.7;Grinding:GRD-1:1.6;Turning:CNC-T1:0.9,376.49,SYN-2607-0534,2026-07-02
+Synthetic Customer 06,Bush 0163,SYN-P-00163,C45,3.0931,Grinding:GRD-1:10.4;Turning:CNC-T1:4.8;Milling:VMC-1:10.7,321.68,SYN-2605-0163,2026-05-20
+Synthetic Customer 05,Yoke 0529,SYN-P-00529,EN19,2.4972,Milling:VMC-1:9.5;Drilling:DRL-1:7.5;Grinding:GRD-1:9.0,253.19,SYN-2503-0529,2025-03-22
+Synthetic Customer 05,Gear blank 1362,SYN-P-01362,,0.7834,Drilling:DRL-1:3.9;Grinding:GRD-1:9.7;Turning:CNC-T1:6.6,103.98,SYN-2509-1362,2025-09-11
+Synthetic Customer 08,Bush 1174,SYN-P-01174,EN8,7.2540,Drilling:DRL-1:4.8,672.45,SYN-2511-1174,2025-11-03
+Synthetic Customer 10,Spindle 0628,SYN-P-00628,EN8,1.8888,Turning:CNC-T1:8.7;Milling:VMC-1:3.3;Drilling:DRL-1:8.7,205.88,SYN-2510-0628,2025-10-22
+Synthetic Customer 11,Pinion 0351,SYN-P-00351,EN8,0.3166,Grinding:GRD-1:7.8,69.85,SYN-2508-0351,2025-08-18
+Synthetic Customer 12,Spindle 0446,SYN-P-00446,EN19,1.5860,Drilling:DRL-1:9.1,159.61,SYN-2601-0446,2026-01-01
+Synthetic Customer 06,Gear blank 0633,SYN-P-00633,EN19,7.2913,Milling:VMC-1:5.9;Drilling:DRL-1:4.2;Grinding:GRD-1:10.0,648.10,SYN-2612-0633,2026-12-04
+Synthetic Customer 12,Lift arm 0969,SYN-P-00969,EN8,2.6675,Milling:VMC-1:5.2;Drilling:DRL-1:5.7,257.78,SYN-2405-0969,2024-05-04
+Synthetic Customer 05,Brake pin 0005,SYN-P-00005,40Cr4,7.7921,Milling:VMC-1:11.1;Drilling:DRL-1:6.6;Grinding:GRD-1:9.9,685.42,SYN-2611-0005,2026-11-05
+Synthetic Customer 10,Bush 1169,SYN-P-01169,20MnCr5,4.2514,Milling:VMC-1:9.7,403.22,SYN-2412-1169,2024-12-13
+Synthetic Customer 01,Hub flange 0375,SYN-P-00375,EN8,5.7599,Grinding:GRD-1:6.6;Turning:CNC-T1:7.5;Milling:VMC-1:3.5,534.19,SYN-2601-0375,2026-01-06
+Synthetic Customer 02,Hub flange 0722,SYN-P-00722,EN8,5.7217,Drilling:DRL-1:5.9,520.44,SYN-2506-0722,2025-06-15
+Synthetic Customer 02,Coupling 0975,SYN-P-00975,40Cr4,5.5762,Grinding:GRD-1:2.6;Turning:CNC-T1:4.7,517.34,SYN-2411-0975,2024-11-05
+Synthetic Customer 08,Lift arm 1318,SYN-P-01318,40Cr4,1.8374,Drilling:DRL-1:8.4;Grinding:GRD-1:6.4;Turning:CNC-T1:6.7,180.11,SYN-2502-1318,2025-02-10
+Synthetic Customer 12,Yoke 0338,SYN-P-00338,EN8,7.7206,Drilling:DRL-1:10.7,678.59,SYN-2403-0338,2024-03-27
+Synthetic Customer 03,Bush 0333,SYN-P-00333,40Cr4,4.7644,Milling:VMC-1:1.5;Drilling:DRL-1:1.6;Grinding:GRD-1:10.0,444.33,SYN-2506-0333,2025-06-21
+Synthetic Customer 05,Gear blank 0999,SYN-P-00999,40Cr4,3.4481,Grinding:GRD-1:7.9;Turning:CNC-T1:1.4;Milling:VMC-1:9.5,336.29,SYN-2407-0999,2024-07-23
+Synthetic Customer 08,Hub flange 0303,SYN-P-00303,EN19,1.7316,Grinding:GRD-1:10.8;Turning:CNC-T1:6.7,175.97,SYN-2512-0303,2025-12-17
+Synthetic Customer 04,Axle shaft 1048,SYN-P-01048,EN19,3.9007,Turning:CNC-T1:4.2,386.10,SYN-2505-1048,2025-05-12
+Synthetic Customer 06,Hub flange 1152,SYN-P-01152,C45,4.1869,Turning:CNC-T1:7.1;Milling:VMC-1:7.9;Drilling:DRL-1:10.6,411.16,SYN-2407-1152,2024-07-02
+Synthetic Customer 09,Brake pin 1065,SYN-P-01065,C45,0.2908,Milling:VMC-1:10.4;Drilling:DRL-1:7.5;Grinding:GRD-1:11.2,80.79,SYN-2610-1065,2026-10-18
+Synthetic Customer 04,Gear blank 0413,SYN-P-00413,EN19,3.4423,Milling:VMC-1:0.7;Drilling:DRL-1:8.1;Grinding:GRD-1:2.0,325.38,SYN-2503-0413,2025-03-20
+Synthetic Customer 02,Spindle 0178,SYN-P-00178,C45,4.7997,Drilling:DRL-1:2.0;Grinding:GRD-1:10.0,430.79,SYN-2412-0178,2024-12-02
+Synthetic Customer 09,Hub flange 0773,SYN-P-00773,EN19,0.8488,Milling:VMC-1:1.1;Drilling:DRL-1:2.8,93.28,SYN-2412-0773,2024-12-16
+Synthetic Customer 05,Hub flange 0909,SYN-P-00909,EN8,5.9037,Milling:VMC-1:1.8,532.28,SYN-2502-0909,2025-02-21
+Synthetic Customer 10,Brake pin 0304,SYN-P-00304,EN8,6.3991,Turning:CNC-T1:9.5;Milling:VMC-1:10.9;Drilling:DRL-1:6.5,581.84,SYN-2412-0304,2024-12-02
+Synthetic Customer 02,Hub flange 0880,SYN-P-00880,20MnCr5,1.6712,Turning:CNC-T1:7.1;Milling:VMC-1:11.1,174.54,SYN-2501-0880,2025-01-05
+Synthetic Customer 12,Axle shaft 1344,SYN-P-01344,EN8,2.3704,Turning:CNC-T1:10.2;Milling:VMC-1:11.2,243.30,SYN-2404-1344,2024-04-05
+Synthetic Customer 06,Brake pin 1098,SYN-P-01098,EN19,3.6279,Drilling:DRL-1:5.4,362.40,SYN-2502-1098,2025-02-13
+Synthetic Customer 11,Bush 0488,SYN-P-00488,C45,5.9144,Turning:CNC-T1:10.5;Milling:VMC-1:4.5;Drilling:DRL-1:10.2,548.71,SYN-2411-0488,2024-11-22
+Synthetic Customer 03,Lift arm 0990,SYN-P-00990,C45,2.2333,Drilling:DRL-1:1.1;Grinding:GRD-1:0.6,240.16,SYN-2612-0990,2026-12-06
+Synthetic Customer 06,Spindle 0071,SYN-P-00071,20MnCr5,5.7860,Grinding:GRD-1:9.7;Turning:CNC-T1:2.5,519.37,SYN-2512-0071,2025-12-02
+Synthetic Customer 04,Coupling 1125,SYN-P-01125,20MnCr5,5.1423,Milling:VMC-1:9.1;Drilling:DRL-1:7.9;Grinding:GRD-1:5.3,486.57,SYN-2609-1125,2026-09-09
+Synthetic Customer 04,Bush 0207,SYN-P-00207,C45,3.8056,Grinding:GRD-1:11.4;Turning:CNC-T1:6.3,345.82,SYN-2603-0207,2026-03-01
+Synthetic Customer 03,Hub flange 0596,SYN-P-00596,20MnCr5,4.7370,Turning:CNC-T1:4.4,437.73,SYN-2612-0596,2026-12-02
+Synthetic Customer 06,Brake pin 0986,SYN-P-00986,EN8,2.7998,Drilling:DRL-1:10.6;Grinding:GRD-1:5.5,272.92,SYN-2402-0986,2024-02-18
+Synthetic Customer 11,Coupling 0733,SYN-P-00733,EN8,5.6761,Milling:VMC-1:1.7;Drilling:DRL-1:2.5,532.34,SYN-2603-0733,2026-03-08
+Synthetic Customer 07,Bush 1336,SYN-P-01336,20MnCr5,0.6576,Turning:CNC-T1:1.8;Milling:VMC-1:11.1;Drilling:DRL-1:4.2,105.42,SYN-2508-1336,2025-08-27
+Synthetic Customer 12,Pinion 0923,SYN-P-00923,C45,3.7556,Grinding:GRD-1:4.8;Turning:CNC-T1:11.4,357.65,SYN-2511-0923,2025-11-23
+Synthetic Customer 07,Hub flange 0716,SYN-P-00716,EN19,1.9192,Turning:CNC-T1:7.4,214.94,SYN-2507-0716,2025-07-23
+Synthetic Customer 10,Yoke 0114,SYN-P-00114,20MnCr5,7.9141,Drilling:DRL-1:11.0;Grinding:GRD-1:8.0,696.73,SYN-2408-0114,2024-08-25
+Synthetic Customer 07,Axle shaft 1324,SYN-P-01324,40Cr4,4.4096,Turning:CNC-T1:5.0;Milling:VMC-1:8.3;Drilling:DRL-1:10.9,432.33,SYN-2412-1324,2024-12-08
+Synthetic Customer 04,Coupling 0921,SYN-P-00921,EN19,0.9459,Milling:VMC-1:10.9;Drilling:DRL-1:6.0;Grinding:GRD-1:7.8,116.44,SYN-2410-0921,2024-10-18
+Synthetic Customer 01,Spindle 0138,SYN-P-00138,EN8,1.5884,Drilling:DRL-1:9.0;Grinding:GRD-1:0.9,165.05,SYN-2409-0138,2024-09-01
+Synthetic Customer 04,Yoke 0987,SYN-P-00987,EN8,3.8521,Grinding:GRD-1:5.1,370.54,SYN-2506-0987,2025-06-19
+Synthetic Customer 03,Pinion 1150,SYN-P-01150,C45,3.1293,Drilling:DRL-1:9.2,294.09,SYN-2408-1150,2024-08-13
+Synthetic Customer 07,Bush 0188,SYN-P-00188,40Cr4,1.4317,Turning:CNC-T1:9.1,181.29,SYN-2608-0188,2026-08-24
+Synthetic Customer 04,Axle shaft 0246,SYN-P-00246,EN8,5.3036,Drilling:DRL-1:3.9;Grinding:GRD-1:8.8;Turning:CNC-T1:5.0,503.68,SYN-2507-0246,2025-07-05
+Synthetic Customer 02,Brake pin 1121,SYN-P-01121,EN8,6.4710,Milling:VMC-1:6.1,607.35,SYN-2502-1121,2025-02-11
+Synthetic Customer 07,Axle shaft 0882,SYN-P-00882,40Cr4,4.2214,Drilling:DRL-1:3.4;Grinding:GRD-1:6.1,407.17,SYN-2505-0882,2025-05-10
+Synthetic Customer 10,Axle shaft 1211,SYN-P-01211,20MnCr5,0.6975,Grinding:GRD-1:11.0;Turning:CNC-T1:6.9,107.69,SYN-2607-1211,2026-07-23
+Synthetic Customer 03,Axle shaft 0897,SYN-P-00897,EN8,3.2051,Milling:VMC-1:6.4,329.60,SYN-2404-0897,2024-04-01
+Synthetic Customer 03,Spindle 0343,SYN-P-00343,40Cr4,6.8842,Grinding:GRD-1:7.4;Turning:CNC-T1:9.2;Milling:VMC-1:3.4,614.28,SYN-2410-0343,2024-10-18
+Synthetic Customer 05,Axle shaft 0253,SYN-P-00253,EN8,5.1567,Milling:VMC-1:8.1;Drilling:DRL-1:3.0,461.82,SYN-2602-0253,2026-02-27
+Synthetic Customer 12,Pinion 0057,SYN-P-00057,20MnCr5,3.7634,Milling:VMC-1:5.2;Drilling:DRL-1:5.0,367.56,SYN-2604-0057,2026-04-21
+Synthetic Customer 10,Spindle 0818,SYN-P-00818,40Cr4,1.2851,Drilling:DRL-1:2.0;Grinding:GRD-1:0.8;Turning:CNC-T1:6.9,150.43,SYN-2604-0818,2026-04-16
+Synthetic Customer 01,Bush 0840,SYN-P-00840,20MnCr5,6.9644,Turning:CNC-T1:8.7;Milling:VMC-1:9.4,626.29,SYN-2606-0840,2026-06-07
+Synthetic Customer 06,Hub flange 0121,SYN-P-00121,C45,3.9252,Milling:VMC-1:7.7;Drilling:DRL-1:6.8,376.90,SYN-2410-0121,2024-10-20
+Synthetic Customer 04,Brake pin 0499,SYN-P-00499,40Cr4,6.2691,Grinding:GRD-1:2.7;Turning:CNC-T1:5.1,565.13,SYN-2608-0499,2026-08-18
+Synthetic Customer 11,Bush 0661,SYN-P-00661,20MnCr5,3.0732,Milling:VMC-1:10.8,290.89,SYN-2608-0661,2026-08-03
+Synthetic Customer 08,Axle shaft 0552,SYN-P-00552,C45,0.4069,Turning:CNC-T1:9.8;Milling:VMC-1:7.8;Drilling:DRL-1:3.5,84.15,SYN-2509-0552,2025-09-11
+Synthetic Customer 01,Axle shaft 1380,SYN-P-01380,40Cr4,0.2577,Turning:CNC-T1:3.8;Milling:VMC-1:6.6,47.48,SYN-2610-1380,2026-02-31
+Synthetic Customer 10,Gear blank 0429,SYN-P-00429,20MnCr5,0.3421,Milling:VMC-1:5.1;Drilling:DRL-1:3.8,82.97,SYN-2502-0429,2025-02-16
+Synthetic Customer 11,Gear blank 0951,SYN-P-00951,20MnCr5,1.5953,Grinding:GRD-1:1.0;Turning:CNC-T1:10.1;Milling:VMC-1:1.4,169.65,SYN-2409-0951,2024-09-27
+Synthetic Customer 11,Pinion 0275,SYN-P-00275,C45,2.2341,Grinding:GRD-1:1.4,228.14,SYN-2509-0275,2025-09-14
+Synthetic Customer 11,Hub flange 1083,SYN-P-01083,EN8,7.6985,Grinding:GRD-1:7.0;Turning:CNC-T1:11.3,683.98,SYN-2501-1083,2025-01-23
+Synthetic Customer 05,Coupling 0905,SYN-P-00905,20MnCr5,0.4688,Milling:VMC-1:1.2;Drilling:DRL-1:1.7,66.04,SYN-2512-0905,2025-12-03
+Synthetic Customer 03,Bush 0795,SYN-P-00795,EN19,0.8607,Grinding:GRD-1:8.6;Turning:CNC-T1:0.8,119.35,SYN-2507-0795,2025-07-21
+Synthetic Customer 09,Axle shaft 1379,SYN-P-01379,C45,7.8185,Grinding:GRD-1:5.6;Turning:CNC-T1:1.0,-12.50,SYN-2407-1379,2024-07-24
+Synthetic Customer 10,Bush 0368,SYN-P-00368,40Cr4,2.8398,Turning:CNC-T1:9.5;Milling:VMC-1:7.4,294.07,SYN-2608-0368,2026-08-15
+Synthetic Customer 03,Axle shaft 0078,SYN-P-00078,C45,2.1981,Drilling:DRL-1:9.8;Grinding:GRD-1:1.2,233.69,SYN-2501-0078,2025-01-12
+Synthetic Customer 11,Coupling 0843,SYN-P-00843,EN19,7.2212,Grinding:GRD-1:4.1,656.44,SYN-2505-0843,2025-05-04
+Synthetic Customer 01,Coupling 1068,SYN-P-01068,EN8,2.1777,Turning:CNC-T1:8.8;Milling:VMC-1:7.6;Drilling:DRL-1:6.9,212.16,SYN-2409-1068,2024-09-14
+Synthetic Customer 11,Axle shaft 0360,SYN-P-00360,EN19,5.3933,Turning:CNC-T1:10.8;Milling:VMC-1:2.1,490.89,SYN-2502-0360,2025-02-23
+Synthetic Customer 05,Brake pin 0379,SYN-P-00379,EN8,7.6093,Grinding:GRD-1:2.8;Turning:CNC-T1:7.3;Milling:VMC-1:3.5,684.27,SYN-2412-0379,2024-12-22
+Synthetic Customer 06,Hub flange 0575,SYN-P-00575,EN19,6.3921,Grinding:GRD-1:6.2;Turning:CNC-T1:4.9,603.13,SYN-2610-0575,2026-10-15
+Synthetic Customer 09,Yoke 0697,SYN-P-00697,EN19,7.9002,Milling:VMC-1:9.9,730.02,SYN-2508-0697,2025-08-06
+Synthetic Customer 08,Bush 0362,SYN-P-00362,20MnCr5,7.7380,Drilling:DRL-1:2.9;Grinding:GRD-1:7.9;Turning:CNC-T1:2.6,680.49,SYN-2409-0362,2024-09-02
+Synthetic Customer 10,Bush 0320,SYN-P-00320,EN19,5.1283,Turning:CNC-T1:5.8,483.06,SYN-2412-0320,2024-12-06
+Synthetic Customer 03,Brake pin 0296,SYN-P-00296,C45,4.3498,Turning:CNC-T1:11.4;Milling:VMC-1:6.7,419.72,SYN-2505-0296,2025-05-19
+Synthetic Customer 02,Spindle 1110,SYN-P-01110,EN19,6.2417,Drilling:DRL-1:1.0;Grinding:GRD-1:2.4;Turning:CNC-T1:5.2,571.60,SYN-2503-1110,2025-03-11
+Synthetic Customer 04,Pinion 0001,SYN-P-00001,C45,1.2453,Milling:VMC-1:6.8;Drilling:DRL-1:3.6;Grinding:GRD-1:10.4,162.53,SYN-2509-0001,2025-09-05
+Synthetic Customer 06,Yoke 0910,SYN-P-00910,C45,6.5261,Drilling:DRL-1:9.8;Grinding:GRD-1:1.8;Turning:CNC-T1:3.6,597.35,SYN-2403-0910,2024-03-13
+Synthetic Customer 05,Bush 0447,SYN-P-00447,40Cr4,2.3749,Grinding:GRD-1:0.5;Turning:CNC-T1:4.3;Milling:VMC-1:9.5,227.58,SYN-2507-0447,2025-07-17
+Synthetic Customer 04,Axle shaft 0260,SYN-P-00260,EN8,4.5625,Turning:CNC-T1:4.9,415.59,SYN-2603-0260,2026-03-07
+Synthetic Customer 07,Yoke 1378,SYN-P-01378,EN8,heavy,Drilling:DRL-1:9.5,113.85,SYN-2507-1378,2025-07-25
+Synthetic Customer 12,Hub flange 1328,SYN-P-01328,C45,6.5115,Turning:CNC-T1:7.6;Milling:VMC-1:7.8,607.69,SYN-2611-1328,2026-11-26
+Synthetic Customer 10,Yoke 0183,SYN-P-00183,C45,3.5402,Grinding:GRD-1:11.0;Turning:CNC-T1:11.3;Milling:VMC-1:1.8,320.96,SYN-2406-0183,2024-06-25
+Synthetic Customer 04,Yoke 0760,SYN-P-00760,40Cr4,4.6781,Turning:CNC-T1:0.7;Milling:VMC-1:9.9;Drilling:DRL-1:8.9,446.46,SYN-2404-0760,2024-04-12
+Synthetic Customer 02,Lift arm 0176,SYN-P-00176,C45,6.0936,Turning:CNC-T1:6.2,577.03,SYN-2508-0176,2025-08-26
+Synthetic Customer 01,Lift arm 1031,SYN-P-01031,C45,2.5560,Grinding:GRD-1:7.6;Turning:CNC-T1:6.3;Milling:VMC-1:0.9,249.07,SYN-2405-1031,2024-05-20
+Synthetic Customer 09,Pinion 0922,SYN-P-00922,C45,4.1931,Drilling:DRL-1:4.1;Grinding:GRD-1:2.3,403.54,SYN-2609-0922,2026-09-18
+Synthetic Customer 06,Yoke 0252,SYN-P-00252,C45,3.7085,Turning:CNC-T1:2.5,370.66,SYN-2607-0252,2026-07-09
+Synthetic Customer 07,Hub flange 0667,SYN-P-00667,EN8,4.7926,Grinding:GRD-1:8.7;Turning:CNC-T1:8.0,438.07,SYN-2406-0667,2024-06-19
+Synthetic Customer 09,Yoke 1270,SYN-P-01270,40Cr4,5.1419,Drilling:DRL-1:3.6;Grinding:GRD-1:10.9;Turning:CNC-T1:8.5,465.10,SYN-2506-1270,2025-06-16
+Synthetic Customer 08,Yoke 0802,SYN-P-00802,20MnCr5,1.0709,Drilling:DRL-1:2.8;Grinding:GRD-1:3.5;Turning:CNC-T1:7.4,128.84,SYN-2606-0802,2026-06-06
+Synthetic Customer 04,Pinion 0189,SYN-P-00189,EN8,2.2475,Milling:VMC-1:1.6;Drilling:DRL-1:10.1,219.91,SYN-2507-0189,2025-07-01
+Synthetic Customer 07,Hub flange 0154,SYN-P-00154,20MnCr5,5.3907,Drilling:DRL-1:8.6;Grinding:GRD-1:2.7;Turning:CNC-T1:5.7,507.28,SYN-2509-0154,2025-09-16
+Synthetic Customer 01,Brake pin 0801,SYN-P-00801,C45,7.6734,Milling:VMC-1:1.5;Drilling:DRL-1:8.8,682.64,SYN-2508-0801,2025-08-03
+Synthetic Customer 09,Axle shaft 1035,SYN-P-01035,20MnCr5,3.4240,Grinding:GRD-1:11.3,335.30,SYN-2510-1035,2025-10-21
+Synthetic Customer 05,Gear blank 0277,SYN-P-00277,40Cr4,4.7698,Milling:VMC-1:8.9,447.84,SYN-2401-0277,2024-01-09
+Synthetic Customer 06,Brake pin 0331,SYN-P-00331,20MnCr5,6.7010,Grinding:GRD-1:6.9;Turning:CNC-T1:1.5,605.07,SYN-2603-0331,2026-03-15
+Synthetic Customer 04,Gear blank 0241,SYN-P-00241,EN19,6.6897,Milling:VMC-1:9.7,618.66,SYN-2408-0241,2024-08-02
+Synthetic Customer 01,Pinion 0124,SYN-P-00124,EN19,7.1801,Turning:CNC-T1:4.0;Milling:VMC-1:10.6;Drilling:DRL-1:0.7,644.69,SYN-2609-0124,2026-09-05
+Synthetic Customer 02,Gear blank 0918,SYN-P-00918,20MnCr5,1.7866,Drilling:DRL-1:6.6,176.41,SYN-2604-0918,2026-04-07
+Synthetic Customer 12,Yoke 0827,SYN-P-00827,20MnCr5,4.4225,Grinding:GRD-1:7.6,432.68,SYN-2505-0827,2025-05-24
+Synthetic Customer 03,Gear blank 0014,SYN-P-00014,20MnCr5,1.4879,Drilling:DRL-1:0.5;Grinding:GRD-1:7.0;Turning:CNC-T1:7.0,150.10,SYN-2606-0014,2026-06-18
+Synthetic Customer 03,Coupling 0740,SYN-P-00740,C45,3.9762,Turning:CNC-T1:11.5;Milling:VMC-1:4.0,377.26,SYN-2610-0740,2026-10-05
+Synthetic Customer 02,Gear blank 1373,SYN-P-01373,40Cr4,heavy,Milling:VMC-1:1.4;Drilling:DRL-1:1.0;Grinding:GRD-1:11.4,257.07,SYN-2403-1373,2024-03-05
+Synthetic Customer 04,Hub flange 1120,SYN-P-01120,EN19,1.4552,Turning:CNC-T1:2.7;Milling:VMC-1:7.2;Drilling:DRL-1:10.6,152.40,SYN-2608-1120,2026-08-09
+Synthetic Customer 01,Axle shaft 0032,SYN-P-00032,20MnCr5,0.3916,Turning:CNC-T1:10.6;Milling:VMC-1:10.5,87.48,SYN-2609-0032,2026-09-12
+Synthetic Customer 02,Pinion 0954,SYN-P-00954,EN19,5.0414,Drilling:DRL-1:3.1,468.71,SYN-2606-0954,2026-06-12
+Synthetic Customer 02,Spindle 1033,SYN-P-01033,C45,4.2969,Milling:VMC-1:9.5;Drilling:DRL-1:1.6,413.29,SYN-2604-1033,2026-04-12
+Synthetic Customer 03,Brake pin 0991,SYN-P-00991,C45,5.1197,Grinding:GRD-1:6.5;Turning:CNC-T1:3.1,485.02,SYN-2411-0991,2024-11-05
+Synthetic Customer 04,Coupling 0040,SYN-P-00040,EN8,2.0893,Turning:CNC-T1:8.4;Milling:VMC-1:7.2;Drilling:DRL-1:8.2,208.01,SYN-2510-0040,2025-10-14
+Synthetic Customer 10,Gear blank 0956,SYN-P-00956,40Cr4,5.0199,Turning:CNC-T1:3.7;Milling:VMC-1:3.3,459.25,SYN-2611-0956,2026-11-27
+Synthetic Customer 03,Pinion 0196,SYN-P-00196,EN8,3.6285,Turning:CNC-T1:8.6,331.34,SYN-2609-0196,2026-09-28
+Synthetic Customer 11,Spindle 0771,SYN-P-00771,EN8,2.1189,Grinding:GRD-1:9.1;Turning:CNC-T1:4.0,237.84,SYN-2401-0771,2024-01-28
+Synthetic Customer 05,Coupling 0778,SYN-P-00778,40Cr4,5.4778,Drilling:DRL-1:2.1;Grinding:GRD-1:8.7;Turning:CNC-T1:7.6,487.58,SYN-2504-0778,2025-04-03
+Synthetic Customer 07,Spindle 0271,SYN-P-00271,EN19,2.8401,Grinding:GRD-1:1.0;Turning:CNC-T1:11.3;Milling:VMC-1:6.2,266.54,SYN-2410-0271,2024-10-23
+Synthetic Customer 07,Brake pin 1016,SYN-P-01016,40Cr4,7.1835,Turning:CNC-T1:3.0;Milling:VMC-1:5.7;Drilling:DRL-1:6.5,634.40,SYN-2404-1016,2024-04-17
+Synthetic Customer 10,Coupling 0193,SYN-P-00193,EN19,2.3930,Milling:VMC-1:3.2;Drilling:DRL-1:4.3;Grinding:GRD-1:1.0,229.02,SYN-2502-0193,2025-02-12
+Synthetic Customer 08,Spindle 0388,SYN-P-00388,EN19,0.5726,Turning:CNC-T1:11.2;Milling:VMC-1:0.7,91.91,SYN-2601-0388,2026-01-21
+Synthetic Customer 04,Pinion 0452,SYN-P-00452,40Cr4,3.8344,Turning:CNC-T1:5.1;Milling:VMC-1:5.8,375.74,SYN-2502-0452,2025-02-16
+Synthetic Customer 04,Brake pin 0530,SYN-P-00530,20MnCr5,2.8781,Drilling:DRL-1:7.9;Grinding:GRD-1:0.9,303.71,SYN-2508-0530,2025-08-28
+Synthetic Customer 08,Bush 1032,SYN-P-01032,EN19,7.2557,Turning:CNC-T1:5.5;Milling:VMC-1:5.7,670.49,SYN-2406-1032,2024-06-24
+Synthetic Customer 06,Lift arm 1273,SYN-P-01273,20MnCr5,6.5617,Milling:VMC-1:9.5;Drilling:DRL-1:5.5,613.68,SYN-2502-1273,2025-02-18
+Synthetic Customer 03,Coupling 0624,SYN-P-00624,C45,2.9849,Turning:CNC-T1:7.7;Milling:VMC-1:9.4;Drilling:DRL-1:0.6,313.10,SYN-2508-0624,2025-08-10
+Synthetic Customer 03,Yoke 0724,SYN-P-00724,20MnCr5,6.5214,Turning:CNC-T1:0.9;Milling:VMC-1:9.8;Drilling:DRL-1:7.0,589.48,SYN-2609-0724,2026-09-14
+Synthetic Customer 08,Pinion 0455,SYN-P-00455,EN8,7.7797,Grinding:GRD-1:2.1,720.84,SYN-2601-0455,2026-01-15
+Synthetic Customer 02,Pinion 0800,SYN-P-00800,EN8,3.4375,Turning:CNC-T1:1.4;Milling:VMC-1:5.4,329.56,SYN-2504-0800,2025-04-07
+Synthetic Customer 12,Gear blank 1069,SYN-P-01069,EN8,7.8674,Milling:VMC-1:6.4;Drilling:DRL-1:9.9;Grinding:GRD-1:11.3,693.46,SYN-2504-1069,2025-04-23
+Synthetic Customer 08,Yoke 0025,SYN-P-00025,40Cr4,2.1342,Milling:VMC-1:6.0,234.26,SYN-2412-0025,2024-12-03
+Synthetic Customer 11,Gear blank 1300,SYN-P-01300,40Cr4,4.5816,Turning:CNC-T1:3.6;Milling:VMC-1:10.7;Drilling:DRL-1:5.6,411.68,SYN-2411-1300,2024-11-09
+Synthetic Customer 07,Hub flange 0464,SYN-P-00464,40Cr4,6.4570,Turning:CNC-T1:1.9,598.63,SYN-2409-0464,2024-09-23
+Synthetic Customer 03,Lift arm 0433,SYN-P-00433,C45,2.2398,Milling:VMC-1:1.0;Drilling:DRL-1:10.2;Grinding:GRD-1:11.2,232.62,SYN-2504-0433,2025-04-04
+Synthetic Customer 11,Lift arm 1313,SYN-P-01313,C45,5.2659,Milling:VMC-1:8.8,479.62,SYN-2401-1313,2024-01-15
+Synthetic Customer 02,Coupling 0782,SYN-P-00782,EN8,4.0096,Drilling:DRL-1:6.0;Grinding:GRD-1:8.7;Turning:CNC-T1:6.2,396.34,SYN-2606-0782,2026-06-25
+Synthetic Customer 08,Hub flange 1122,SYN-P-01122,20MnCr5,4.7597,Drilling:DRL-1:1.7;Grinding:GRD-1:11.1,442.06,SYN-2406-1122,2024-06-04
+Synthetic Customer 03,Bush 0506,SYN-P-00506,EN8,3.4580,Drilling:DRL-1:5.3,345.25,SYN-2601-0506,2026-01-02
+Synthetic Customer 05,Bush 1212,SYN-P-01212,EN19,7.5496,Turning:CNC-T1:2.2;Milling:VMC-1:5.0,687.35,SYN-2512-1212,2025-12-11
+Synthetic Customer 04,Spindle 0348,SYN-P-00348,20MnCr5,5.8231,Turning:CNC-T1:4.1;Milling:VMC-1:8.6;Drilling:DRL-1:4.9,530.19,SYN-2601-0348,2026-01-09
+Synthetic Customer 02,Axle shaft 0075,SYN-P-00075,EN19,6.4628,Grinding:GRD-1:3.1;Turning:CNC-T1:6.1;Milling:VMC-1:4.1,590.72,SYN-2505-0075,2025-05-22
+Synthetic Customer 09,Spindle 0686,SYN-P-00686,20MnCr5,3.2975,Drilling:DRL-1:9.6,308.72,SYN-2602-0686,2026-02-03
+Synthetic Customer 11,Pinion 0761,SYN-P-00761,EN8,4.2419,Milling:VMC-1:8.7,400.38,SYN-2506-0761,2025-06-11
+Synthetic Customer 11,Lift arm 0157,SYN-P-00157,EN19,2.7627,Milling:VMC-1:5.4;Drilling:DRL-1:5.1,284.97,SYN-2409-0157,2024-09-06
+Synthetic Customer 06,Brake pin 0812,SYN-P-00812,20MnCr5,7.6373,Turning:CNC-T1:6.5,705.03,SYN-2508-0812,2025-08-18
+Synthetic Customer 08,Brake pin 0518,SYN-P-00518,40Cr4,7.7788,Drilling:DRL-1:11.3;Grinding:GRD-1:11.3;Turning:CNC-T1:3.3,687.40,SYN-2605-0518,2026-05-13
+Synthetic Customer 11,Axle shaft 0371,SYN-P-00371,EN19,1.4614,Grinding:GRD-1:4.9,152.86,SYN-2510-0371,2025-10-11
+Synthetic Customer 07,Lift arm 0400,SYN-P-00400,20MnCr5,6.5090,Turning:CNC-T1:4.3,585.05,SYN-2406-0400,2024-06-05
+Synthetic Customer 08,Coupling 0047,SYN-P-00047,20MnCr5,5.7809,Grinding:GRD-1:10.2;Turning:CNC-T1:0.9,538.24,SYN-2412-0047,2024-12-18
+Synthetic Customer 09,Lift arm 1047,SYN-P-01047,EN19,2.1613,Grinding:GRD-1:1.0,236.08,SYN-2612-1047,2026-12-27
+Synthetic Customer 09,Lift arm 1132,SYN-P-01132,20MnCr5,4.2254,Turning:CNC-T1:10.2;Milling:VMC-1:6.6;Drilling:DRL-1:4.9,384.98,SYN-2407-1132,2024-07-22
+Synthetic Customer 09,Axle shaft 1282,SYN-P-01282,C45,3.6516,Drilling:DRL-1:11.2;Grinding:GRD-1:4.7;Turning:CNC-T1:9.1,336.84,SYN-2610-1282,2026-10-24
+Synthetic Customer 01,Brake pin 0762,SYN-P-00762,40Cr4,4.5981,Drilling:DRL-1:7.8;Grinding:GRD-1:3.7;Turning:CNC-T1:5.1,434.69,SYN-2510-0762,2025-10-28
+Synthetic Customer 09,Bush 1311,SYN-P-01311,C45,1.5037,Grinding:GRD-1:2.4,187.62,SYN-2408-1311,2024-08-16
+Synthetic Customer 04,Coupling 1104,SYN-P-01104,20MnCr5,5.1448,Turning:CNC-T1:1.2;Milling:VMC-1:5.7;Drilling:DRL-1:6.5,461.32,SYN-2612-1104,2026-12-01
+Synthetic Customer 05,Coupling 1108,SYN-P-01108,20MnCr5,7.9813,Turning:CNC-T1:11.2;Milling:VMC-1:3.8;Drilling:DRL-1:0.8,737.41,SYN-2603-1108,2026-03-18
+Synthetic Customer 10,Lift arm 1191,SYN-P-01191,EN19,2.0092,Grinding:GRD-1:6.6;Turning:CNC-T1:0.6;Milling:VMC-1:7.6,194.07,SYN-2403-1191,2024-03-22
+Synthetic Customer 10,Spindle 0273,SYN-P-00273,40Cr4,4.8107,Milling:VMC-1:10.0,438.49,SYN-2608-0273,2026-08-20
+Synthetic Customer 10,Lift arm 1124,SYN-P-01124,EN8,3.2987,Turning:CNC-T1:3.9;Milling:VMC-1:10.2;Drilling:DRL-1:2.5,324.43,SYN-2605-1124,2026-05-24
+Synthetic Customer 09,Lift arm 1348,SYN-P-01348,C45,7.0049,Turning:CNC-T1:6.4,638.62,SYN-2401-1348,2024-01-21
+Synthetic Customer 11,Coupling 0615,SYN-P-00615,20MnCr5,3.3943,Grinding:GRD-1:4.1,344.59,SYN-2601-0615,2026-01-13
+Synthetic Customer 03,Brake pin 1250,SYN-P-01250,20MnCr5,7.1483,Drilling:DRL-1:2.6,628.03,SYN-2601-1250,2026-01-06
+Synthetic Customer 08,Pinion 0768,SYN-P-00768,40Cr4,7.7135,Turning:CNC-T1:1.4,677.43,SYN-2606-0768,2026-06-05
+Synthetic Customer 01,Gear blank 0997,SYN-P-00997,EN19,1.5947,Milling:VMC-1:5.3;Drilling:DRL-1:10.0;Grinding:GRD-1:10.9,190.89,SYN-2508-0997,2025-08-28
+Synthetic Customer 02,Hub flange 0390,SYN-P-00390,EN19,5.4979,Drilling:DRL-1:3.9,513.93,SYN-2409-0390,2024-09-18
+Synthetic Customer 05,Gear blank 1127,SYN-P-01127,C45,0.9036,Grinding:GRD-1:3.1;Turning:CNC-T1:1.9,133.02,SYN-2511-1127,2025-11-27
+Synthetic Customer 07,Spindle 1266,SYN-P-01266,EN8,7.9629,Drilling:DRL-1:6.4;Grinding:GRD-1:10.2,712.56,SYN-2503-1266,2025-03-13
+Synthetic Customer 10,Coupling 0010,SYN-P-00010,20MnCr5,6.7383,Drilling:DRL-1:6.1,607.52,SYN-2409-0010,2024-09-20
+Synthetic Customer 11,Coupling 0739,SYN-P-00739,EN19,6.0713,Grinding:GRD-1:7.5,545.89,SYN-2406-0739,2024-06-09
+Synthetic Customer 12,Brake pin 0814,SYN-P-00814,EN8,6.9685,Drilling:DRL-1:2.2;Grinding:GRD-1:4.8,630.31,SYN-2401-0814,2024-01-07
+Synthetic Customer 08,Hub flange 0978,SYN-P-00978,20MnCr5,1.0334,Drilling:DRL-1:1.0;Grinding:GRD-1:7.3;Turning:CNC-T1:10.3,143.34,SYN-2504-0978,2025-04-22
+Synthetic Customer 02,Axle shaft 1342,SYN-P-01342,C45,6.1301,Drilling:DRL-1:11.0,561.55,SYN-2608-1342,2026-08-28
+Synthetic Customer 05,Gear blank 0618,SYN-P-00618,40Cr4,2.0711,Drilling:DRL-1:4.1;Grinding:GRD-1:0.5,215.29,SYN-2411-0618,2024-11-16
+Synthetic Customer 12,Gear blank 0420,SYN-P-00420,C45,2.8889,Turning:CNC-T1:1.4;Milling:VMC-1:10.9;Drilling:DRL-1:9.4,288.82,SYN-2408-0420,2024-08-15
+Synthetic Customer 05,Pinion 0437,SYN-P-00437,20MnCr5,5.8743,Milling:VMC-1:1.0;Drilling:DRL-1:6.6,522.03,SYN-2607-0437,2026-07-14
+Synthetic Customer 05,Pinion 0475,SYN-P-00475,40Cr4,7.6064,Grinding:GRD-1:2.2;Turning:CNC-T1:2.0,680.18,SYN-2609-0475,2026-09-07
+Synthetic Customer 06,Axle shaft 0644,SYN-P-00644,40Cr4,5.2550,Turning:CNC-T1:2.4;Milling:VMC-1:4.3;Drilling:DRL-1:0.9,475.32,SYN-2509-0644,2025-09-23
+Synthetic Customer 11,Coupling 0305,SYN-P-00305,40Cr4,0.8121,Milling:VMC-1:6.2;Drilling:DRL-1:3.6;Grinding:GRD-1:6.7,110.43,SYN-2407-0305,2024-07-24
+Synthetic Customer 07,Hub flange 1063,SYN-P-01063,EN8,2.2807,Grinding:GRD-1:9.1;Turning:CNC-T1:9.2,230.82,SYN-2506-1063,2025-06-06
+Synthetic Customer 07,Coupling 0281,SYN-P-00281,20MnCr5,4.5380,Milling:VMC-1:7.9;Drilling:DRL-1:2.8;Grinding:GRD-1:7.3,409.43,SYN-2409-0281,2024-09-08
+Synthetic Customer 02,Gear blank 0758,SYN-P-00758,40Cr4,7.5935,Drilling:DRL-1:10.1;Grinding:GRD-1:8.7,683.20,SYN-2508-0758,2025-08-13
+Synthetic Customer 04,Lift arm 1176,SYN-P-01176,20MnCr5,4.4061,Turning:CNC-T1:9.1,403.35,SYN-2405-1176,2024-05-08
+Synthetic Customer 01,Spindle 0855,SYN-P-00855,40Cr4,6.0341,Grinding:GRD-1:6.4,569.41,SYN-2504-0855,2025-04-19
+Synthetic Customer 03,Yoke 0973,SYN-P-00973,C45,0.3044,Milling:VMC-1:3.4;Drilling:DRL-1:2.0,67.73,SYN-2406-0973,2024-06-13
+Synthetic Customer 05,Coupling 0694,SYN-P-00694,EN8,7.8552,Drilling:DRL-1:9.5,721.98,SYN-2612-0694,2026-12-21
+Synthetic Customer 08,Coupling 0766,SYN-P-00766,20MnCr5,3.8340,Drilling:DRL-1:9.9;Grinding:GRD-1:6.2;Turning:CNC-T1:9.9,350.77,SYN-2607-0766,2026-07-25
+Synthetic Customer 06,Axle shaft 0035,SYN-P-00035,20MnCr5,3.0285,Grinding:GRD-1:7.1;Turning:CNC-T1:3.8;Milling:VMC-1:7.9,308.40,SYN-2601-0035,2026-01-24
+Synthetic Customer 06,Hub flange 0209,SYN-P-00209,40Cr4,5.4264,Milling:VMC-1:0.8,513.15,SYN-2504-0209,2025-04-28
+Synthetic Customer 02,Pinion 0168,SYN-P-00168,C45,6.8653,Turning:CNC-T1:3.0;Milling:VMC-1:4.0,623.48,SYN-2610-0168,2026-10-28
+Synthetic Customer 04,Bush 0099,SYN-P-00099,20MnCr5,2.0817,Grinding:GRD-1:2.7,228.06,SYN-2602-0099,2026-02-28
+Synthetic Customer 08,Spindle 0218,SYN-P-00218,EN8,3.8108,Drilling:DRL-1:6.2,344.99,SYN-2611-0218,2026-11-12
+Synthetic Customer 07,Hub flange 0576,SYN-P-00576,20MnCr5,1.3108,Turning:CNC-T1:8.8;Milling:VMC-1:1.6;Drilling:DRL-1:3.0,167.98,SYN-2409-0576,2024-09-07
+Synthetic Customer 05,Pinion 0819,SYN-P-00819,C45,2.9963,Grinding:GRD-1:4.0;Turning:CNC-T1:8.9;Milling:VMC-1:6.6,305.04,SYN-2510-0819,2025-10-06
+Synthetic Customer 01,Axle shaft 1374,SYN-P-01374,20MnCr5,1.0842,Drilling:DRL-1:1.3;Grinding:GRD-1:1.4;Turning:CNC-T1:4.0,-12.50,SYN-2511-1374,2025-11-15
+Synthetic Customer 08,Gear blank 1194,SYN-P-01194,EN19,0.7331,Drilling:DRL-1:7.2;Grinding:GRD-1:10.2;Turning:CNC-T1:10.0,105.49,SYN-2404-1194,2024-04-08
+Synthetic Customer 07,Pinion 0184,SYN-P-00184,EN19,4.9860,Turning:CNC-T1:1.6;Milling:VMC-1:4.9;Drilling:DRL-1:3.1,448.69,SYN-2412-0184,2024-12-23
+Synthetic Customer 12,Axle shaft 0231,SYN-P-00231,20MnCr5,5.3817,Grinding:GRD-1:9.1;Turning:CNC-T1:2.4,514.96,SYN-2406-0231,2024-06-14
+Synthetic Customer 10,Lift arm 0735,SYN-P-00735,EN8,4.8492,Grinding:GRD-1:10.2;Turning:CNC-T1:10.9;Milling:VMC-1:11.4,459.86,SYN-2506-0735,2025-06-17
+Synthetic Customer 10,Pinion 0746,SYN-P-00746,EN19,5.9035,Drilling:DRL-1:1.0;Grinding:GRD-1:8.1;Turning:CNC-T1:4.1,550.89,SYN-2611-0746,2026-11-25
+Synthetic Customer 06,Yoke 0385,SYN-P-00385,EN8,0.7593,Milling:VMC-1:10.3,108.14,SYN-2602-0385,2026-02-27
+Synthetic Customer 09,Spindle 0665,SYN-P-00665,EN19,7.0671,Milling:VMC-1:5.9;Drilling:DRL-1:9.9,622.86,SYN-2411-0665,2024-11-13
+Synthetic Customer 11,Gear blank 1060,SYN-P-01060,20MnCr5,6.9970,Turning:CNC-T1:4.2;Milling:VMC-1:2.2;Drilling:DRL-1:9.2,622.93,SYN-2605-1060,2026-05-04
+Synthetic Customer 05,Pinion 0301,SYN-P-00301,20MnCr5,2.8730,Milling:VMC-1:11.3;Drilling:DRL-1:4.3;Grinding:GRD-1:1.5,274.50,SYN-2404-0301,2024-04-05
+Synthetic Customer 07,Pinion 0190,SYN-P-00190,40Cr4,0.9446,Drilling:DRL-1:3.7;Grinding:GRD-1:10.4,122.29,SYN-2402-0190,2024-02-08
+Synthetic Customer 03,Pinion 1009,SYN-P-01009,EN8,2.8566,Milling:VMC-1:1.0,266.80,SYN-2401-1009,2024-01-04
+Synthetic Customer 06,Gear blank 1036,SYN-P-01036,EN19,3.8484,Turning:CNC-T1:8.2;Milling:VMC-1:9.9,355.70,SYN-2509-1036,2025-09-20
+Synthetic Customer 02,Yoke 0434,SYN-P-00434,40Cr4,4.0684,Drilling:DRL-1:5.2;Grinding:GRD-1:10.5,380.98,SYN-2611-0434,2026-11-24
+Synthetic Customer 01,Bush 0994,SYN-P-00994,40Cr4,5.5250,Drilling:DRL-1:5.7;Grinding:GRD-1:9.5,527.85,SYN-2612-0994,2026-12-01
+Synthetic Customer 03,Axle shaft 1053,SYN-P-01053,40Cr4,2.3651,Milling:VMC-1:2.2;Drilling:DRL-1:8.1;Grinding:GRD-1:3.6,260.76,SYN-2412-1053,2024-12-20
+Synthetic Customer 08,Yoke 0537,SYN-P-00537,40Cr4,6.2622,Milling:VMC-1:6.7,575.67,SYN-2501-0537,2025-01-27
+Synthetic Customer 08,Brake pin 1199,SYN-P-01199,20MnCr5,0.3674,Grinding:GRD-1:10.9;Turning:CNC-T1:7.1;Milling:VMC-1:2.6,78.41,SYN-2406-1199,2024-06-06
+Synthetic Customer 11,Pinion 1177,SYN-P-01177,EN19,2.0915,Milling:VMC-1:9.3;Drilling:DRL-1:5.3,228.61,SYN-2605-1177,2026-05-21
+Synthetic Customer 09,Bush 1349,SYN-P-01349,40Cr4,5.7068,Milling:VMC-1:3.0;Drilling:DRL-1:3.3,511.46,SYN-2607-1349,2026-07-24
+Synthetic Customer 12,Yoke 0659,SYN-P-00659,20MnCr5,3.7193,Grinding:GRD-1:8.1,374.53,SYN-2411-0659,2024-11-18
+Synthetic Customer 02,Coupling 1106,SYN-P-01106,EN19,0.2553,Drilling:DRL-1:7.5,44.70,SYN-2410-1106,2024-10-06
+Synthetic Customer 02,Axle shaft 0399,SYN-P-00399,EN19,4.2833,Grinding:GRD-1:3.3,402.87,SYN-2507-0399,2025-07-22
+Synthetic Customer 06,Yoke 0165,SYN-P-00165,EN8,1.3495,Milling:VMC-1:9.0,162.95,SYN-2401-0165,2024-01-04
+Synthetic Customer 02,Spindle 0907,SYN-P-00907,EN8,6.1182,Grinding:GRD-1:1.0;Turning:CNC-T1:8.8;Milling:VMC-1:6.1,548.60,SYN-2603-0907,2026-03-24
+Synthetic Customer 07,Bush 1103,SYN-P-01103,20MnCr5,5.1079,Grinding:GRD-1:10.8;Turning:CNC-T1:5.2,482.49,SYN-2612-1103,2026-12-03
+Synthetic Customer 04,Gear blank 0926,SYN-P-00926,20MnCr5,2.4916,Drilling:DRL-1:2.7;Grinding:GRD-1:8.9;Turning:CNC-T1:1.6,251.69,SYN-2405-0926,2024-05-05
+Synthetic Customer 06,Axle shaft 1228,SYN-P-01228,C45,5.7377,Turning:CNC-T1:6.6;Milling:VMC-1:5.2,522.64,SYN-2603-1228,2026-03-03
+Synthetic Customer 04,Lift arm 0859,SYN-P-00859,40Cr4,0.2626,Grinding:GRD-1:7.1;Turning:CNC-T1:9.4;Milling:VMC-1:2.4,44.30,SYN-2502-0859,2025-02-19
+Synthetic Customer 03,Hub flange 1154,SYN-P-01154,40Cr4,7.1680,Drilling:DRL-1:4.5;Grinding:GRD-1:7.4,660.29,SYN-2606-1154,2026-06-08
+Synthetic Customer 01,Spindle 0490,SYN-P-00490,EN8,0.7428,Drilling:DRL-1:9.2,106.72,SYN-2411-0490,2024-11-28
+Synthetic Customer 09,Lift arm 0886,SYN-P-00886,EN8,3.8386,Drilling:DRL-1:11.1;Grinding:GRD-1:9.2;Turning:CNC-T1:1.2,362.66,SYN-2509-0886,2025-09-08
+Synthetic Customer 07,Yoke 1331,SYN-P-01331,20MnCr5,2.4805,Grinding:GRD-1:2.7;Turning:CNC-T1:4.7,235.96,SYN-2504-1331,2025-04-15
+Synthetic Customer 12,Brake pin 0625,SYN-P-00625,40Cr4,4.9058,Milling:VMC-1:9.3;Drilling:DRL-1:11.0,451.85,SYN-2404-0625,2024-04-07
+Synthetic Customer 03,Yoke 0314,SYN-P-00314,20MnCr5,7.3520,Drilling:DRL-1:2.8,648.40,SYN-2612-0314,2026-12-24
+Synthetic Customer 06,Bush 0794,SYN-P-00794,40Cr4,2.1113,Drilling:DRL-1:11.1,228.85,SYN-2604-0794,2026-04-13
+Synthetic Customer 10,Bush 0635,SYN-P-00635,40Cr4,0.5505,Grinding:GRD-1:9.3;Turning:CNC-T1:2.5,67.76,SYN-2501-0635,2025-01-12
+Synthetic Customer 11,Spindle 0901,SYN-P-00901,C45,4.3937,Milling:VMC-1:4.7;Drilling:DRL-1:3.2,412.35,SYN-2611-0901,2026-11-10
+Synthetic Customer 03,Gear blank 0129,SYN-P-00129,20MnCr5,1.0410,Milling:VMC-1:5.8;Drilling:DRL-1:9.5;Grinding:GRD-1:5.1,129.63,SYN-2612-0129,2026-12-01
+Synthetic Customer 02,Gear blank 0712,SYN-P-00712,EN19,5.8513,Turning:CNC-T1:11.2,543.90,SYN-2509-0712,2025-09-24
+Synthetic Customer 09,Lift arm 0359,SYN-P-00359,C45,1.5030,Grinding:GRD-1:7.0;Turning:CNC-T1:8.4;Milling:VMC-1:5.2,176.39,SYN-2610-0359,2026-10-14
+Synthetic Customer 05,Yoke 0300,SYN-P-00300,C45,7.0269,Turning:CNC-T1:11.5;Milling:VMC-1:1.2,633.54,SYN-2512-0300,2025-12-04
+Synthetic Customer 01,Spindle 1020,SYN-P-01020,40Cr4,5.3196,Turning:CNC-T1:11.2,509.50,SYN-2412-1020,2024-12-05
+Synthetic Customer 09,Hub flange 1170,SYN-P-01170,20MnCr5,3.7585,Drilling:DRL-1:7.0;Grinding:GRD-1:5.6;Turning:CNC-T1:8.6,377.42,SYN-2501-1170,2025-01-22
+Synthetic Customer 09,Pinion 0743,SYN-P-00743,EN8,3.4006,Grinding:GRD-1:6.9;Turning:CNC-T1:10.5,348.67,SYN-2401-0743,2024-01-08
+Synthetic Customer 10,Yoke 0144,SYN-P-00144,40Cr4,7.9228,Turning:CNC-T1:10.6;Milling:VMC-1:0.6,731.45,SYN-2402-0144,2024-02-05
+Synthetic Customer 09,Coupling 0515,SYN-P-00515,EN19,6.6903,Grinding:GRD-1:6.5;Turning:CNC-T1:8.1;Milling:VMC-1:7.8,610.30,SYN-2509-0515,2025-09-21
+Synthetic Customer 06,Brake pin 0344,SYN-P-00344,40Cr4,7.0678,Turning:CNC-T1:2.0,655.43,SYN-2503-0344,2025-03-27
+Synthetic Customer 10,Gear blank 0467,SYN-P-00467,EN19,5.9772,Grinding:GRD-1:5.6;Turning:CNC-T1:6.7,528.62,SYN-2502-0467,2025-02-14
+Synthetic Customer 05,Gear blank 1355,SYN-P-01355,20MnCr5,7.5422,Grinding:GRD-1:5.1;Turning:CNC-T1:4.4,666.76,SYN-2407-1355,2024-07-07
+Synthetic Customer 11,Hub flange 0195,SYN-P-00195,40Cr4,2.6615,Grinding:GRD-1:5.0;Turning:CNC-T1:11.4;Milling:VMC-1:7.1,259.64,SYN-2510-0195,2025-10-01
+Synthetic Customer 12,Spindle 0727,SYN-P-00727,EN8,4.6575,Grinding:GRD-1:8.7;Turning:CNC-T1:0.7,454.73,SYN-2511-0727,2025-11-25
+Synthetic Customer 07,Spindle 0879,SYN-P-00879,40Cr4,4.5810,Grinding:GRD-1:4.9;Turning:CNC-T1:2.6;Milling:VMC-1:8.9,417.65,SYN-2603-0879,2026-03-17
+Synthetic Customer 04,Pinion 0186,SYN-P-00186,20MnCr5,1.1648,Drilling:DRL-1:9.2,130.71,SYN-2604-0186,2026-04-16
+Synthetic Customer 03,Lift arm 1256,SYN-P-01256,EN19,2.8326,Turning:CNC-T1:3.5;Milling:VMC-1:8.1;Drilling:DRL-1:0.5,286.10,SYN-2403-1256,2024-03-28
+Synthetic Customer 05,Spindle 0788,SYN-P-00788,EN19,6.8495,Turning:CNC-T1:6.3;Milling:VMC-1:8.0,637.19,SYN-2404-0788,2024-04-03
+Synthetic Customer 01,Bush 0642,SYN-P-00642,EN8,5.4009,Drilling:DRL-1:7.4,500.54,SYN-2402-0642,2024-02-02
+Synthetic Customer 06,Bush 1246,SYN-P-01246,40Cr4,1.4637,Drilling:DRL-1:10.9;Grinding:GRD-1:2.1,149.34,SYN-2406-1246,2024-06-04
+Synthetic Customer 04,Hub flange 1099,SYN-P-01099,20MnCr5,6.1394,Grinding:GRD-1:6.0,553.32,SYN-2406-1099,2024-06-11
+Synthetic Customer 01,Gear blank 0810,SYN-P-00810,C45,5.2443,Drilling:DRL-1:10.7;Grinding:GRD-1:11.3;Turning:CNC-T1:6.6,481.40,SYN-2505-0810,2025-05-08
+,Yoke 1381,SYN-P-01381,20MnCr5,3.9067,Milling:VMC-1:9.3,379.09,SYN-2511-1381,2025-11-16
+Synthetic Customer 12,Coupling 1317,SYN-P-01317,C45,1.0182,Milling:VMC-1:8.3;Drilling:DRL-1:8.9,139.26,SYN-2406-1317,2024-06-13
+Synthetic Customer 01,Yoke 1243,SYN-P-01243,EN19,5.0546,Grinding:GRD-1:2.4;Turning:CNC-T1:8.2;Milling:VMC-1:5.0,451.96,SYN-2611-1243,2026-11-02
+Synthetic Customer 06,Gear blank 0759,SYN-P-00759,EN19,5.2349,Grinding:GRD-1:5.8,473.96,SYN-2409-0759,2024-09-08
+Synthetic Customer 05,Lift arm 0964,SYN-P-00964,EN8,5.2065,Turning:CNC-T1:9.3;Milling:VMC-1:4.2,488.23,SYN-2507-0964,2025-07-26
+Synthetic Customer 04,Yoke 0391,SYN-P-00391,EN19,4.6443,Grinding:GRD-1:1.1;Turning:CNC-T1:9.6;Milling:VMC-1:5.1,454.17,SYN-2512-0391,2025-12-06
+Synthetic Customer 08,Gear blank 0503,SYN-P-00503,EN19,3.8319,Grinding:GRD-1:6.7;Turning:CNC-T1:4.3,362.54,SYN-2602-0503,2026-02-10
+Synthetic Customer 06,Axle shaft 1323,SYN-P-01323,EN19,6.4724,Grinding:GRD-1:0.6;Turning:CNC-T1:4.0;Milling:VMC-1:2.6,591.61,SYN-2610-1323,2026-10-09
+Synthetic Customer 11,Spindle 0466,SYN-P-00466,EN19,6.8421,Drilling:DRL-1:1.9,608.40,SYN-2610-0466,2026-10-11
+Synthetic Customer 10,Axle shaft 0940,SYN-P-00940,EN19,6.4901,Turning:CNC-T1:2.2;Milling:VMC-1:11.4,606.87,SYN-2604-0940,2026-04-22
+Synthetic Customer 05,Yoke 0850,SYN-P-00850,40Cr4,4.7555,Drilling:DRL-1:11.4,454.28,SYN-2412-0850,2024-12-15
+Synthetic Customer 06,Spindle 0809,SYN-P-00809,EN8,7.7891,Milling:VMC-1:8.8;Drilling:DRL-1:11.4;Grinding:GRD-1:0.6,693.33,SYN-2504-0809,2025-04-26
+Synthetic Customer 04,Bush 1363,SYN-P-01363,EN8,heavy,Grinding:GRD-1:1.7;Turning:CNC-T1:10.7,116.10,SYN-2601-1363,2026-01-10
+Synthetic Customer 02,Spindle 0233,SYN-P-00233,40Cr4,4.2407,Milling:VMC-1:3.6;Drilling:DRL-1:6.9;Grinding:GRD-1:10.0,398.25,SYN-2512-0233,2025-12-15
+Synthetic Customer 09,Gear blank 0937,SYN-P-00937,40Cr4,6.3501,Milling:VMC-1:11.0,580.49,SYN-2610-0937,2026-10-25
+Synthetic Customer 03,Bush 1164,SYN-P-01164,40Cr4,3.8200,Turning:CNC-T1:5.1,365.62,SYN-2505-1164,2025-05-20
+Synthetic Customer 04,Brake pin 0033,SYN-P-00033,40Cr4,5.2045,Milling:VMC-1:7.1,476.42,SYN-2409-0033,2024-09-28
+Synthetic Customer 03,Lift arm 1357,SYN-P-01357,C45,3.1277,Milling:VMC-1:6.8;Drilling:DRL-1:7.2;Grinding:GRD-1:5.1,300.47,SYN-2411-1357,2024-11-10
+Synthetic Customer 07,Spindle 1321,SYN-P-01321,C45,4.4678,Milling:VMC-1:3.5;Drilling:DRL-1:4.3;Grinding:GRD-1:7.7,420.61,SYN-2606-1321,2026-06-06
+Synthetic Customer 08,Lift arm 0741,SYN-P-00741,20MnCr5,6.5212,Milling:VMC-1:11.2,574.66,SYN-2403-0741,2024-03-19
+Synthetic Customer 07,Spindle 0329,SYN-P-00329,40Cr4,7.4735,Milling:VMC-1:4.4;Drilling:DRL-1:6.3;Grinding:GRD-1:9.2,687.23,SYN-2612-0329,2026-12-14
+Synthetic Customer 12,Spindle 0116,SYN-P-00116,C45,6.3638,Turning:CNC-T1:4.5;Milling:VMC-1:3.7,593.61,SYN-2504-0116,2025-04-22
+Synthetic Customer 12,Bush 0158,SYN-P-00158,40Cr4,0.4023,Drilling:DRL-1:6.4;Grinding:GRD-1:2.1,58.61,SYN-2506-0158,2025-06-20
+Synthetic Customer 03,Pinion 0792,SYN-P-00792,40Cr4,3.8799,Turning:CNC-T1:1.3;Milling:VMC-1:7.8,365.91,SYN-2506-0792,2025-06-10
+Synthetic Customer 09,Brake pin 1183,SYN-P-01183,C45,0.7304,Grinding:GRD-1:0.5,85.74,SYN-2601-1183,2026-01-24
+Synthetic Customer 01,Hub flange 1010,SYN-P-01010,EN8,4.6619,Drilling:DRL-1:1.7;Grinding:GRD-1:2.9,434.39,SYN-2605-1010,2026-05-01
+Synthetic Customer 10,Axle shaft 1088,SYN-P-01088,40Cr4,5.6178,Turning:CNC-T1:9.2;Milling:VMC-1:9.1;Drilling:DRL-1:8.1,524.02,SYN-2608-1088,2026-08-01
+Synthetic Customer 10,Gear blank 1305,SYN-P-01305,EN19,5.3572,Milling:VMC-1:8.7,507.75,SYN-2601-1305,2026-01-28
+Synthetic Customer 11,Coupling 0865,SYN-P-00865,20MnCr5,0.2071,Milling:VMC-1:7.9;Drilling:DRL-1:1.5,77.22,SYN-2509-0865,2025-09-05
+Synthetic Customer 10,Gear blank 0899,SYN-P-00899,EN8,6.2509,Grinding:GRD-1:10.8;Turning:CNC-T1:10.5;Milling:VMC-1:7.2,562.50,SYN-2403-0899,2024-03-01
+Synthetic Customer 11,Pinion 1234,SYN-P-01234,EN8,1.7522,Drilling:DRL-1:6.2;Grinding:GRD-1:8.0;Turning:CNC-T1:2.7,196.23,SYN-2608-1234,2026-08-24
+Synthetic Customer 05,Spindle 1133,SYN-P-01133,EN8,7.9912,Milling:VMC-1:0.6,739.07,SYN-2504-1133,2025-04-07
+Synthetic Customer 09,Bush 0941,SYN-P-00941,EN19,0.7109,Milling:VMC-1:4.9;Drilling:DRL-1:11.5;Grinding:GRD-1:5.7,105.79,SYN-2509-0941,2025-09-22
+Synthetic Customer 02,Bush 0132,SYN-P-00132,20MnCr5,7.4741,Turning:CNC-T1:3.7;Milling:VMC-1:6.8,691.74,SYN-2412-0132,2024-12-23
+Synthetic Customer 08,Brake pin 0656,SYN-P-00656,EN8,6.1490,Turning:CNC-T1:9.3;Milling:VMC-1:9.7,570.58,SYN-2601-0656,2026-01-18
+Synthetic Customer 12,Spindle 0254,SYN-P-00254,EN8,4.0465,Drilling:DRL-1:4.2;Grinding:GRD-1:5.9,393.72,SYN-2504-0254,2025-04-16
+Synthetic Customer 09,Hub flange 0626,SYN-P-00626,20MnCr5,4.8406,Drilling:DRL-1:1.7;Grinding:GRD-1:4.3,451.69,SYN-2508-0626,2025-08-03
+Synthetic Customer 05,Hub flange 0753,SYN-P-00753,C45,2.4733,Milling:VMC-1:6.6;Drilling:DRL-1:3.9,246.92,SYN-2502-0753,2025-02-11
+Synthetic Customer 07,Hub flange 0011,SYN-P-00011,C45,4.5365,Grinding:GRD-1:10.8,420.34,SYN-2405-0011,2024-05-26
+Synthetic Customer 03,Gear blank 0509,SYN-P-00509,C45,3.8258,Milling:VMC-1:2.8,355.09,SYN-2411-0509,2024-11-21
+Synthetic Customer 04,Bush 1073,SYN-P-01073,C45,5.1472,Milling:VMC-1:7.3,477.14,SYN-2411-1073,2024-11-06
+Synthetic Customer 05,Pinion 0957,SYN-P-00957,EN8,2.7241,Milling:VMC-1:11.0;Drilling:DRL-1:9.9;Grinding:GRD-1:11.1,287.84,SYN-2405-0957,2024-05-22
+Synthetic Customer 01,Gear blank 0454,SYN-P-00454,EN8,2.0904,Drilling:DRL-1:6.9,211.61,SYN-2612-0454,2026-12-10
+Synthetic Customer 09,Spindle 0411,SYN-P-00411,20MnCr5,4.6751,Grinding:GRD-1:3.2;Turning:CNC-T1:2.0,446.47,SYN-2602-0411,2026-02-14
+Synthetic Customer 10,Yoke 0058,SYN-P-00058,C45,2.6264,Drilling:DRL-1:2.2;Grinding:GRD-1:9.7;Turning:CNC-T1:1.1,254.44,SYN-2404-0058,2024-04-28
+Synthetic Customer 03,Axle shaft 1255,SYN-P-01255,C45,4.3281,Grinding:GRD-1:4.1;Turning:CNC-T1:2.7;Milling:VMC-1:2.0,420.31,SYN-2602-1255,2026-02-18
+Synthetic Customer 11,Yoke 0485,SYN-P-00485,40Cr4,0.9039,Milling:VMC-1:4.4;Drilling:DRL-1:11.3;Grinding:GRD-1:9.3,110.66,SYN-2512-0485,2025-12-14
+Synthetic Customer 08,Brake pin 0953,SYN-P-00953,EN19,2.3955,Milling:VMC-1:9.0;Drilling:DRL-1:10.5;Grinding:GRD-1:10.9,251.86,SYN-2510-0953,2025-10-27
+Synthetic Customer 05,Spindle 0946,SYN-P-00946,EN8,7.2587,Drilling:DRL-1:9.1,676.71,SYN-2405-0946,2024-05-09
+Synthetic Customer 03,Bush 0276,SYN-P-00276,20MnCr5,4.2196,Turning:CNC-T1:7.7;Milling:VMC-1:4.3,404.21,SYN-2512-0276,2025-12-14
+Synthetic Customer 09,Spindle 0565,SYN-P-00565,40Cr4,2.5971,Milling:VMC-1:1.4,280.63,SYN-2502-0565,2025-02-23
+Synthetic Customer 05,Axle shaft 0569,SYN-P-00569,40Cr4,6.4740,Milling:VMC-1:7.1,604.75,SYN-2401-0569,2024-01-21
+Synthetic Customer 01,Brake pin 0784,SYN-P-00784,EN19,1.4180,Turning:CNC-T1:1.6;Milling:VMC-1:5.6;Drilling:DRL-1:0.7,172.31,SYN-2507-0784,2025-07-07
+Synthetic Customer 02,Bush 1279,SYN-P-01279,EN19,3.6670,Grinding:GRD-1:1.7,358.53,SYN-2511-1279,2025-11-04
+Synthetic Customer 02,Gear blank 0185,SYN-P-00185,EN19,5.3314,Milling:VMC-1:11.2;Drilling:DRL-1:5.7,499.13,SYN-2409-0185,2024-09-04
+Synthetic Customer 03,Gear blank 0598,SYN-P-00598,20MnCr5,5.2911,Drilling:DRL-1:10.2;Grinding:GRD-1:4.9,494.94,SYN-2605-0598,2026-05-01
+Synthetic Customer 07,Yoke 0026,SYN-P-00026,EN8,1.0525,Drilling:DRL-1:8.0,130.04,SYN-2606-0026,2026-06-21
+Synthetic Customer 08,Hub flange 0444,SYN-P-00444,20MnCr5,7.1648,Turning:CNC-T1:4.0;Milling:VMC-1:4.9;Drilling:DRL-1:2.9,653.27,SYN-2502-0444,2025-02-24
+Synthetic Customer 04,Bush 0321,SYN-P-00321,EN8,3.6376,Milling:VMC-1:8.2;Drilling:DRL-1:5.2,349.08,SYN-2512-0321,2025-12-08
+Synthetic Customer 01,Yoke 1140,SYN-P-01140,20MnCr5,5.3174,Turning:CNC-T1:7.2;Milling:VMC-1:8.3;Drilling:DRL-1:5.2,482.76,SYN-2401-1140,2024-01-16
+Synthetic Customer 11,Pinion 1187,SYN-P-01187,40Cr4,5.9074,Grinding:GRD-1:2.5;Turning:CNC-T1:11.2;Milling:VMC-1:9.1,548.76,SYN-2608-1187,2026-08-26
+Synthetic Customer 05,Lift arm 1027,SYN-P-01027,20MnCr5,2.7106,Grinding:GRD-1:3.8;Turning:CNC-T1:8.0;Milling:VMC-1:3.7,255.81,SYN-2609-1027,2026-09-19
+Synthetic Customer 10,Brake pin 0007,SYN-P-00007,EN19,1.2487,Grinding:GRD-1:5.5;Turning:CNC-T1:8.0,155.98,SYN-2604-0007,2026-04-08
+Synthetic Customer 01,Gear blank 0519,SYN-P-00519,40Cr4,7.3737,Grinding:GRD-1:6.7;Turning:CNC-T1:4.2;Milling:VMC-1:8.9,660.79,SYN-2503-0519,2025-03-03
+Synthetic Customer 12,Axle shaft 0174,SYN-P-00174,40Cr4,2.8866,Drilling:DRL-1:6.3,270.03,SYN-2509-0174,2025-09-14
+Synthetic Customer 08,Hub flange 0133,SYN-P-00133,EN19,1.9819,Milling:VMC-1:2.8,194.50,SYN-2406-0133,2024-06-03
+Synthetic Customer 11,Pinion 1326,SYN-P-01326,C45,3.6020,Drilling:DRL-1:10.3;Grinding:GRD-1:1.3;Turning:CNC-T1:4.3,337.77,SYN-2502-1326,2025-02-19
+Synthetic Customer 03,Gear blank 1352,SYN-P-01352,C45,6.4178,Turning:CNC-T1:4.1;Milling:VMC-1:5.9,592.82,SYN-2402-1352,2024-02-01
+Synthetic Customer 07,Yoke 0278,SYN-P-00278,C45,0.5980,Drilling:DRL-1:4.8;Grinding:GRD-1:8.6;Turning:CNC-T1:10.1,76.03,SYN-2511-0278,2025-11-03
+Synthetic Customer 06,Spindle 0280,SYN-P-00280,C45,5.8074,Turning:CNC-T1:0.9;Milling:VMC-1:3.5,549.07,SYN-2503-0280,2025-03-22
+Synthetic Customer 01,Yoke 0657,SYN-P-00657,EN8,6.2313,Milling:VMC-1:4.1,585.09,SYN-2510-0657,2025-10-24
+Synthetic Customer 07,Lift arm 0699,SYN-P-00699,40Cr4,1.8493,Grinding:GRD-1:8.4;Turning:CNC-T1:2.0;Milling:VMC-1:1.3,192.18,SYN-2610-0699,2026-10-14
+Synthetic Customer 01,Hub flange 0372,SYN-P-00372,40Cr4,4.7597,Turning:CNC-T1:4.5;Milling:VMC-1:11.2,455.57,SYN-2506-0372,2025-06-21
+Synthetic Customer 07,Axle shaft 1196,SYN-P-01196,C45,6.2008,Turning:CNC-T1:5.3;Milling:VMC-1:9.8,556.10,SYN-2606-1196,2026-06-06
+Synthetic Customer 09,Brake pin 0061,SYN-P-00061,20MnCr5,1.4730,Milling:VMC-1:1.8,177.74,SYN-2607-0061,2026-07-27
+Synthetic Customer 11,Bush 0426,SYN-P-00426,EN8,6.4375,Drilling:DRL-1:9.3,584.08,SYN-2605-0426,2026-05-16
+Synthetic Customer 09,Pinion 1215,SYN-P-01215,EN19,7.2111,Grinding:GRD-1:2.6,659.32,SYN-2508-1215,2025-08-26
+Synthetic Customer 12,Pinion 1345,SYN-P-01345,40Cr4,3.8357,Milling:VMC-1:2.3,381.88,SYN-2602-1345,2026-02-04
+Synthetic Customer 10,Axle shaft 0435,SYN-P-00435,EN8,3.5787,Grinding:GRD-1:4.6,362.24,SYN-2501-0435,2025-01-15
+Synthetic Customer 06,Pinion 1347,SYN-P-01347,EN19,3.0939,Grinding:GRD-1:0.6,302.35,SYN-2509-1347,2025-09-26
+Synthetic Customer 11,Yoke 0520,SYN-P-00520,40Cr4,4.6287,Turning:CNC-T1:3.3,450.26,SYN-2602-0520,2026-02-28
+Synthetic Customer 04,Coupling 1184,SYN-P-01184,40Cr4,3.5900,Turning:CNC-T1:6.2;Milling:VMC-1:2.0;Drilling:DRL-1:8.4,341.35,SYN-2609-1184,2026-09-03
+Synthetic Customer 10,Spindle 1232,SYN-P-01232,EN8,1.7130,Turning:CNC-T1:3.6;Milling:VMC-1:10.2,170.70,SYN-2411-1232,2024-11-11
+Synthetic Customer 10,Coupling 1002,SYN-P-01002,40Cr4,6.8863,Drilling:DRL-1:5.4,635.03,SYN-2511-1002,2025-11-17
+Synthetic Customer 01,Hub flange 0111,SYN-P-00111,EN19,6.0162,Grinding:GRD-1:2.5;Turning:CNC-T1:10.2;Milling:VMC-1:2.3,568.68,SYN-2401-0111,2024-01-26
+Synthetic Customer 03,Gear blank 0620,SYN-P-00620,EN19,2.7408,Turning:CNC-T1:1.2;Milling:VMC-1:4.9;Drilling:DRL-1:6.7,292.11,SYN-2509-0620,2025-09-11
+Synthetic Customer 08,Axle shaft 0728,SYN-P-00728,EN8,0.7798,Turning:CNC-T1:1.9,96.92,SYN-2607-0728,2026-07-08
+Synthetic Customer 12,Yoke 0769,SYN-P-00769,C45,2.3545,Milling:VMC-1:10.8,259.54,SYN-2502-0769,2025-02-11
+Synthetic Customer 01,Coupling 0316,SYN-P-00316,EN19,1.2254,Turning:CNC-T1:7.7;Milling:VMC-1:1.7,130.24,SYN-2506-0316,2025-06-20
+Synthetic Customer 01,Yoke 0215,SYN-P-00215,EN8,3.2112,Grinding:GRD-1:5.4;Turning:CNC-T1:1.2,323.02,SYN-2410-0215,2024-10-22
+Synthetic Customer 04,Brake pin 0013,SYN-P-00013,20MnCr5,5.5604,Milling:VMC-1:4.1,502.79,SYN-2602-0013,2026-02-26
+Synthetic Customer 01,Pinion 0811,SYN-P-00811,C45,4.3953,Grinding:GRD-1:1.6,400.70,SYN-2502-0811,2025-02-22
+Synthetic Customer 03,Spindle 0913,SYN-P-00913,40Cr4,5.5292,Milling:VMC-1:7.2,512.22,SYN-2401-0913,2024-01-04
+Synthetic Customer 12,Hub flange 0328,SYN-P-00328,40Cr4,4.9223,Turning:CNC-T1:8.6;Milling:VMC-1:5.6;Drilling:DRL-1:4.3,453.42,SYN-2508-0328,2025-08-15
+Synthetic Customer 12,Pinion 1247,SYN-P-01247,EN8,6.0208,Grinding:GRD-1:7.8,546.39,SYN-2501-1247,2025-01-26
+Synthetic Customer 12,Coupling 0736,SYN-P-00736,20MnCr5,6.1737,Turning:CNC-T1:3.0;Milling:VMC-1:7.2,546.64,SYN-2607-0736,2026-07-12
+Synthetic Customer 09,Bush 1365,SYN-P-01365,40Cr4,0.5551,Milling:VMC-1:7.4;Drilling:DRL-1:3.9,96.17,SYN-2505-1365,2026-02-31
+Synthetic Customer 12,Lift arm 1100,SYN-P-01100,20MnCr5,0.4986,Turning:CNC-T1:1.2;Milling:VMC-1:7.6;Drilling:DRL-1:8.3,97.95,SYN-2404-1100,2024-04-28
+Synthetic Customer 08,Pinion 0664,SYN-P-00664,C45,1.1414,Turning:CNC-T1:4.5;Milling:VMC-1:2.6;Drilling:DRL-1:11.0,127.41,SYN-2502-0664,2025-02-23
+Synthetic Customer 09,Hub flange 0286,SYN-P-00286,20MnCr5,0.2392,Drilling:DRL-1:11.1;Grinding:GRD-1:6.1,52.49,SYN-2412-0286,2024-12-05
+Synthetic Customer 05,Gear blank 0493,SYN-P-00493,20MnCr5,1.6807,Milling:VMC-1:5.7,193.66,SYN-2502-0493,2025-02-01
+Synthetic Customer 12,Brake pin 0423,SYN-P-00423,EN8,2.3710,Grinding:GRD-1:5.2,223.52,SYN-2508-0423,2025-08-12
+Synthetic Customer 10,Axle shaft 0962,SYN-P-00962,EN8,3.7386,Drilling:DRL-1:7.9;Grinding:GRD-1:1.1;Turning:CNC-T1:8.1,354.89,SYN-2603-0962,2026-03-09
+Synthetic Customer 01,Brake pin 0780,SYN-P-00780,C45,7.3866,Turning:CNC-T1:3.4,686.12,SYN-2611-0780,2026-11-09
+Synthetic Customer 12,Yoke 0081,SYN-P-00081,20MnCr5,2.5219,Milling:VMC-1:11.5;Drilling:DRL-1:0.8;Grinding:GRD-1:10.7,257.80,SYN-2404-0081,2024-04-06
+Synthetic Customer 06,Lift arm 1315,SYN-P-01315,EN19,2.9738,Grinding:GRD-1:5.2;Turning:CNC-T1:2.5,273.78,SYN-2504-1315,2025-04-23
+Synthetic Customer 02,Gear blank 0430,SYN-P-00430,20MnCr5,1.3768,Drilling:DRL-1:8.2;Grinding:GRD-1:4.9;Turning:CNC-T1:3.1,169.90,SYN-2510-0430,2025-10-10
+Synthetic Customer 10,Pinion 0097,SYN-P-00097,EN8,1.8016,Milling:VMC-1:5.9,183.51,SYN-2612-0097,2026-12-27
+Synthetic Customer 06,Gear blank 0737,SYN-P-00737,EN19,0.3231,Milling:VMC-1:11.1,76.04,SYN-2510-0737,2025-10-24
+Synthetic Customer 04,Bush 1221,SYN-P-01221,EN8,5.7420,Milling:VMC-1:11.5,531.63,SYN-2604-1221,2026-04-15
+Synthetic Customer 08,Hub flange 1066,SYN-P-01066,EN8,1.6419,Drilling:DRL-1:0.8;Grinding:GRD-1:4.8,174.78,SYN-2404-1066,2024-04-20
+Synthetic Customer 02,Brake pin 0050,SYN-P-00050,40Cr4,4.9222,Drilling:DRL-1:6.3;Grinding:GRD-1:9.9,464.64,SYN-2511-0050,2025-11-05
+Synthetic Customer 04,Pinion 0984,SYN-P-00984,40Cr4,6.8767,Turning:CNC-T1:7.0,612.60,SYN-2402-0984,2024-02-10
+Synthetic Customer 02,Spindle 0967,SYN-P-00967,C45,7.2408,Grinding:GRD-1:9.8;Turning:CNC-T1:1.2,640.89,SYN-2411-0967,2024-11-25
+Synthetic Customer 01,Hub flange 0705,SYN-P-00705,C45,5.8481,Milling:VMC-1:10.8;Drilling:DRL-1:7.5,534.54,SYN-2604-0705,2026-04-02
+Synthetic Customer 09,Coupling 0683,SYN-P-00683,20MnCr5,0.9721,Grinding:GRD-1:3.1;Turning:CNC-T1:5.7,125.11,SYN-2405-0683,2024-05-17
+Synthetic Customer 04,Coupling 1075,SYN-P-01075,40Cr4,3.0059,Grinding:GRD-1:1.1,302.20,SYN-2506-1075,2025-06-20
+Synthetic Customer 01,Axle shaft 0681,SYN-P-00681,EN19,4.7679,Milling:VMC-1:10.0;Drilling:DRL-1:7.0;Grinding:GRD-1:8.8,451.40,SYN-2510-0681,2025-10-23
+Synthetic Customer 04,Coupling 0393,SYN-P-00393,40Cr4,6.5718,Milling:VMC-1:8.5,579.88,SYN-2610-0393,2026-10-01
+Synthetic Customer 02,Pinion 1080,SYN-P-01080,EN19,3.8587,Turning:CNC-T1:9.5;Milling:VMC-1:10.4;Drilling:DRL-1:5.6,387.73,SYN-2603-1080,2026-03-06
+Synthetic Customer 11,Coupling 0472,SYN-P-00472,EN8,5.0743,Turning:CNC-T1:2.0;Milling:VMC-1:10.4,478.49,SYN-2409-0472,2024-09-06
+Synthetic Customer 03,Gear blank 1370,SYN-P-01370,EN19,3.1808,Drilling:DRL-1:3.8;Grinding:GRD-1:11.0;Turning:CNC-T1:11.2,302.74,SYN-2606-1370,2026-02-31
+Synthetic Customer 11,Lift arm 0082,SYN-P-00082,C45,1.4835,Drilling:DRL-1:5.2;Grinding:GRD-1:9.9;Turning:CNC-T1:9.8,167.68,SYN-2503-0082,2025-03-01
+Synthetic Customer 12,Gear blank 0711,SYN-P-00711,40Cr4,3.0904,Grinding:GRD-1:2.6,298.47,SYN-2512-0711,2025-12-21
+Synthetic Customer 04,Coupling 0789,SYN-P-00789,C45,6.8648,Milling:VMC-1:6.0;Drilling:DRL-1:9.2;Grinding:GRD-1:8.3,619.70,SYN-2603-0789,2026-03-15
+Synthetic Customer 03,Yoke 0080,SYN-P-00080,EN19,0.8692,Turning:CNC-T1:3.6;Milling:VMC-1:8.1;Drilling:DRL-1:8.0,131.63,SYN-2409-0080,2024-09-24
+Synthetic Customer 02,Yoke 1201,SYN-P-01201,40Cr4,1.0956,Milling:VMC-1:6.7,150.24,SYN-2507-1201,2025-07-19
+Synthetic Customer 01,Yoke 0066,SYN-P-00066,EN8,7.5171,Drilling:DRL-1:0.7,683.15,SYN-2512-0066,2025-12-13
+Synthetic Customer 08,Pinion 0462,SYN-P-00462,EN19,1.0322,Drilling:DRL-1:2.9;Grinding:GRD-1:8.0,139.87,SYN-2412-0462,2024-12-05
+Synthetic Customer 06,Brake pin 0532,SYN-P-00532,40Cr4,2.4446,Turning:CNC-T1:4.7,233.46,SYN-2404-0532,2024-04-26
+Synthetic Customer 03,Coupling 0149,SYN-P-00149,20MnCr5,0.8526,Milling:VMC-1:3.8;Drilling:DRL-1:3.6,103.90,SYN-2412-0149,2024-12-14
+Synthetic Customer 05,Yoke 1156,SYN-P-01156,EN19,1.9849,Turning:CNC-T1:6.5;Milling:VMC-1:7.4,212.28,SYN-2406-1156,2024-06-01
+Synthetic Customer 06,Hub flange 0875,SYN-P-00875,40Cr4,7.1810,Grinding:GRD-1:2.1;Turning:CNC-T1:4.0;Milling:VMC-1:5.4,666.12,SYN-2506-0875,2025-06-14
+Synthetic Customer 02,Coupling 0120,SYN-P-00120,EN19,6.5544,Turning:CNC-T1:11.0;Milling:VMC-1:10.6;Drilling:DRL-1:2.0,595.17,SYN-2409-0120,2024-09-19
+Synthetic Customer 02,Spindle 1018,SYN-P-01018,EN19,0.9315,Drilling:DRL-1:9.2;Grinding:GRD-1:6.3,129.91,SYN-2501-1018,2025-01-17
+Synthetic Customer 01,Pinion 0283,SYN-P-00283,20MnCr5,0.5463,Grinding:GRD-1:3.4;Turning:CNC-T1:6.6,83.84,SYN-2502-0283,2025-02-20
+Synthetic Customer 11,Lift arm 0936,SYN-P-00936,40Cr4,1.0419,Turning:CNC-T1:10.8;Milling:VMC-1:7.2,124.48,SYN-2512-0936,2025-12-02
+Synthetic Customer 04,Spindle 0704,SYN-P-00704,C45,1.8711,Turning:CNC-T1:8.6,218.49,SYN-2504-0704,2025-04-04
+Synthetic Customer 07,Pinion 0829,SYN-P-00829,EN8,7.7767,Milling:VMC-1:3.2;Drilling:DRL-1:6.9,710.72,SYN-2502-0829,2025-02-03
+Synthetic Customer 03,Coupling 0555,SYN-P-00555,20MnCr5,4.9054,Grinding:GRD-1:0.5;Turning:CNC-T1:8.5;Milling:VMC-1:5.7,452.21,SYN-2504-0555,2025-04-19
+Synthetic Customer 02,Hub flange 0458,SYN-P-00458,EN8,5.2113,Drilling:DRL-1:1.1,496.57,SYN-2506-0458,2025-06-20
+Synthetic Customer 10,Brake pin 0498,SYN-P-00498,C45,6.3960,Drilling:DRL-1:9.1;Grinding:GRD-1:7.8,576.42,SYN-2507-0498,2025-07-28
+Synthetic Customer 11,Spindle 0845,SYN-P-00845,20MnCr5,5.7971,Milling:VMC-1:3.2,525.25,SYN-2405-0845,2024-05-26
+Synthetic Customer 03,Brake pin 0853,SYN-P-00853,EN8,6.0553,Milling:VMC-1:6.1;Drilling:DRL-1:9.4;Grinding:GRD-1:5.2,543.50,SYN-2409-0853,2024-09-26
+Synthetic Customer 02,Yoke 1168,SYN-P-01168,EN19,1.3488,Turning:CNC-T1:11.2,158.63,SYN-2611-1168,2026-11-13
+Synthetic Customer 11,Lift arm 1113,SYN-P-01113,40Cr4,3.2688,Milling:VMC-1:0.7;Drilling:DRL-1:5.7;Grinding:GRD-1:4.6,333.70,SYN-2603-1113,2026-03-28
+Synthetic Customer 04,Axle shaft 0500,SYN-P-00500,20MnCr5,6.5191,Turning:CNC-T1:0.5;Milling:VMC-1:4.6,607.27,SYN-2603-0500,2026-03-25
+Synthetic Customer 10,Lift arm 0858,SYN-P-00858,40Cr4,0.3259,Drilling:DRL-1:10.9,55.56,SYN-2606-0858,2026-06-20
+Synthetic Customer 02,Pinion 1203,SYN-P-01203,EN8,7.1565,Grinding:GRD-1:5.4,643.29,SYN-2405-1203,2024-05-04
+Synthetic Customer 05,Pinion 1275,SYN-P-01275,EN8,5.7011,Grinding:GRD-1:2.3;Turning:CNC-T1:10.7,522.77,SYN-2505-1275,2025-05-04
+Synthetic Customer 12,Brake pin 0365,SYN-P-00365,EN19,1.4789,Milling:VMC-1:4.0;Drilling:DRL-1:11.0;Grinding:GRD-1:6.0,162.74,SYN-2511-0365,2025-11-09
+Synthetic Customer 07,Lift arm 0335,SYN-P-00335,C45,4.4340,Grinding:GRD-1:6.2,399.78,SYN-2604-0335,2026-04-15
+Synthetic Customer 01,Hub flange 0655,SYN-P-00655,40Cr4,1.7894,Grinding:GRD-1:5.9;Turning:CNC-T1:9.7,187.64,SYN-2403-0655,2024-03-20
+Synthetic Customer 09,Axle shaft 0504,SYN-P-00504,EN19,7.4690,Turning:CNC-T1:6.3,675.70,SYN-2505-0504,2025-05-06
+Synthetic Customer 05,Brake pin 0389,SYN-P-00389,EN19,5.7924,Milling:VMC-1:7.5;Drilling:DRL-1:7.7,552.14,SYN-2504-0389,2025-04-21
+Synthetic Customer 04,Lift arm 0247,SYN-P-00247,EN8,0.7229,Grinding:GRD-1:2.8;Turning:CNC-T1:0.9,81.89,SYN-2402-0247,2024-02-22
+Synthetic Customer 02,Axle shaft 0587,SYN-P-00587,C45,1.4032,Grinding:GRD-1:9.4;Turning:CNC-T1:3.4,164.88,SYN-2608-0587,2026-08-20
+Synthetic Customer 05,Spindle 1244,SYN-P-01244,C45,1.7270,Turning:CNC-T1:6.2;Milling:VMC-1:8.7,172.93,SYN-2412-1244,2024-12-27
+Synthetic Customer 06,Brake pin 0932,SYN-P-00932,20MnCr5,0.6540,Turning:CNC-T1:11.5;Milling:VMC-1:9.3,79.02,SYN-2405-0932,2024-05-12
+Synthetic Customer 09,Brake pin 1258,SYN-P-01258,20MnCr5,3.6031,Drilling:DRL-1:9.2,355.27,SYN-2403-1258,2024-03-26
+Synthetic Customer 09,Spindle 0023,SYN-P-00023,EN8,1.9270,Grinding:GRD-1:6.4;Turning:CNC-T1:8.3,190.05,SYN-2510-0023,2025-10-15
+Synthetic Customer 04,Yoke 0118,SYN-P-00118,EN8,5.6605,Drilling:DRL-1:6.7;Grinding:GRD-1:3.9,507.94,SYN-2607-0118,2026-07-20
+Synthetic Customer 07,Bush 1044,SYN-P-01044,40Cr4,5.7782,Turning:CNC-T1:8.2;Milling:VMC-1:5.5;Drilling:DRL-1:7.3,531.34,SYN-2407-1044,2024-07-05
+Synthetic Customer 03,Hub flange 0538,SYN-P-00538,EN19,2.4983,Drilling:DRL-1:0.6;Grinding:GRD-1:8.3,256.82,SYN-2603-0538,2026-03-21
+Synthetic Customer 01,Yoke 0234,SYN-P-00234,EN19,4.6879,Drilling:DRL-1:8.3,454.56,SYN-2408-0234,2024-08-10
+Synthetic Customer 05,Lift arm 1251,SYN-P-01251,EN19,2.4186,Grinding:GRD-1:5.7;Turning:CNC-T1:10.8,234.56,SYN-2603-1251,2026-03-11
+Synthetic Customer 12,Bush 1006,SYN-P-01006,EN19,6.9025,Drilling:DRL-1:6.4;Grinding:GRD-1:8.8;Turning:CNC-T1:4.2,610.46,SYN-2409-1006,2024-09-17
+Synthetic Customer 06,Spindle 0071,SYN-P-00071,20MnCr5,5.7860,Grinding:GRD-1:9.7;Turning:CNC-T1:2.5,519.37,SYN-2512-0071,2025-12-02
+Synthetic Customer 05,Pinion 0134,SYN-P-00134,40Cr4,7.9488,Drilling:DRL-1:8.9;Grinding:GRD-1:9.8;Turning:CNC-T1:6.6,726.73,SYN-2612-0134,2026-12-27
+Synthetic Customer 01,Pinion 0049,SYN-P-00049,40Cr4,1.3537,Milling:VMC-1:2.7;Drilling:DRL-1:5.6;Grinding:GRD-1:4.9,161.26,SYN-2403-0049,2024-03-15
+Synthetic Customer 11,Brake pin 0422,SYN-P-00422,40Cr4,2.7203,Drilling:DRL-1:3.9;Grinding:GRD-1:4.8;Turning:CNC-T1:9.7,272.21,SYN-2402-0422,2024-02-09
+Synthetic Customer 07,Lift arm 0482,SYN-P-00482,C45,0.7193,Drilling:DRL-1:8.7;Grinding:GRD-1:2.8;Turning:CNC-T1:8.9,107.75,SYN-2603-0482,2026-03-11
+Synthetic Customer 11,Yoke 0155,SYN-P-00155,EN19,3.0004,Grinding:GRD-1:8.4;Turning:CNC-T1:6.9;Milling:VMC-1:9.7,292.15,SYN-2403-0155,2024-03-08
+Synthetic Customer 08,Spindle 0414,SYN-P-00414,20MnCr5,5.7548,Drilling:DRL-1:9.3,531.01,SYN-2407-0414,2024-07-19
+Synthetic Customer 01,Hub flange 0815,SYN-P-00815,20MnCr5,2.3065,Grinding:GRD-1:3.1,255.17,SYN-2602-0815,2026-02-27
+Synthetic Customer 04,Pinion 0563,SYN-P-00563,EN19,0.8934,Grinding:GRD-1:10.3;Turning:CNC-T1:5.2;Milling:VMC-1:4.1,109.63,SYN-2411-0563,2024-11-24
+Synthetic Customer 05,Hub flange 0421,SYN-P-00421,40Cr4,0.3032,Milling:VMC-1:5.8;Drilling:DRL-1:4.9;Grinding:GRD-1:7.8,58.68,SYN-2505-0421,2025-05-05
+Synthetic Customer 09,Bush 0369,SYN-P-00369,20MnCr5,6.0550,Milling:VMC-1:4.4;Drilling:DRL-1:3.4;Grinding:GRD-1:7.2,540.44,SYN-2609-0369,2026-09-13
+Synthetic Customer 03,Pinion 0648,SYN-P-00648,EN19,4.3635,Turning:CNC-T1:2.5;Milling:VMC-1:5.7,426.48,SYN-2605-0648,2026-05-14
+Synthetic Customer 07,Pinion 1262,SYN-P-01262,EN19,2.0829,Drilling:DRL-1:5.4;Grinding:GRD-1:2.6,200.45,SYN-2501-1262,2025-01-14
+Synthetic Customer 06,Gear blank 1040,SYN-P-01040,C45,4.8647,Turning:CNC-T1:11.4;Milling:VMC-1:9.6,447.27,SYN-2506-1040,2025-06-24
+Synthetic Customer 12,Axle shaft 0672,SYN-P-00672,C45,1.3444,Turning:CNC-T1:9.2;Milling:VMC-1:6.9,135.67,SYN-2607-0672,2026-07-17
+Synthetic Customer 01,Spindle 1070,SYN-P-01070,40Cr4,5.4305,Drilling:DRL-1:2.6;Grinding:GRD-1:11.3,506.86,SYN-2602-1070,2026-02-26
+Synthetic Customer 11,Spindle 0084,SYN-P-00084,40Cr4,7.0666,Turning:CNC-T1:10.2,650.62,SYN-2606-0084,2026-06-17
+Synthetic Customer 02,Lift arm 0408,SYN-P-00408,20MnCr5,2.4875,Turning:CNC-T1:5.3;Milling:VMC-1:4.5;Drilling:DRL-1:4.5,247.17,SYN-2607-0408,2026-07-28
+Synthetic Customer 05,Hub flange 1291,SYN-P-01291,40Cr4,6.6479,Grinding:GRD-1:1.6;Turning:CNC-T1:2.8;Milling:VMC-1:7.8,594.28,SYN-2609-1291,2026-09-12
+Synthetic Customer 03,Axle shaft 0078,SYN-P-00078,C45,2.1981,Drilling:DRL-1:9.8;Grinding:GRD-1:1.2,233.69,SYN-2501-0078,2025-01-12
+Synthetic Customer 04,Lift arm 0713,SYN-P-00713,EN8,7.0191,Milling:VMC-1:6.2;Drilling:DRL-1:0.9;Grinding:GRD-1:9.7,630.55,SYN-2504-0713,2025-04-03
+Synthetic Customer 02,Spindle 0914,SYN-P-00914,20MnCr5,0.7503,Drilling:DRL-1:0.7;Grinding:GRD-1:3.4;Turning:CNC-T1:7.9,105.89,SYN-2412-0914,2024-12-20
+Synthetic Customer 11,Hub flange 1001,SYN-P-01001,40Cr4,2.9755,Milling:VMC-1:6.8;Drilling:DRL-1:6.0;Grinding:GRD-1:6.7,293.99,SYN-2506-1001,2025-06-18
+Synthetic Customer 03,Coupling 0734,SYN-P-00734,40Cr4,6.0383,Drilling:DRL-1:3.5;Grinding:GRD-1:2.3;Turning:CNC-T1:2.2,552.88,SYN-2602-0734,2026-02-23
+Synthetic Customer 02,Bush 1216,SYN-P-01216,EN8,6.7521,Turning:CNC-T1:3.1;Milling:VMC-1:3.6;Drilling:DRL-1:3.2,627.53,SYN-2409-1216,2024-09-26
+Synthetic Customer 12,Yoke 0813,SYN-P-00813,C45,4.9428,Milling:VMC-1:5.7;Drilling:DRL-1:6.3;Grinding:GRD-1:1.9,466.22,SYN-2508-0813,2025-08-23
+Synthetic Customer 10,Spindle 1319,SYN-P-01319,EN8,0.6817,Grinding:GRD-1:4.2;Turning:CNC-T1:1.1;Milling:VMC-1:10.0,109.82,SYN-2605-1319,2026-05-01
+Synthetic Customer 11,Gear blank 1094,SYN-P-01094,C45,1.1602,Drilling:DRL-1:8.2,131.36,SYN-2505-1094,2025-05-18
+Synthetic Customer 02,Lift arm 0535,SYN-P-00535,C45,2.5402,Grinding:GRD-1:9.5;Turning:CNC-T1:3.0,273.78,SYN-2512-0535,2025-12-04
+Synthetic Customer 08,Axle shaft 0887,SYN-P-00887,EN19,6.2246,Grinding:GRD-1:2.3;Turning:CNC-T1:6.1,564.74,SYN-2404-0887,2024-04-02
+Synthetic Customer 06,Axle shaft 0112,SYN-P-00112,C45,0.4502,Turning:CNC-T1:1.7;Milling:VMC-1:8.6;Drilling:DRL-1:10.1,67.19,SYN-2501-0112,2025-01-25
+Synthetic Customer 12,Bush 1295,SYN-P-01295,40Cr4,3.6227,Grinding:GRD-1:10.3;Turning:CNC-T1:2.2,356.90,SYN-2407-1295,2024-07-23
+Synthetic Customer 07,Spindle 0334,SYN-P-00334,EN19,2.1190,Drilling:DRL-1:7.8;Grinding:GRD-1:8.8;Turning:CNC-T1:11.2,231.24,SYN-2603-0334,2026-03-18
+Synthetic Customer 02,Gear blank 0744,SYN-P-00744,EN19,4.1473,Turning:CNC-T1:7.5;Milling:VMC-1:5.2;Drilling:DRL-1:5.2,408.84,SYN-2402-0744,2024-02-07
+Synthetic Customer 10,Coupling 1022,SYN-P-01022,20MnCr5,3.7892,Drilling:DRL-1:7.7;Grinding:GRD-1:2.4;Turning:CNC-T1:10.3,380.32,SYN-2507-1022,2025-07-28
+Synthetic Customer 06,Brake pin 0067,SYN-P-00067,40Cr4,4.9380,Grinding:GRD-1:0.8;Turning:CNC-T1:1.0,446.09,SYN-2403-0067,2024-03-26
+Synthetic Customer 03,Lift arm 0805,SYN-P-00805,C45,1.9146,Milling:VMC-1:3.4;Drilling:DRL-1:11.1,216.21,SYN-2604-0805,2026-04-11
+Synthetic Customer 03,Lift arm 0045,SYN-P-00045,C45,6.1239,Milling:VMC-1:4.4;Drilling:DRL-1:8.5;Grinding:GRD-1:6.5,565.56,SYN-2504-0045,2025-04-10
+Synthetic Customer 06,Bush 1335,SYN-P-01335,20MnCr5,1.2329,Grinding:GRD-1:5.9,164.50,SYN-2502-1335,2025-02-24
+Synthetic Customer 09,Spindle 0808,SYN-P-00808,40Cr4,0.6847,Turning:CNC-T1:10.3;Milling:VMC-1:8.2,79.71,SYN-2604-0808,2026-04-23
+Synthetic Customer 04,Coupling 0947,SYN-P-00947,40Cr4,2.1643,Grinding:GRD-1:8.2,216.43,SYN-2503-0947,2025-03-22
+Synthetic Customer 02,Gear blank 0690,SYN-P-00690,EN19,0.9893,Drilling:DRL-1:11.0;Grinding:GRD-1:6.0,139.71,SYN-2601-0690,2026-01-25
+Synthetic Customer 04,Lift arm 1005,SYN-P-01005,C45,7.0196,Milling:VMC-1:9.6,628.85,SYN-2506-1005,2025-06-06
+Synthetic Customer 11,Spindle 1021,SYN-P-01021,EN8,5.7791,Milling:VMC-1:7.3;Drilling:DRL-1:10.3;Grinding:GRD-1:10.9,536.49,SYN-2403-1021,2024-03-13
+Synthetic Customer 10,Axle shaft 0090,SYN-P-00090,40Cr4,3.1970,Drilling:DRL-1:10.2;Grinding:GRD-1:1.0,292.13,SYN-2509-0090,2025-09-18
+Synthetic Customer 06,Axle shaft 0347,SYN-P-00347,C45,6.8036,Grinding:GRD-1:4.3;Turning:CNC-T1:7.5;Milling:VMC-1:4.7,605.31,SYN-2407-0347,2024-07-15
+Synthetic Customer 11,Axle shaft 0554,SYN-P-00554,EN19,6.4237,Drilling:DRL-1:4.7,581.56,SYN-2406-0554,2024-06-23
+Synthetic Customer 08,Spindle 0349,SYN-P-00349,EN19,7.3714,Milling:VMC-1:8.4,668.51,SYN-2502-0349,2025-02-02
+Synthetic Customer 09,Gear blank 0039,SYN-P-00039,40Cr4,4.5901,Grinding:GRD-1:10.3;Turning:CNC-T1:4.1;Milling:VMC-1:2.8,422.38,SYN-2601-0039,2026-01-10
+Synthetic Customer 07,Brake pin 0571,SYN-P-00571,20MnCr5,3.1121,Grinding:GRD-1:11.2;Turning:CNC-T1:1.5,318.65,SYN-2611-0571,2026-11-13
+Synthetic Customer 12,Yoke 0392,SYN-P-00392,40Cr4,2.8768,Turning:CNC-T1:4.0,293.70,SYN-2412-0392,2024-12-17
+Synthetic Customer 04,Yoke 1153,SYN-P-01153,EN19,6.6006,Milling:VMC-1:5.7;Drilling:DRL-1:3.7;Grinding:GRD-1:5.3,619.62,SYN-2611-1153,2026-11-17
+Synthetic Customer 01,Lift arm 0396,SYN-P-00396,EN8,6.1523,Turning:CNC-T1:0.6;Milling:VMC-1:7.6;Drilling:DRL-1:5.2,568.54,SYN-2501-0396,2025-01-06
+Synthetic Customer 08,Axle shaft 0935,SYN-P-00935,40Cr4,2.5455,Grinding:GRD-1:5.8;Turning:CNC-T1:5.0,254.76,SYN-2507-0935,2025-07-21
+Synthetic Customer 05,Gear blank 1112,SYN-P-01112,40Cr4,2.4093,Turning:CNC-T1:10.6;Milling:VMC-1:8.4;Drilling:DRL-1:5.6,236.81,SYN-2605-1112,2026-05-22
+Synthetic Customer 08,Brake pin 0417,SYN-P-00417,EN8,6.6616,Milling:VMC-1:8.7;Drilling:DRL-1:9.0;Grinding:GRD-1:8.8,623.65,SYN-2512-0417,2025-12-15
+Synthetic Customer 04,Brake pin 0979,SYN-P-00979,EN8,1.1396,Grinding:GRD-1:1.8,152.62,SYN-2409-0979,2024-09-11
+Synthetic Customer 11,Pinion 1093,SYN-P-01093,40Cr4,2.2373,Milling:VMC-1:4.1,239.47,SYN-2603-1093,2026-03-27
+Synthetic Customer 01,Gear blank 1013,SYN-P-01013,40Cr4,2.3111,Milling:VMC-1:9.8,236.33,SYN-2612-1013,2026-12-25
+Synthetic Customer 09,Brake pin 0606,SYN-P-00606,20MnCr5,0.3274,Drilling:DRL-1:5.3;Grinding:GRD-1:10.7;Turning:CNC-T1:10.1,49.10,SYN-2505-0606,2025-05-22
+Synthetic Customer 07,Coupling 0944,SYN-P-00944,EN19,3.2583,Turning:CNC-T1:9.8,325.03,SYN-2408-0944,2024-08-20
+Synthetic Customer 07,Yoke 1280,SYN-P-01280,C45,3.6739,Turning:CNC-T1:8.0,334.34,SYN-2403-1280,2024-03-21
+Synthetic Customer 05,Axle shaft 0706,SYN-P-00706,EN8,1.5468,Drilling:DRL-1:2.1;Grinding:GRD-1:11.1,175.27,SYN-2401-0706,2024-01-01
+Synthetic Customer 10,Lift arm 0934,SYN-P-00934,C45,3.0206,Drilling:DRL-1:2.5;Grinding:GRD-1:4.7;Turning:CNC-T1:9.8,311.84,SYN-2502-0934,2025-02-09
+Synthetic Customer 03,Axle shaft 0547,SYN-P-00547,40Cr4,5.4378,Grinding:GRD-1:9.2;Turning:CNC-T1:3.4,486.95,SYN-2408-0547,2024-08-04
+Synthetic Customer 05,Spindle 0645,SYN-P-00645,40Cr4,6.1849,Milling:VMC-1:2.8;Drilling:DRL-1:2.1;Grinding:GRD-1:10.2,553.96,SYN-2507-0645,2025-07-16
+Synthetic Customer 02,Coupling 1297,SYN-P-01297,20MnCr5,2.8442,Milling:VMC-1:3.5,274.20,SYN-2604-1297,2026-04-11
+Synthetic Customer 05,Coupling 0200,SYN-P-00200,EN19,6.8855,Turning:CNC-T1:1.1;Milling:VMC-1:4.6,619.92,SYN-2401-0200,2024-01-11
+Synthetic Customer 05,Bush 1148,SYN-P-01148,C45,1.2247,Turning:CNC-T1:6.6;Milling:VMC-1:9.9;Drilling:DRL-1:9.5,135.01,SYN-2403-1148,2024-03-02
+Synthetic Customer 11,Hub flange 0104,SYN-P-00104,20MnCr5,6.3441,Turning:CNC-T1:4.9;Milling:VMC-1:1.9,595.95,SYN-2506-0104,2025-06-17
+Synthetic Customer 09,Bush 0684,SYN-P-00684,20MnCr5,5.0809,Turning:CNC-T1:8.9;Milling:VMC-1:7.6,477.54,SYN-2401-0684,2024-01-04
+Synthetic Customer 12,Pinion 0647,SYN-P-00647,40Cr4,0.9866,Grinding:GRD-1:4.9,140.85,SYN-2407-0647,2024-07-19
+Synthetic Customer 07,Spindle 1264,SYN-P-01264,EN8,5.4097,Turning:CNC-T1:5.3,499.10,SYN-2511-1264,2025-11-09
+Synthetic Customer 08,Pinion 0312,SYN-P-00312,40Cr4,4.3568,Turning:CNC-T1:11.0;Milling:VMC-1:6.8;Drilling:DRL-1:2.5,392.31,SYN-2409-0312,2024-09-07
+Synthetic Customer 07,Lift arm 0619,SYN-P-00619,40Cr4,4.7163,Grinding:GRD-1:4.3;Turning:CNC-T1:4.3,433.08,SYN-2406-0619,2024-06-19
+Synthetic Customer 05,Coupling 0028,SYN-P-00028,40Cr4,4.6110,Turning:CNC-T1:3.6;Milling:VMC-1:8.6,414.16,SYN-2507-0028,2025-07-17
+Synthetic Customer 05,Bush 0589,SYN-P-00589,EN8,2.2794,Milling:VMC-1:4.8;Drilling:DRL-1:1.1;Grinding:GRD-1:7.6,234.94,SYN-2407-0589,2024-07-21
+Synthetic Customer 11,Pinion 1254,SYN-P-01254,20MnCr5,2.0530,Drilling:DRL-1:6.3;Grinding:GRD-1:5.4;Turning:CNC-T1:6.5,223.92,SYN-2504-1254,2025-04-02
+Synthetic Customer 02,Coupling 0232,SYN-P-00232,40Cr4,2.7411,Turning:CNC-T1:3.4;Milling:VMC-1:7.4;Drilling:DRL-1:4.9,266.82,SYN-2504-0232,2025-04-20
+Synthetic Customer 04,Pinion 0928,SYN-P-00928,40Cr4,0.2859,Turning:CNC-T1:9.4,72.07,SYN-2511-0928,2025-11-08
+Synthetic Customer 06,Bush 0714,SYN-P-00714,EN19,7.2542,Drilling:DRL-1:2.9;Grinding:GRD-1:8.3,637.31,SYN-2501-0714,2025-01-06
+Synthetic Customer 04,Coupling 1058,SYN-P-01058,20MnCr5,4.7894,Drilling:DRL-1:9.3;Grinding:GRD-1:7.8,430.09,SYN-2501-1058,2025-01-05
+Synthetic Customer 08,Spindle 0613,SYN-P-00613,C45,5.0664,Milling:VMC-1:3.1;Drilling:DRL-1:8.2;Grinding:GRD-1:5.4,480.83,SYN-2606-0613,2026-06-15
+Synthetic Customer 02,Brake pin 1107,SYN-P-01107,EN8,1.1425,Grinding:GRD-1:2.8,142.37,SYN-2407-1107,2024-07-04
+Synthetic Customer 05,Hub flange 0536,SYN-P-00536,C45,3.6152,Turning:CNC-T1:1.9,327.51,SYN-2401-0536,2024-01-01
+Synthetic Customer 04,Axle shaft 1235,SYN-P-01235,20MnCr5,6.7013,Grinding:GRD-1:2.4;Turning:CNC-T1:5.4;Milling:VMC-1:10.8,618.72,SYN-2503-1235,2025-03-14
+Synthetic Customer 10,Brake pin 0637,SYN-P-00637,20MnCr5,7.7167,Milling:VMC-1:10.4;Drilling:DRL-1:6.4;Grinding:GRD-1:10.7,700.42,SYN-2508-0637,2025-08-01
+Synthetic Customer 01,Hub flange 0199,SYN-P-00199,C45,0.6757,Grinding:GRD-1:4.3;Turning:CNC-T1:8.3,106.33,SYN-2511-0199,2025-11-11
+Synthetic Customer 09,Lift arm 0330,SYN-P-00330,EN8,6.7396,Drilling:DRL-1:3.2;Grinding:GRD-1:6.9,609.13,SYN-2412-0330,2024-12-06
+Synthetic Customer 04,Bush 0573,SYN-P-00573,40Cr4,4.6393,Milling:VMC-1:10.8;Drilling:DRL-1:7.9,422.50,SYN-2505-0573,2025-05-14
+Synthetic Customer 03,Gear blank 1161,SYN-P-01161,20MnCr5,4.0913,Milling:VMC-1:3.1,376.20,SYN-2504-1161,2025-04-19
+Synthetic Customer 08,Gear blank 0688,SYN-P-00688,20MnCr5,6.8529,Turning:CNC-T1:3.4;Milling:VMC-1:8.6,605.02,SYN-2502-0688,2025-02-14
+Synthetic Customer 11,Brake pin 0363,SYN-P-00363,40Cr4,3.4142,Grinding:GRD-1:3.9,313.08,SYN-2606-0363,2026-06-24
+Synthetic Customer 03,Axle shaft 0398,SYN-P-00398,C45,0.6070,Drilling:DRL-1:8.0,102.38,SYN-2503-0398,2025-03-01
+Synthetic Customer 01,Pinion 1240,SYN-P-01240,20MnCr5,4.5978,Turning:CNC-T1:3.8;Milling:VMC-1:8.4,418.05,SYN-2411-1240,2024-11-24
+Synthetic Customer 03,Coupling 0236,SYN-P-00236,20MnCr5,5.7479,Turning:CNC-T1:3.5;Milling:VMC-1:10.8;Drilling:DRL-1:1.1,516.02,SYN-2512-0236,2025-12-17
+Synthetic Customer 10,Yoke 1163,SYN-P-01163,EN8,2.5916,Grinding:GRD-1:4.1;Turning:CNC-T1:10.2;Milling:VMC-1:5.7,268.88,SYN-2505-1163,2025-05-18
+Synthetic Customer 09,Axle shaft 0908,SYN-P-00908,C45,7.1687,Turning:CNC-T1:5.9;Milling:VMC-1:7.8;Drilling:DRL-1:2.8,643.09,SYN-2601-0908,2026-01-21
+Synthetic Customer 04,Pinion 0948,SYN-P-00948,20MnCr5,1.1656,Turning:CNC-T1:6.4,122.66,SYN-2408-0948,2024-08-07
+Synthetic Customer 05,Yoke 1109,SYN-P-01109,C45,4.7177,Milling:VMC-1:1.7;Drilling:DRL-1:7.2;Grinding:GRD-1:2.2,450.09,SYN-2608-1109,2026-08-27
+Synthetic Customer 09,Coupling 0187,SYN-P-00187,EN19,7.3789,Grinding:GRD-1:8.1;Turning:CNC-T1:10.6;Milling:VMC-1:5.9,655.26,SYN-2512-0187,2025-12-19
+Synthetic Customer 11,Pinion 0611,SYN-P-00611,20MnCr5,7.5270,Grinding:GRD-1:8.5;Turning:CNC-T1:3.5;Milling:VMC-1:8.5,667.87,SYN-2405-0611,2024-05-14
+Synthetic Customer 10,Lift arm 0836,SYN-P-00836,EN8,1.1831,Turning:CNC-T1:1.0;Milling:VMC-1:5.2,145.45,SYN-2505-0836,2025-05-21
+Synthetic Customer 02,Yoke 1306,SYN-P-01306,EN8,0.3357,Drilling:DRL-1:7.4;Grinding:GRD-1:1.9,53.74,SYN-2505-1306,2025-05-18
+Synthetic Customer 02,Yoke 0431,SYN-P-00431,20MnCr5,6.4502,Grinding:GRD-1:9.4;Turning:CNC-T1:5.5,582.58,SYN-2601-0431,2026-01-18
+Synthetic Customer 10,Gear blank 0342,SYN-P-00342,20MnCr5,0.2824,Drilling:DRL-1:1.5;Grinding:GRD-1:8.7;Turning:CNC-T1:6.4,74.82,SYN-2404-0342,2024-04-06
+Synthetic Customer 10,Bush 0274,SYN-P-00274,40Cr4,2.3732,Drilling:DRL-1:11.1;Grinding:GRD-1:4.1,228.38,SYN-2405-0274,2024-05-03
+Synthetic Customer 01,Spindle 0689,SYN-P-00689,EN19,5.3480,Milling:VMC-1:2.7,508.05,SYN-2501-0689,2025-01-25
+Synthetic Customer 10,Spindle 0140,SYN-P-00140,EN8,2.4425,Turning:CNC-T1:1.6;Milling:VMC-1:9.4,242.37,SYN-2402-0140,2024-02-21
+Synthetic Customer 11,Axle shaft 0919,SYN-P-00919,C45,5.8286,Grinding:GRD-1:1.4;Turning:CNC-T1:5.3,530.72,SYN-2606-0919,2026-06-01
+Synthetic Customer 12,Pinion 0064,SYN-P-00064,40Cr4,6.9520,Turning:CNC-T1:2.7;Milling:VMC-1:10.6,612.32,SYN-2607-0064,2026-07-08
+Synthetic Customer 09,Hub flange 1217,SYN-P-01217,EN19,0.5192,Milling:VMC-1:6.0;Drilling:DRL-1:0.6,70.94,SYN-2602-1217,2026-02-20
+Synthetic Customer 01,Gear blank 1293,SYN-P-01293,C45,6.4159,Milling:VMC-1:7.4;Drilling:DRL-1:1.9;Grinding:GRD-1:7.3,576.64,SYN-2606-1293,2026-06-15
+Synthetic Customer 08,Gear blank 0159,SYN-P-00159,40Cr4,5.5715,Grinding:GRD-1:1.5;Turning:CNC-T1:7.3,504.75,SYN-2502-0159,2025-02-21
+Synthetic Customer 12,Axle shaft 1166,SYN-P-01166,20MnCr5,0.5564,Drilling:DRL-1:1.1;Grinding:GRD-1:1.4;Turning:CNC-T1:2.6,99.82,SYN-2507-1166,2025-07-10
+Synthetic Customer 12,Pinion 0057,SYN-P-00057,20MnCr5,3.7634,Milling:VMC-1:5.2;Drilling:DRL-1:5.0,367.56,SYN-2604-0057,2026-04-21
+Synthetic Customer 09,Brake pin 0008,SYN-P-00008,EN19,4.0794,Turning:CNC-T1:9.7,397.00,SYN-2606-0008,2026-06-20
+Synthetic Customer 06,Coupling 1147,SYN-P-01147,C45,3.8339,Grinding:GRD-1:2.0;Turning:CNC-T1:4.7,346.55,SYN-2511-1147,2025-11-08
+Synthetic Customer 12,Axle shaft 0034,SYN-P-00034,EN8,1.7081,Drilling:DRL-1:1.1;Grinding:GRD-1:3.1;Turning:CNC-T1:3.9,185.82,SYN-2404-0034,2024-04-19
+Synthetic Customer 12,Brake pin 0710,SYN-P-00710,40Cr4,3.6707,Drilling:DRL-1:8.0;Grinding:GRD-1:4.3,360.93,SYN-2501-0710,2025-01-03
+Synthetic Customer 11,Axle shaft 0862,SYN-P-00862,EN8,2.0313,Drilling:DRL-1:8.0;Grinding:GRD-1:9.3;Turning:CNC-T1:2.7,213.10,SYN-2501-0862,2025-01-01
+,Axle shaft 1371,SYN-P-01371,C45,3.6597,Grinding:GRD-1:3.5;Turning:CNC-T1:11.2;Milling:VMC-1:6.9,360.53,SYN-2408-1371,2024-08-02
+Synthetic Customer 03,Brake pin 1277,SYN-P-01277,20MnCr5,4.1870,Milling:VMC-1:0.9;Drilling:DRL-1:7.0,401.35,SYN-2502-1277,2025-02-24
+Synthetic Customer 04,Yoke 0041,SYN-P-00041,C45,3.6028,Milling:VMC-1:10.8;Drilling:DRL-1:11.0;Grinding:GRD-1:6.3,359.24,SYN-2612-0041,2026-12-27
+Synthetic Customer 05,Axle shaft 0825,SYN-P-00825,EN8,6.0025,Milling:VMC-1:5.7,566.67,SYN-2608-0825,2026-08-09
+Synthetic Customer 12,Spindle 0068,SYN-P-00068,EN19,4.4484,Turning:CNC-T1:6.8;Milling:VMC-1:10.5;Drilling:DRL-1:7.4,408.82,SYN-2605-0068,2026-05-02
+Synthetic Customer 07,Axle shaft 0804,SYN-P-00804,20MnCr5,2.1614,Turning:CNC-T1:1.5,240.09,SYN-2402-0804,2024-02-08
+Synthetic Customer 10,Brake pin 1197,SYN-P-01197,C45,5.2363,Milling:VMC-1:1.8;Drilling:DRL-1:9.9;Grinding:GRD-1:2.4,504.83,SYN-2411-1197,2024-11-18
+Synthetic Customer 09,Yoke 0849,SYN-P-00849,40Cr4,3.6659,Milling:VMC-1:11.2;Drilling:DRL-1:6.5;Grinding:GRD-1:2.5,341.07,SYN-2608-0849,2026-08-08
+Synthetic Customer 05,Pinion 0497,SYN-P-00497,EN8,7.0268,Milling:VMC-1:2.7;Drilling:DRL-1:7.5;Grinding:GRD-1:2.8,637.96,SYN-2404-0497,2024-04-06
+Synthetic Customer 08,Hub flange 0821,SYN-P-00821,EN19,7.6340,Milling:VMC-1:6.6,674.92,SYN-2408-0821,2024-08-28
+Synthetic Customer 06,Bush 0988,SYN-P-00988,40Cr4,1.1165,Turning:CNC-T1:7.9;Milling:VMC-1:3.4;Drilling:DRL-1:4.6,123.67,SYN-2601-0988,2026-01-01
+Synthetic Customer 03,Lift arm 1223,SYN-P-01223,EN8,1.0850,Grinding:GRD-1:4.2,139.66,SYN-2410-1223,2024-10-18
+Synthetic Customer 09,Brake pin 0095,SYN-P-00095,EN8,3.0712,Grinding:GRD-1:5.9;Turning:CNC-T1:6.0,320.31,SYN-2504-0095,2025-04-18
+Synthetic Customer 07,Brake pin 0094,SYN-P-00094,40Cr4,4.5958,Drilling:DRL-1:9.6;Grinding:GRD-1:2.3,424.41,SYN-2610-0094,2026-10-28
+Synthetic Customer 07,Bush 0079,SYN-P-00079,EN19,1.4733,Grinding:GRD-1:1.1;Turning:CNC-T1:6.4;Milling:VMC-1:7.8,180.46,SYN-2408-0079,2024-08-15
+Synthetic Customer 03,Hub flange 0911,SYN-P-00911,EN8,5.4612,Grinding:GRD-1:3.1;Turning:CNC-T1:5.8;Milling:VMC-1:3.8,504.50,SYN-2609-0911,2026-09-25
+Synthetic Customer 02,Lift arm 1186,SYN-P-01186,EN19,1.1611,Drilling:DRL-1:10.8,149.60,SYN-2501-1186,2025-01-03
+Synthetic Customer 02,Pinion 0510,SYN-P-00510,40Cr4,0.6603,Drilling:DRL-1:4.6,82.30,SYN-2504-0510,2025-04-21
+Synthetic Customer 03,Bush 0471,SYN-P-00471,EN19,6.4806,Grinding:GRD-1:11.5;Turning:CNC-T1:11.1;Milling:VMC-1:11.5,585.55,SYN-2401-0471,2024-01-20
+Synthetic Customer 05,Lift arm 0674,SYN-P-00674,20MnCr5,1.4013,Drilling:DRL-1:3.4,148.58,SYN-2501-0674,2025-01-15
+Synthetic Customer 04,Bush 0409,SYN-P-00409,C45,5.6237,Milling:VMC-1:8.5;Drilling:DRL-1:1.9;Grinding:GRD-1:4.8,500.28,SYN-2405-0409,2024-05-25
+Synthetic Customer 09,Lift arm 1202,SYN-P-01202,EN19,2.4428,Drilling:DRL-1:1.2,229.44,SYN-2604-1202,2026-04-26
+Synthetic Customer 10,Bush 0893,SYN-P-00893,20MnCr5,1.1196,Milling:VMC-1:9.4;Drilling:DRL-1:8.7,129.56,SYN-2406-0893,2024-06-16
+Synthetic Customer 10,Brake pin 0172,SYN-P-00172,EN19,1.1506,Turning:CNC-T1:5.8;Milling:VMC-1:11.2,147.72,SYN-2608-0172,2026-08-08
+Synthetic Customer 03,Lift arm 0874,SYN-P-00874,EN19,3.1451,Drilling:DRL-1:1.8;Grinding:GRD-1:10.0,320.88,SYN-2408-0874,2024-08-17
+Synthetic Customer 03,Axle shaft 1292,SYN-P-01292,EN19,6.5875,Turning:CNC-T1:5.8;Milling:VMC-1:6.5;Drilling:DRL-1:3.3,601.44,SYN-2407-1292,2024-07-15
+Synthetic Customer 09,Pinion 0834,SYN-P-00834,C45,3.6370,Drilling:DRL-1:7.3,346.59,SYN-2508-0834,2025-08-14
+Synthetic Customer 11,Lift arm 0346,SYN-P-00346,EN19,5.8647,Drilling:DRL-1:8.4;Grinding:GRD-1:3.6,554.99,SYN-2406-0346,2024-06-13
+Synthetic Customer 08,Axle shaft 1288,SYN-P-01288,40Cr4,6.2991,Turning:CNC-T1:4.0;Milling:VMC-1:5.5,571.00,SYN-2402-1288,2024-02-21
+Synthetic Customer 01,Pinion 0295,SYN-P-00295,C45,6.3341,Grinding:GRD-1:6.8;Turning:CNC-T1:10.8,580.87,SYN-2402-0295,2024-02-15
+Synthetic Customer 05,Gear blank 0416,SYN-P-00416,40Cr4,2.2686,Turning:CNC-T1:9.9,218.10,SYN-2405-0416,2024-05-27
+Synthetic Customer 01,Axle shaft 1334,SYN-P-01334,EN19,4.1189,Drilling:DRL-1:7.9,404.24,SYN-2611-1334,2026-11-08
+Synthetic Customer 12,Pinion 1118,SYN-P-01118,40Cr4,3.1948,Drilling:DRL-1:11.0;Grinding:GRD-1:1.3;Turning:CNC-T1:7.7,311.77,SYN-2507-1118,2025-07-19
+Synthetic Customer 08,Hub flange 0820,SYN-P-00820,20MnCr5,6.0422,Turning:CNC-T1:8.9;Milling:VMC-1:8.6,545.27,SYN-2412-0820,2024-12-05
+Synthetic Customer 05,Brake pin 1384,SYN-P-01384,20MnCr5,6.3365,Turning:CNC-T1:8.8;Milling:VMC-1:0.7,-12.50,SYN-2509-1384,2025-09-06
+Synthetic Customer 06,Yoke 0152,SYN-P-00152,20MnCr5,4.2501,Turning:CNC-T1:2.1;Milling:VMC-1:9.7,382.30,SYN-2504-0152,2025-04-08
+Synthetic Customer 04,Coupling 0249,SYN-P-00249,EN19,4.1458,Milling:VMC-1:9.5;Drilling:DRL-1:8.2,399.53,SYN-2406-0249,2024-06-05
+Synthetic Customer 10,Hub flange 0779,SYN-P-00779,EN8,4.1781,Grinding:GRD-1:9.9;Turning:CNC-T1:6.9,381.47,SYN-2601-0779,2026-01-27
+Synthetic Customer 07,Gear blank 0654,SYN-P-00654,20MnCr5,3.2132,Drilling:DRL-1:3.0;Grinding:GRD-1:2.5,330.32,SYN-2610-0654,2026-10-12
+Synthetic Customer 05,Axle shaft 0972,SYN-P-00972,20MnCr5,0.5729,Turning:CNC-T1:4.9;Milling:VMC-1:4.6;Drilling:DRL-1:11.0,91.31,SYN-2509-0972,2025-09-05
+Synthetic Customer 04,Lift arm 0582,SYN-P-00582,40Cr4,4.3285,Drilling:DRL-1:9.0;Grinding:GRD-1:4.6,401.02,SYN-2406-0582,2024-06-05
+Synthetic Customer 01,Hub flange 0696,SYN-P-00696,EN19,5.4245,Turning:CNC-T1:3.0,507.62,SYN-2409-0696,2024-09-28
+Synthetic Customer 05,Hub flange 0663,SYN-P-00663,C45,2.8874,Grinding:GRD-1:8.7;Turning:CNC-T1:3.0,284.88,SYN-2501-0663,2025-01-12
+Synthetic Customer 04,Pinion 1089,SYN-P-01089,40Cr4,7.1355,Milling:VMC-1:0.5,644.64,SYN-2612-1089,2026-12-21
+Synthetic Customer 09,Gear blank 1312,SYN-P-01312,40Cr4,1.9332,Turning:CNC-T1:2.8,208.12,SYN-2505-1312,2025-05-20
+Synthetic Customer 01,Hub flange 0950,SYN-P-00950,EN8,4.3028,Drilling:DRL-1:10.8;Grinding:GRD-1:0.6,398.30,SYN-2502-0950,2025-02-08
+Synthetic Customer 04,Coupling 0945,SYN-P-00945,C45,7.3307,Milling:VMC-1:1.8,672.99,SYN-2402-0945,2024-02-13
+Synthetic Customer 10,Pinion 0460,SYN-P-00460,C45,2.5455,Turning:CNC-T1:6.8;Milling:VMC-1:2.0;Drilling:DRL-1:3.3,266.04,SYN-2510-0460,2025-10-02
+Synthetic Customer 05,Gear blank 1155,SYN-P-01155,EN19,1.6664,Grinding:GRD-1:8.1;Turning:CNC-T1:11.1;Milling:VMC-1:5.2,174.03,SYN-2507-1155,2025-07-28
+Synthetic Customer 09,Bush 0533,SYN-P-00533,C45,6.4228,Milling:VMC-1:6.6;Drilling:DRL-1:5.5,604.56,SYN-2507-0533,2025-07-22
+Synthetic Customer 01,Spindle 0355,SYN-P-00355,EN19,5.8267,Grinding:GRD-1:7.0,537.16,SYN-2411-0355,2024-11-09
+Synthetic Customer 07,Bush 0651,SYN-P-00651,40Cr4,1.8111,Grinding:GRD-1:3.4,190.01,SYN-2612-0651,2026-12-10
+Synthetic Customer 10,Yoke 0752,SYN-P-00752,20MnCr5,3.9126,Turning:CNC-T1:8.8,381.10,SYN-2508-0752,2025-08-02
+Synthetic Customer 07,Axle shaft 0998,SYN-P-00998,C45,4.3550,Drilling:DRL-1:5.2;Grinding:GRD-1:11.4,391.01,SYN-2508-0998,2025-08-28
+Synthetic Customer 07,Pinion 0255,SYN-P-00255,C45,6.7289,Grinding:GRD-1:3.2;Turning:CNC-T1:5.3;Milling:VMC-1:5.2,622.56,SYN-2407-0255,2024-07-05
+Synthetic Customer 03,Pinion 0939,SYN-P-00939,EN19,1.5515,Grinding:GRD-1:7.6,158.35,SYN-2405-0939,2024-05-17
+Synthetic Customer 12,Coupling 0370,SYN-P-00370,C45,2.3971,Drilling:DRL-1:5.4;Grinding:GRD-1:8.6;Turning:CNC-T1:9.4,229.32,SYN-2608-0370,2026-08-28
+Synthetic Customer 09,Pinion 0297,SYN-P-00297,EN8,7.3202,Milling:VMC-1:5.3;Drilling:DRL-1:8.5,670.00,SYN-2608-0297,2026-08-21
+Synthetic Customer 01,Spindle 0476,SYN-P-00476,C45,3.7889,Turning:CNC-T1:10.1,372.50,SYN-2605-0476,2026-05-13
+Synthetic Customer 12,Axle shaft 1320,SYN-P-01320,40Cr4,2.6005,Turning:CNC-T1:2.2;Milling:VMC-1:9.0;Drilling:DRL-1:11.5,270.79,SYN-2608-1320,2026-08-02
+Synthetic Customer 06,Pinion 0096,SYN-P-00096,20MnCr5,6.7073,Turning:CNC-T1:11.0,601.88,SYN-2503-0096,2025-03-21
+Synthetic Customer 12,Axle shaft 0494,SYN-P-00494,EN8,7.5404,Drilling:DRL-1:0.7,665.70,SYN-2505-0494,2025-05-06
+Synthetic Customer 11,Lift arm 0387,SYN-P-00387,EN8,7.0117,Grinding:GRD-1:4.7,637.59,SYN-2601-0387,2026-01-03
+Synthetic Customer 10,Lift arm 0968,SYN-P-00968,40Cr4,7.1816,Turning:CNC-T1:5.4;Milling:VMC-1:0.8,647.56,SYN-2610-0968,2026-10-16
+Synthetic Customer 10,Axle shaft 0958,SYN-P-00958,40Cr4,4.9390,Drilling:DRL-1:4.0;Grinding:GRD-1:4.6,462.72,SYN-2503-0958,2025-03-15
+Synthetic Customer 05,Lift arm 1092,SYN-P-01092,EN8,2.8974,Turning:CNC-T1:11.0,270.89,SYN-2511-1092,2025-11-19
+Synthetic Customer 12,Bush 0223,SYN-P-00223,40Cr4,4.2047,Grinding:GRD-1:3.5,382.49,SYN-2405-0223,2024-05-03
+Synthetic Customer 07,Spindle 0036,SYN-P-00036,20MnCr5,8.0000,Turning:CNC-T1:4.6,701.15,SYN-2502-0036,2025-02-05
+Synthetic Customer 11,Brake pin 0605,SYN-P-00605,40Cr4,7.7213,Milling:VMC-1:2.8;Drilling:DRL-1:1.6,684.13,SYN-2402-0605,2024-02-02
+Synthetic Customer 05,Pinion 0313,SYN-P-00313,40Cr4,0.4878,Milling:VMC-1:8.2,76.18,SYN-2603-0313,2026-03-26
+Synthetic Customer 02,Axle shaft 1134,SYN-P-01134,C45,4.9710,Drilling:DRL-1:3.3;Grinding:GRD-1:11.2,457.27,SYN-2509-1134,2025-09-28
+Synthetic Customer 12,Brake pin 0528,SYN-P-00528,40Cr4,7.6935,Turning:CNC-T1:2.0;Milling:VMC-1:10.9,698.47,SYN-2610-0528,2026-10-28
+Synthetic Customer 04,Gear blank 0477,SYN-P-00477,40Cr4,7.2312,Milling:VMC-1:0.6,639.64,SYN-2404-0477,2024-04-22
+Synthetic Customer 10,Hub flange 0042,SYN-P-00042,EN8,2.4812,Drilling:DRL-1:7.5;Grinding:GRD-1:3.2;Turning:CNC-T1:5.1,245.33,SYN-2404-0042,2024-04-19
+Synthetic Customer 01,Gear blank 0459,SYN-P-00459,40Cr4,5.8138,Grinding:GRD-1:11.3,527.04,SYN-2601-0459,2026-01-17
+Synthetic Customer 05,Yoke 1309,SYN-P-01309,EN8,4.7126,Milling:VMC-1:9.9;Drilling:DRL-1:4.6;Grinding:GRD-1:8.8,443.59,SYN-2408-1309,2024-08-01
+Synthetic Customer 05,Axle shaft 1308,SYN-P-01308,20MnCr5,2.5890,Turning:CNC-T1:1.7,270.45,SYN-2508-1308,2025-08-08
+Synthetic Customer 10,Coupling 1274,SYN-P-01274,20MnCr5,7.3310,Drilling:DRL-1:8.8,677.09,SYN-2506-1274,2025-06-01
+Synthetic Customer 02,Coupling 0198,SYN-P-00198,20MnCr5,2.8581,Drilling:DRL-1:0.8,277.84,SYN-2602-0198,2026-02-25
+Synthetic Customer 01,Brake pin 0425,SYN-P-00425,C45,0.9620,Milling:VMC-1:8.6;Drilling:DRL-1:3.7;Grinding:GRD-1:1.0,131.73,SYN-2503-0425,2025-03-03
+Synthetic Customer 06,Hub flange 0181,SYN-P-00181,EN19,4.1501,Milling:VMC-1:9.9,383.85,SYN-2507-0181,2025-07-02
+Synthetic Customer 02,Lift arm 1023,SYN-P-01023,EN19,2.1370,Grinding:GRD-1:3.0;Turning:CNC-T1:8.8;Milling:VMC-1:1.0,238.96,SYN-2409-1023,2024-09-01
+Synthetic Customer 10,Hub flange 0709,SYN-P-00709,EN8,2.7974,Milling:VMC-1:4.7;Drilling:DRL-1:1.0,270.34,SYN-2508-0709,2025-08-28
+Synthetic Customer 11,Bush 1188,SYN-P-01188,40Cr4,4.8484,Turning:CNC-T1:6.4,460.92,SYN-2612-1188,2026-12-10
+Synthetic Customer 12,Spindle 0501,SYN-P-00501,EN8,0.8901,Milling:VMC-1:4.7;Drilling:DRL-1:2.3;Grinding:GRD-1:2.4,107.75,SYN-2602-0501,2026-02-02
+Synthetic Customer 10,Spindle 0310,SYN-P-00310,EN8,4.9919,Drilling:DRL-1:1.9;Grinding:GRD-1:3.2,482.95,SYN-2508-0310,2025-08-19
+Synthetic Customer 02,Gear blank 0470,SYN-P-00470,EN19,0.3764,Drilling:DRL-1:1.5,73.31,SYN-2603-0470,2026-03-21
+Synthetic Customer 09,Pinion 0336,SYN-P-00336,EN19,3.7691,Turning:CNC-T1:11.3,375.91,SYN-2608-0336,2026-08-23
+Synthetic Customer 07,Yoke 0847,SYN-P-00847,C45,2.2918,Grinding:GRD-1:9.5,235.75,SYN-2611-0847,2026-11-13
+Synthetic Customer 10,Axle shaft 1072,SYN-P-01072,20MnCr5,5.8212,Turning:CNC-T1:6.3;Milling:VMC-1:2.5,539.63,SYN-2410-1072,2024-10-19
+Synthetic Customer 07,Pinion 0145,SYN-P-00145,20MnCr5,4.6845,Milling:VMC-1:8.8;Drilling:DRL-1:6.5;Grinding:GRD-1:1.5,425.46,SYN-2606-0145,2026-06-07
+Synthetic Customer 05,Brake pin 1167,SYN-P-01167,EN19,5.0899,Grinding:GRD-1:11.5,482.07,SYN-2510-1167,2025-10-11
+Synthetic Customer 01,Hub flange 1213,SYN-P-01213,EN19,4.0309,Milling:VMC-1:4.8;Drilling:DRL-1:3.3;Grinding:GRD-1:7.6,378.00,SYN-2407-1213,2024-07-21
+Synthetic Customer 02,Bush 0553,SYN-P-00553,EN8,7.3364,Milling:VMC-1:2.7;Drilling:DRL-1:2.2,674.26,SYN-2508-0553,2025-08-07
+Synthetic Customer 11,Coupling 0695,SYN-P-00695,40Cr4,4.5311,Grinding:GRD-1:8.0;Turning:CNC-T1:5.1,427.42,SYN-2408-0695,2024-08-14
+Synthetic Customer 12,Coupling 0237,SYN-P-00237,C45,7.1065,Milling:VMC-1:3.3;Drilling:DRL-1:4.0,626.59,SYN-2412-0237,2024-12-12
+Synthetic Customer 08,Hub flange 0307,SYN-P-00307,20MnCr5,3.8939,Grinding:GRD-1:2.5;Turning:CNC-T1:8.6,373.91,SYN-2406-0307,2024-06-10
+Synthetic Customer 03,Spindle 0763,SYN-P-00763,EN8,3.9641,Grinding:GRD-1:3.8,393.84,SYN-2411-0763,2024-11-23
+Synthetic Customer 04,Pinion 0522,SYN-P-00522,40Cr4,1.1935,Drilling:DRL-1:5.3,137.39,SYN-2604-0522,2026-04-11
+Synthetic Customer 07,Lift arm 0871,SYN-P-00871,40Cr4,3.1835,Grinding:GRD-1:8.6;Turning:CNC-T1:5.3,291.16,SYN-2412-0871,2024-12-23
+Synthetic Customer 01,Yoke 0479,SYN-P-00479,20MnCr5,3.9994,Grinding:GRD-1:9.7;Turning:CNC-T1:7.2,397.04,SYN-2507-0479,2025-07-04
+Synthetic Customer 12,Pinion 1157,SYN-P-01157,EN8,4.9467,Milling:VMC-1:7.9,471.69,SYN-2612-1157,2026-12-27
+Synthetic Customer 05,Yoke 0557,SYN-P-00557,20MnCr5,1.0274,Milling:VMC-1:9.0;Drilling:DRL-1:8.5;Grinding:GRD-1:7.3,124.73,SYN-2607-0557,2026-07-22
+Synthetic Customer 08,Brake pin 1261,SYN-P-01261,EN8,2.7426,Milling:VMC-1:9.1;Drilling:DRL-1:2.7,269.34,SYN-2401-1261,2024-01-12
+Synthetic Customer 10,Pinion 0306,SYN-P-00306,20MnCr5,7.9828,Drilling:DRL-1:8.1;Grinding:GRD-1:4.7,731.11,SYN-2504-0306,2025-04-16
+Synthetic Customer 05,Axle shaft 0549,SYN-P-00549,EN8,0.8971,Milling:VMC-1:1.3,99.14,SYN-2511-0549,2025-11-16
+Synthetic Customer 12,Axle shaft 0844,SYN-P-00844,20MnCr5,5.7916,Turning:CNC-T1:6.4;Milling:VMC-1:10.8,519.84,SYN-2610-0844,2026-10-08
+Synthetic Customer 04,Pinion 0473,SYN-P-00473,EN8,2.2695,Milling:VMC-1:4.4,244.28,SYN-2506-0473,2025-06-08
+Synthetic Customer 04,Bush 1296,SYN-P-01296,20MnCr5,7.7144,Turning:CNC-T1:10.3;Milling:VMC-1:5.5;Drilling:DRL-1:9.5,686.74,SYN-2511-1296,2025-11-06
+Synthetic Customer 12,Coupling 1123,SYN-P-01123,EN19,2.3391,Grinding:GRD-1:2.4;Turning:CNC-T1:3.8,220.32,SYN-2610-1123,2026-10-15
+Synthetic Customer 10,Brake pin 1114,SYN-P-01114,EN8,4.0635,Drilling:DRL-1:9.1,385.55,SYN-2507-1114,2025-07-13
+Synthetic Customer 03,Pinion 1204,SYN-P-01204,EN8,3.9040,Turning:CNC-T1:4.2,358.52,SYN-2504-1204,2025-04-13
+Synthetic Customer 04,Coupling 1145,SYN-P-01145,20MnCr5,2.4631,Milling:VMC-1:7.3;Drilling:DRL-1:10.5;Grinding:GRD-1:6.3,261.53,SYN-2504-1145,2025-04-27
+Synthetic Customer 11,Bush 0143,SYN-P-00143,EN19,1.4769,Grinding:GRD-1:8.9,159.43,SYN-2509-0143,2025-09-06
+Synthetic Customer 08,Axle shaft 0640,SYN-P-00640,C45,1.6555,Turning:CNC-T1:3.8,195.46,SYN-2601-0640,2026-01-04
+Synthetic Customer 09,Hub flange 0963,SYN-P-00963,EN19,6.4672,Grinding:GRD-1:2.2;Turning:CNC-T1:8.3,583.71,SYN-2506-0963,2025-06-08
+Synthetic Customer 01,Yoke 0702,SYN-P-00702,20MnCr5,4.6274,Drilling:DRL-1:9.5;Grinding:GRD-1:3.7,430.36,SYN-2401-0702,2024-01-23
+Synthetic Customer 06,Axle shaft 1360,SYN-P-01360,EN19,2.7825,Turning:CNC-T1:7.6;Milling:VMC-1:11.5;Drilling:DRL-1:5.9,286.02,SYN-2505-1360,2025-05-22
+Synthetic Customer 02,Coupling 0831,SYN-P-00831,EN8,5.0133,Grinding:GRD-1:6.8,461.09,SYN-2608-0831,2026-08-18
+Synthetic Customer 05,Lift arm 0931,SYN-P-00931,20MnCr5,4.7044,Grinding:GRD-1:8.1,434.08,SYN-2603-0931,2026-03-22
+Synthetic Customer 02,Yoke 0803,SYN-P-00803,EN19,0.4465,Grinding:GRD-1:4.7;Turning:CNC-T1:1.0;Milling:VMC-1:4.3,67.31,SYN-2601-0803,2026-01-24
+Synthetic Customer 02,Bush 0639,SYN-P-00639,C45,5.9309,Grinding:GRD-1:8.1;Turning:CNC-T1:1.7,524.17,SYN-2601-0639,2026-01-11
+Synthetic Customer 11,Yoke 0531,SYN-P-00531,EN8,6.3025,Grinding:GRD-1:10.9;Turning:CNC-T1:10.9;Milling:VMC-1:6.7,555.94,SYN-2612-0531,2026-12-04
+Synthetic Customer 07,Brake pin 0866,SYN-P-00866,C45,6.1891,Drilling:DRL-1:6.5,553.12,SYN-2507-0866,2025-07-04
+Synthetic Customer 12,Coupling 0180,SYN-P-00180,EN19,0.2071,Turning:CNC-T1:7.5;Milling:VMC-1:0.8,47.07,SYN-2407-0180,2024-07-14
+Synthetic Customer 01,Axle shaft 0539,SYN-P-00539,20MnCr5,0.7709,Grinding:GRD-1:1.5,90.56,SYN-2610-0539,2026-10-01
+Synthetic Customer 03,Brake pin 1045,SYN-P-01045,20MnCr5,3.1959,Milling:VMC-1:10.8,321.27,SYN-2503-1045,2025-03-18
+Synthetic Customer 06,Axle shaft 0483,SYN-P-00483,40Cr4,7.4866,Grinding:GRD-1:8.1;Turning:CNC-T1:3.2;Milling:VMC-1:9.7,696.04,SYN-2407-0483,2024-07-05
+Synthetic Customer 12,Spindle 0707,SYN-P-00707,40Cr4,0.9910,Grinding:GRD-1:7.2;Turning:CNC-T1:9.4;Milling:VMC-1:6.1,126.85,SYN-2408-0707,2024-08-05
+Synthetic Customer 05,Hub flange 0835,SYN-P-00835,C45,2.8713,Grinding:GRD-1:2.8;Turning:CNC-T1:5.9,275.87,SYN-2410-0835,2024-10-07
+Synthetic Customer 06,Coupling 0213,SYN-P-00213,EN8,4.3769,Milling:VMC-1:11.4,420.53,SYN-2402-0213,2024-02-16
+Synthetic Customer 02,Spindle 0205,SYN-P-00205,C45,7.9326,Milling:VMC-1:4.7,710.65,SYN-2405-0205,2024-05-27
+Synthetic Customer 01,Spindle 0240,SYN-P-00240,EN19,7.9686,Turning:CNC-T1:9.0;Milling:VMC-1:8.5;Drilling:DRL-1:5.5,724.63,SYN-2604-0240,2026-04-09
+Synthetic Customer 03,Yoke 0839,SYN-P-00839,EN19,4.3896,Grinding:GRD-1:5.7;Turning:CNC-T1:4.9;Milling:VMC-1:3.1,404.95,SYN-2612-0839,2026-12-16
+Synthetic Customer 12,Lift arm 1192,SYN-P-01192,20MnCr5,2.0668,Turning:CNC-T1:3.0;Milling:VMC-1:6.7;Drilling:DRL-1:3.8,218.84,SYN-2609-1192,2026-09-14
+Synthetic Customer 09,Bush 0989,SYN-P-00989,C45,7.4423,Milling:VMC-1:5.8;Drilling:DRL-1:6.4,669.27,SYN-2602-0989,2026-02-20
+Synthetic Customer 11,Brake pin 1014,SYN-P-01014,20MnCr5,2.2458,Drilling:DRL-1:1.6,218.42,SYN-2406-1014,2024-06-11
+Synthetic Customer 11,Bush 0062,SYN-P-00062,40Cr4,1.6882,Drilling:DRL-1:1.3;Grinding:GRD-1:4.8,184.26,SYN-2512-0062,2025-12-21
+Synthetic Customer 12,Spindle 0903,SYN-P-00903,EN8,6.5580,Grinding:GRD-1:4.8;Turning:CNC-T1:1.9,595.11,SYN-2601-0903,2026-01-24
+Synthetic Customer 03,Hub flange 0171,SYN-P-00171,20MnCr5,3.7512,Grinding:GRD-1:3.0;Turning:CNC-T1:2.4;Milling:VMC-1:5.9,376.71,SYN-2601-0171,2026-01-06
+Synthetic Customer 10,Coupling 1271,SYN-P-01271,C45,4.5531,Grinding:GRD-1:1.5,434.26,SYN-2408-1271,2024-08-23
+Synthetic Customer 04,Coupling 1135,SYN-P-01135,20MnCr5,0.4327,Grinding:GRD-1:8.1;Turning:CNC-T1:7.0,96.69,SYN-2502-1135,2025-02-27
+Synthetic Customer 09,Bush 1003,SYN-P-01003,EN19,5.9512,Grinding:GRD-1:4.0,537.67,SYN-2608-1003,2026-08-08
+Synthetic Customer 06,Spindle 0502,SYN-P-00502,40Cr4,7.8883,Drilling:DRL-1:3.4,693.78,SYN-2406-0502,2024-06-03
+Synthetic Customer 04,Hub flange 0974,SYN-P-00974,EN19,3.1279,Drilling:DRL-1:3.8;Grinding:GRD-1:11.2;Turning:CNC-T1:6.0,290.16,SYN-2409-0974,2024-09-07
+Synthetic Customer 12,Pinion 0256,SYN-P-00256,40Cr4,7.8238,Turning:CNC-T1:5.6;Milling:VMC-1:9.3;Drilling:DRL-1:6.0,719.03,SYN-2405-0256,2024-05-15
+Synthetic Customer 11,Hub flange 1206,SYN-P-01206,40Cr4,0.4887,Drilling:DRL-1:8.9;Grinding:GRD-1:1.0;Turning:CNC-T1:5.9,67.27,SYN-2603-1206,2026-03-25
+Synthetic Customer 04,Yoke 0783,SYN-P-00783,C45,7.3114,Grinding:GRD-1:9.5;Turning:CNC-T1:10.5;Milling:VMC-1:8.9,666.53,SYN-2603-0783,2026-03-20
+Synthetic Customer 05,Yoke 0250,SYN-P-00250,C45,1.0193,Drilling:DRL-1:3.4;Grinding:GRD-1:4.7,142.92,SYN-2612-0250,2026-12-03
+Synthetic Customer 09,Yoke 0985,SYN-P-00985,EN8,7.5146,Milling:VMC-1:2.5;Drilling:DRL-1:2.9,667.35,SYN-2411-0985,2024-11-18
+Synthetic Customer 06,Brake pin 0594,SYN-P-00594,EN8,1.6107,Drilling:DRL-1:4.7;Grinding:GRD-1:1.1;Turning:CNC-T1:8.0,173.37,SYN-2509-0594,2025-09-27
+Synthetic Customer 10,Lift arm 0793,SYN-P-00793,20MnCr5,3.2009,Milling:VMC-1:7.8,326.09,SYN-2405-0793,2024-05-08
+Synthetic Customer 03,Axle shaft 0383,SYN-P-00383,40Cr4,5.0345,Grinding:GRD-1:3.3;Turning:CNC-T1:3.6;Milling:VMC-1:1.3,481.47,SYN-2408-0383,2024-08-25
+Synthetic Customer 11,Bush 0415,SYN-P-00415,20MnCr5,2.6549,Grinding:GRD-1:4.6,257.37,SYN-2603-0415,2026-03-24
+Synthetic Customer 09,Lift arm 1054,SYN-P-01054,40Cr4,6.8022,Drilling:DRL-1:7.1,617.92,SYN-2606-1054,2026-06-21
+Synthetic Customer 06,Brake pin 0308,SYN-P-00308,40Cr4,4.7821,Turning:CNC-T1:3.4,464.37,SYN-2601-0308,2026-01-12
+Synthetic Customer 05,Yoke 1064,SYN-P-01064,40Cr4,6.9290,Turning:CNC-T1:6.1;Milling:VMC-1:9.6;Drilling:DRL-1:7.3,616.89,SYN-2607-1064,2026-07-20
+Synthetic Customer 02,Bush 0339,SYN-P-00339,20MnCr5,2.0312,Grinding:GRD-1:11.5;Turning:CNC-T1:9.3;Milling:VMC-1:8.6,226.17,SYN-2402-0339,2024-02-12
+Synthetic Customer 12,Yoke 0785,SYN-P-00785,C45,2.7059,Milling:VMC-1:1.3;Drilling:DRL-1:5.6,252.37,SYN-2508-0785,2025-08-03
+Synthetic Customer 10,Brake pin 0268,SYN-P-00268,20MnCr5,5.6458,Turning:CNC-T1:0.9,522.98,SYN-2510-0268,2025-10-23
+Synthetic Customer 03,Coupling 0402,SYN-P-00402,40Cr4,5.9697,Drilling:DRL-1:8.8;Grinding:GRD-1:5.5,545.30,SYN-2406-0402,2024-06-24
+Synthetic Customer 09,Yoke 0492,SYN-P-00492,40Cr4,6.9113,Turning:CNC-T1:4.2;Milling:VMC-1:6.1;Drilling:DRL-1:7.5,610.43,SYN-2610-0492,2026-10-01
+Synthetic Customer 07,Coupling 1253,SYN-P-01253,EN19,0.6130,Milling:VMC-1:2.6;Drilling:DRL-1:1.4;Grinding:GRD-1:2.4,97.05,SYN-2511-1253,2025-11-25
+Synthetic Customer 08,Yoke 0443,SYN-P-00443,EN8,0.5117,Grinding:GRD-1:6.2;Turning:CNC-T1:8.5;Milling:VMC-1:9.4,73.39,SYN-2409-0443,2024-09-09
+Synthetic Customer 02,Coupling 0407,SYN-P-00407,20MnCr5,2.9509,Grinding:GRD-1:9.9;Turning:CNC-T1:9.4,273.16,SYN-2502-0407,2025-02-21
+Synthetic Customer 11,Yoke 1030,SYN-P-01030,EN8,0.5776,Drilling:DRL-1:3.1;Grinding:GRD-1:3.3,106.63,SYN-2506-1030,2025-06-03
+Synthetic Customer 10,Yoke 1179,SYN-P-01179,40Cr4,0.7041,Grinding:GRD-1:9.5;Turning:CNC-T1:11.4,80.02,SYN-2409-1179,2024-09-20
+Synthetic Customer 12,Axle shaft 0031,SYN-P-00031,EN8,4.2889,Grinding:GRD-1:4.1;Turning:CNC-T1:10.6,418.97,SYN-2605-0031,2026-05-03
+Synthetic Customer 04,Lift arm 0119,SYN-P-00119,C45,2.1863,Grinding:GRD-1:10.3;Turning:CNC-T1:9.6,216.91,SYN-2407-0119,2024-07-01
+Synthetic Customer 07,Bush 0251,SYN-P-00251,20MnCr5,1.7102,Grinding:GRD-1:9.1;Turning:CNC-T1:1.8;Milling:VMC-1:5.3,191.84,SYN-2409-0251,2024-09-03
+Synthetic Customer 04,Coupling 1303,SYN-P-01303,40Cr4,3.1900,Grinding:GRD-1:4.6,295.22,SYN-2501-1303,2025-01-26
+Synthetic Customer 03,Spindle 0790,SYN-P-00790,20MnCr5,6.4689,Drilling:DRL-1:0.5;Grinding:GRD-1:10.2;Turning:CNC-T1:5.2,580.57,SYN-2509-0790,2025-09-05
+Synthetic Customer 11,Axle shaft 0323,SYN-P-00323,EN19,6.9632,Grinding:GRD-1:7.3;Turning:CNC-T1:2.7;Milling:VMC-1:1.7,633.52,SYN-2610-0323,2026-10-14
+Synthetic Customer 08,Yoke 0214,SYN-P-00214,20MnCr5,5.3442,Drilling:DRL-1:10.1;Grinding:GRD-1:5.0,484.62,SYN-2611-0214,2026-11-14
+Synthetic Customer 09,Hub flange 1185,SYN-P-01185,40Cr4,0.2197,Milling:VMC-1:9.5;Drilling:DRL-1:8.3;Grinding:GRD-1:2.4,42.93,SYN-2607-1185,2026-07-07
+Synthetic Customer 05,Hub flange 0719,SYN-P-00719,EN19,6.3864,Grinding:GRD-1:0.9;Turning:CNC-T1:7.3,573.82,SYN-2602-0719,2026-02-20
+Synthetic Customer 11,Yoke 0432,SYN-P-00432,20MnCr5,7.1388,Turning:CNC-T1:1.6;Milling:VMC-1:7.6,635.78,SYN-2503-0432,2025-03-08
+Synthetic Customer 09,Spindle 0272,SYN-P-00272,20MnCr5,0.8888,Turning:CNC-T1:10.0;Milling:VMC-1:7.6,101.22,SYN-2512-0272,2025-12-26
+Synthetic Customer 04,Brake pin 1056,SYN-P-01056,40Cr4,2.0962,Turning:CNC-T1:2.7;Milling:VMC-1:11.5;Drilling:DRL-1:5.0,238.15,SYN-2409-1056,2024-09-01
+Synthetic Customer 06,Bush 1057,SYN-P-01057,C45,2.6348,Milling:VMC-1:3.6,271.65,SYN-2611-1057,2026-11-03
+Synthetic Customer 03,Yoke 1052,SYN-P-01052,20MnCr5,5.6432,Turning:CNC-T1:8.7;Milling:VMC-1:6.3,504.19,SYN-2410-1052,2024-10-19
+Synthetic Customer 01,Gear blank 0924,SYN-P-00924,EN8,6.1910,Turning:CNC-T1:3.7,553.59,SYN-2606-0924,2026-06-01
+Synthetic Customer 05,Gear blank 0673,SYN-P-00673,EN8,2.3969,Milling:VMC-1:9.4,231.56,SYN-2512-0673,2025-12-08
+Synthetic Customer 06,Pinion 0583,SYN-P-00583,EN19,2.8320,Grinding:GRD-1:8.4;Turning:CNC-T1:1.9,277.24,SYN-2504-0583,2025-04-08
+Synthetic Customer 10,Brake pin 0015,SYN-P-00015,C45,2.7039,Grinding:GRD-1:3.3;Turning:CNC-T1:5.0;Milling:VMC-1:7.9,284.89,SYN-2512-0015,2025-12-02
+Synthetic Customer 12,Lift arm 0559,SYN-P-00559,EN19,2.8722,Grinding:GRD-1:4.6;Turning:CNC-T1:7.6;Milling:VMC-1:4.6,297.27,SYN-2508-0559,2025-08-17
+Synthetic Customer 01,Gear blank 1029,SYN-P-01029,EN19,6.7752,Milling:VMC-1:5.8;Drilling:DRL-1:0.5,597.61,SYN-2507-1029,2025-07-27
+Synthetic Customer 05,Bush 0890,SYN-P-00890,EN8,7.4491,Drilling:DRL-1:5.7;Grinding:GRD-1:7.9;Turning:CNC-T1:1.5,672.39,SYN-2507-0890,2025-07-27
+Synthetic Customer 12,Pinion 0405,SYN-P-00405,40Cr4,3.8724,Milling:VMC-1:9.5;Drilling:DRL-1:5.2,352.06,SYN-2403-0405,2024-03-23
+Synthetic Customer 05,Brake pin 0965,SYN-P-00965,40Cr4,1.6143,Milling:VMC-1:6.3,188.85,SYN-2607-0965,2026-07-05
+Synthetic Customer 06,Hub flange 0996,SYN-P-00996,EN8,0.9387,Turning:CNC-T1:3.1,100.82,SYN-2507-0996,2025-07-10
+Synthetic Customer 11,Gear blank 1139,SYN-P-01139,40Cr4,2.0681,Grinding:GRD-1:11.2;Turning:CNC-T1:0.8,201.48,SYN-2605-1139,2026-05-24
+Synthetic Customer 04,Lift arm 0750,SYN-P-00750,EN19,5.6621,Drilling:DRL-1:1.2;Grinding:GRD-1:7.9;Turning:CNC-T1:4.4,530.92,SYN-2401-0750,2024-01-12
+Synthetic Customer 08,Bush 0004,SYN-P-00004,EN19,3.5114,Turning:CNC-T1:2.8,339.97,SYN-2409-0004,2024-09-03
+Synthetic Customer 06,Lift arm 0484,SYN-P-00484,20MnCr5,0.4626,Turning:CNC-T1:9.6;Milling:VMC-1:1.3,62.97,SYN-2507-0484,2025-07-22
+Synthetic Customer 04,Yoke 0898,SYN-P-00898,EN19,0.5649,Drilling:DRL-1:5.0;Grinding:GRD-1:1.3,97.09,SYN-2602-0898,2026-02-10
+Synthetic Customer 04,Lift arm 0166,SYN-P-00166,20MnCr5,1.3649,Drilling:DRL-1:0.7;Grinding:GRD-1:8.3,151.70,SYN-2609-0166,2026-09-02
+Synthetic Customer 09,Gear blank 1024,SYN-P-01024,40Cr4,1.1330,Turning:CNC-T1:1.4,126.06,SYN-2403-1024,2024-03-22
+Synthetic Customer 02,Bush 0906,SYN-P-00906,40Cr4,4.4446,Drilling:DRL-1:7.2,410.27,SYN-2502-0906,2025-02-16
+Synthetic Customer 05,Yoke 0002,SYN-P-00002,C45,5.4159,Drilling:DRL-1:8.1;Grinding:GRD-1:7.7,502.29,SYN-2510-0002,2025-10-06
+Synthetic Customer 04,Spindle 0891,SYN-P-00891,40Cr4,2.1479,Grinding:GRD-1:5.0;Turning:CNC-T1:3.9,211.91,SYN-2503-0891,2025-03-10
+Synthetic Customer 02,Coupling 0708,SYN-P-00708,20MnCr5,0.4487,Turning:CNC-T1:10.9;Milling:VMC-1:0.9,77.51,SYN-2408-0708,2024-08-03
+Synthetic Customer 10,Bush 0440,SYN-P-00440,C45,7.6334,Turning:CNC-T1:7.7,697.03,SYN-2610-0440,2026-10-18
+Synthetic Customer 02,Spindle 0139,SYN-P-00139,C45,0.7768,Grinding:GRD-1:1.7,109.51,SYN-2505-0139,2025-05-11
+Synthetic Customer 02,Bush 0107,SYN-P-00107,40Cr4,0.6921,Grinding:GRD-1:10.0,91.10,SYN-2408-0107,2024-08-14
+Synthetic Customer 11,Gear blank 1329,SYN-P-01329,20MnCr5,3.2308,Milling:VMC-1:7.8;Drilling:DRL-1:6.3;Grinding:GRD-1:3.6,318.75,SYN-2601-1329,2026-01-07
+Synthetic Customer 08,Axle shaft 0791,SYN-P-00791,EN8,2.7457,Grinding:GRD-1:8.9,260.88,SYN-2503-0791,2025-03-16
+Synthetic Customer 06,Spindle 1173,SYN-P-01173,EN8,1.1729,Milling:VMC-1:6.8;Drilling:DRL-1:10.7;Grinding:GRD-1:0.5,158.52,SYN-2602-1173,2026-02-18
+Synthetic Customer 06,Spindle 1046,SYN-P-01046,20MnCr5,4.2036,Drilling:DRL-1:9.5;Grinding:GRD-1:3.8,402.51,SYN-2511-1046,2025-11-22
+Synthetic Customer 06,Bush 1269,SYN-P-01269,C45,7.8112,Milling:VMC-1:1.6;Drilling:DRL-1:5.8;Grinding:GRD-1:11.2,720.25,SYN-2509-1269,2025-09-02
+Synthetic Customer 10,Gear blank 0508,SYN-P-00508,20MnCr5,2.9695,Turning:CNC-T1:8.7;Milling:VMC-1:3.4,302.08,SYN-2508-0508,2025-08-02
+Synthetic Customer 11,Pinion 0030,SYN-P-00030,40Cr4,4.1124,Drilling:DRL-1:0.9;Grinding:GRD-1:1.6;Turning:CNC-T1:3.4,381.04,SYN-2508-0030,2025-08-10
+Synthetic Customer 07,Brake pin 1364,SYN-P-01364,C45,3.2878,Turning:CNC-T1:3.3;Milling:VMC-1:9.1;Drilling:DRL-1:5.7,-12.50,SYN-2604-1364,2026-04-27
+Synthetic Customer 03,Axle shaft 0364,SYN-P-00364,40Cr4,5.3865,Turning:CNC-T1:8.8;Milling:VMC-1:7.0;Drilling:DRL-1:10.5,481.02,SYN-2512-0364,2025-12-06
+Synthetic Customer 12,Brake pin 0864,SYN-P-00864,20MnCr5,3.8540,Turning:CNC-T1:3.5;Milling:VMC-1:1.2;Drilling:DRL-1:2.1,351.37,SYN-2410-0864,2024-10-25
+Synthetic Customer 03,Spindle 0516,SYN-P-00516,EN19,3.2870,Turning:CNC-T1:7.6,320.29,SYN-2404-0516,2024-04-14
+Synthetic Customer 05,Hub flange 0220,SYN-P-00220,20MnCr5,6.5708,Turning:CNC-T1:10.8,579.54,SYN-2507-0220,2025-07-15
+Synthetic Customer 12,Axle shaft 1301,SYN-P-01301,20MnCr5,5.9705,Milling:VMC-1:2.1;Drilling:DRL-1:7.5,549.34,SYN-2601-1301,2026-01-18
+Synthetic Customer 08,Axle shaft 1218,SYN-P-01218,EN19,7.0122,Drilling:DRL-1:9.9,645.84,SYN-2508-1218,2025-08-05
+Synthetic Customer 09,Pinion 0069,SYN-P-00069,EN8,7.6610,Milling:VMC-1:10.9;Drilling:DRL-1:2.5,679.41,SYN-2602-0069,2026-02-01
+Synthetic Customer 09,Gear blank 1004,SYN-P-01004,EN8,2.4542,Turning:CNC-T1:5.0;Milling:VMC-1:5.6,234.62,SYN-2511-1004,2025-11-02
+Synthetic Customer 03,Yoke 0461,SYN-P-00461,40Cr4,6.7526,Milling:VMC-1:9.2,625.84,SYN-2604-0461,2026-04-28
+Synthetic Customer 04,Pinion 0556,SYN-P-00556,40Cr4,2.2107,Turning:CNC-T1:8.9;Milling:VMC-1:3.0,245.55,SYN-2601-0556,2026-01-13
+Synthetic Customer 04,Axle shaft 0567,SYN-P-00567,C45,4.4342,Grinding:GRD-1:4.4,431.81,SYN-2410-0567,2024-10-16
+Synthetic Customer 02,Axle shaft 0438,SYN-P-00438,EN19,4.2343,Drilling:DRL-1:8.1;Grinding:GRD-1:11.2,408.00,SYN-2612-0438,2026-12-03
+Synthetic Customer 02,Spindle 0361,SYN-P-00361,C45,2.7387,Milling:VMC-1:0.6;Drilling:DRL-1:1.2;Grinding:GRD-1:8.6,263.79,SYN-2607-0361,2026-07-08
+Synthetic Customer 01,Spindle 1283,SYN-P-01283,EN8,0.8223,Grinding:GRD-1:2.7;Turning:CNC-T1:5.0,128.92,SYN-2607-1283,2026-07-20
