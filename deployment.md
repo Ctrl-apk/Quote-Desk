@@ -1,37 +1,86 @@
-# Deployment
+# Deployment Guide — Quote Desk
 
-Target: Vercel plus a hosted Postgres. This file is completed in the final phase; the
-parts below are already true.
+**GitHub Repository:** [https://github.com/Ctrl-apk/Quote-Desk](https://github.com/Ctrl-apk/Quote-Desk)  
+**Project:** RFQ-to-Quote Costing Platform for Company A (Chakan, Pune)
 
-## Environment variables (names only)
+---
 
-| Name | Purpose |
-|------|---------|
-| `DATABASE_URL` | Postgres connection string used by the app (pooled, if your host offers pooling) |
-| `DIRECT_URL` | Direct Postgres connection used by `prisma migrate` |
-| `AUTH_SECRET` | Auth.js signing secret. Generate one with `npx auth secret` or `openssl rand -base64 32` |
-| `AUTH_URL` | Public URL of the deployment |
-| `LLM_API_KEY` | Optional. Leave empty to use the labelled mock extraction provider |
-| `LLM_MODEL` | Optional. Model name for the real provider |
-| `LLM_TIMEOUT_MS` | Optional. Request timeout for the real provider |
+## 1. Architecture Overview
 
-Set these in the Vercel project settings. Never commit values.
+Quote Desk is designed to run serverlessly on **Vercel** with a hosted PostgreSQL instance (e.g. **Supabase** or **Neon**).
 
-## Database
+* **Web & API:** Next.js 16 (App Router) on Vercel.
+* **Database:** PostgreSQL 16+ with native connection pooling (PgBouncer/Supabase Pooler).
+* **ORM:** Prisma 6 with `@prisma/adapter-pg` (Rust-free, driver-adapter engine).
 
-Migrations live in `prisma/migrations` and are applied with `npm run db:deploy`
-(`prisma migrate deploy`). Run it against the hosted database before the first deploy and
-after any new migration. The second migration installs triggers that make the three rate
-tables append-only.
+---
 
-## Demo logins
+## 2. Environment Variables
 
-Created by `npm run db:seed`. Fake addresses, demo passwords only. **Change or remove them on any real deployment.**
+Configure these variables in your Vercel project settings or in your local `.env`:
 
-| Role | Email | Password |
-|------|-------|----------|
-| Estimator | `estimator@quotedesk.example` | `Estimator#2611` |
-| Sales head | `saleshead@quotedesk.example` | `SalesHead#2611` |
+| Variable | Required | Description | Example |
+| :--- | :---: | :--- | :--- |
+| `DATABASE_URL` | **Yes** | Pooled PostgreSQL connection string for runtime queries | `postgresql://postgres...:6543/postgres?pgbouncer=true` |
+| `DIRECT_URL` | **Yes** | Direct connection string for Prisma migrations & setup | `postgresql://postgres...:5432/postgres` |
+| `AUTH_SECRET` | **Yes** | 32+ character random string for Auth.js JWT signing | Generate via `openssl rand -base64 32` |
+| `AUTH_URL` | No | Public deployment URL (leave blank on Vercel; set to `http://localhost:3000` locally) | `http://localhost:3000` |
+| `LLM_API_KEY` | No | Anthropic/OpenAI API key (leave empty to use local rule-based extractor) | `sk-ant-...` |
+| `LLM_DATA_USE_APPROVED` | **Yes** | Must be `yes` to send data to external LLM under customer NDAs; default `no` | `no` |
+| `LLM_MODEL` | No | Model name when external LLM is enabled | `claude-3-5-sonnet-latest` |
+| `LLM_TIMEOUT_MS` | No | Extractor timeout in milliseconds | `10000` |
+| `TEST_DATABASE_URL` | No | Dedicated throwaway DB for `npm run test:integration` (name must contain `test`) | `postgresql://.../quotedesk_test` |
 
-Seeding is safe to repeat: existing users, rates, RFQs and past quotes are left alone, so a changed password is never overwritten.
-Five wrong passwords for one email lock that email out for 15 minutes.
+---
+
+## 3. Database Bootstrap & Migrations
+
+All 6 migrations and PostgreSQL triggers are committed to `prisma/migrations`.
+
+### Option A: Cloud Database Setup (Supabase / Neon)
+Run from your local terminal pointing at your cloud database:
+```powershell
+# Windows PowerShell:
+$env:DATABASE_URL="your-pooled-database-url"
+$env:DIRECT_URL="your-direct-database-url"
+
+# Run migrations (via native pg driver, bypassing Prisma engine downloads) and seed:
+npx tsx --env-file=.env scripts/db-init.ts
+npx tsx --env-file=.env prisma/seed.ts
+```
+
+### Option B: Local PostgreSQL
+```bash
+createdb quotedesk
+cp .env.example .env
+# Edit .env with your local credentials
+npm run db:setup
+```
+
+---
+
+## 4. Deploying to Vercel
+
+1. Push your code to GitHub: `https://github.com/Ctrl-apk/Quote-Desk`.
+2. In the Vercel Dashboard, click **Add New Project** $\rightarrow$ Import `Ctrl-apk/Quote-Desk`.
+3. Framework Preset: **Next.js** (Root Directory: `./`).
+4. Add Environment Variables:
+   - `DATABASE_URL` (Supabase/Neon pooled URL)
+   - `DIRECT_URL` (Supabase/Neon direct URL)
+   - `AUTH_SECRET`
+   - `LLM_DATA_USE_APPROVED` = `no`
+   - *(Note: Do NOT set `AUTH_URL=http://localhost:3000` on Vercel; Auth.js detects the Vercel domain automatically).*
+5. Click **Deploy**.
+
+---
+
+## 5. Demo Credentials
+
+The database seed (`prisma/seed.ts`) provisions two role accounts with pre-configured permissions:
+
+| Role | Email | Password | Responsibilities |
+| :--- | :--- | :--- | :--- |
+| **Estimator** | `estimator@quotedesk.example` | `Estimator#2611` | Ingest RFQs, review & accept AI fields, cost parts across 3 tiers, submit quotes, import past quotes. |
+| **Sales Head** | `saleshead@quotedesk.example` | `SalesHead#2611` | Review and approve/reject quotes ($> ₹25\text{L}$), send quotes to customers, add rate versions. |
+
+*Security Note: Failed login attempts are throttled to 5 tries per 15 minutes per email.*
