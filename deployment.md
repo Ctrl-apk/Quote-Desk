@@ -1,5 +1,6 @@
 # Deployment Guide — Quote Desk
 
+**Live Deployed Application:** [https://quote-desk-git-main-ctrl-apks-projects.vercel.app/](https://quote-desk-git-main-ctrl-apks-projects.vercel.app/)  
 **GitHub Repository:** [https://github.com/Ctrl-apk/Quote-Desk](https://github.com/Ctrl-apk/Quote-Desk)  
 **Project:** RFQ-to-Quote Costing Platform for Company A (Chakan, Pune)
 

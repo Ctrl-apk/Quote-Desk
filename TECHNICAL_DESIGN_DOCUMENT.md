@@ -2,6 +2,7 @@
 
 **Project Name:** Quote Desk (RFQ Costing & Quotation Platform)  
 **Client:** Company A, Chakan, Pune  
+**Live Deployed Application:** [https://quote-desk-git-main-ctrl-apks-projects.vercel.app/](https://quote-desk-git-main-ctrl-apks-projects.vercel.app/)  
 **GitHub Repository:** [https://github.com/Ctrl-apk/Quote-Desk](https://github.com/Ctrl-apk/Quote-Desk)  
 **Author:** Shifa  
 **Date:** November 2026  
@@ -277,3 +278,4 @@ All three parts from the client prompt were coded into the regression suite ([`t
 Per [`docs/assumptions.md`](file:///c:/Users/ASUS/Downloads/quote-desk-final-v3.1/quote-desk/docs/assumptions.md), these items are highlighted for Company A's commercial alignment:
 1. **Markup & Scrap Defaults (F-22):** Initial placeholders set to 10% markup and 2% scrap allowance. Editable per quote.
 2. **Customer PDF Breakdown (Q-04):** The cost breakup displays Material, Conversion, Setup/Tooling, Overheads, Packing/Freight, stating that the commercial margin is not itemised.
+

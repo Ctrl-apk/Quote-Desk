@@ -3,6 +3,11 @@
 > **Production-grade RFQ Costing & Quotation Platform** built for precision manufacturing Tier-1 suppliers (Company A, Chakan, Pune).
 > Reduces quote turnaround from 9 working days to under 4, protects margins with versioned rate traceability, and automates RFQ extraction with human-in-the-loop validation.
 
+🌐 **Live Deployed App:** [https://quote-desk-git-main-ctrl-apks-projects.vercel.app/](https://quote-desk-git-main-ctrl-apks-projects.vercel.app/)  
+📦 **GitHub Repository:** [https://github.com/Ctrl-apk/Quote-Desk](https://github.com/Ctrl-apk/Quote-Desk)
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Vercel-success.svg)](https://quote-desk-git-main-ctrl-apks-projects.vercel.app/)
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-16.x-black.svg)](https://nextjs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-336791.svg)](https://www.postgresql.org/)
